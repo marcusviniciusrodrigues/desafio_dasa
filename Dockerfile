@@ -4,7 +4,7 @@ FROM python:3.8-slim
 # Configuração do ambiente (adiciona uma variável de ambiente para o caminho do arquivo de dados)
 ENV DATA_FILE_PATH=/app/data/annotated_variants.tsv
 
-# Instala dependências do sistema (opcional, ajuste conforme necessário)
+# Instala dependências do sistema (opcional)
 RUN apt-get update && apt-get install -y \
     build-essential \
     libpq-dev \
