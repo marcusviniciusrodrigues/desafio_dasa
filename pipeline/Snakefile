@@ -1,0 +1,11 @@
+rule all:
+    input:
+        "data/annotated_variants.tsv"
+
+rule annotate_variants:
+    input:
+        "data/NIST.vcf"
+    output:
+        "data/annotated_variants.tsv"
+    script:
+        "scripts/annotate_variants.py"

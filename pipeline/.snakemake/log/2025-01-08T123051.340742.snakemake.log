@@ -1,0 +1,6 @@
+Building DAG of jobs...
+MissingInputException in rule annotate_variants in file C:\Users\marcu\OneDrive\Documentos\dasa\bioinformatics-pipeline\pipeline\Snakefile, line 5:
+Missing input files for rule annotate_variants:
+    output: data/annotated_variants.tsv
+    affected files:
+        data/NIST.vcf

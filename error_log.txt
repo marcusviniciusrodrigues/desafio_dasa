@@ -1,0 +1,4262 @@
+Erro NCBI para 1:897564 - Status: 429
+Erro NCBI para 1:1247494 - Status: 429
+Erro NCBI para 1:2938697 - Status: 429
+Erro NCBI para 1:2938924 - Status: 429
+Erro NCBI para 1:2983963 - Status: 429
+Erro NCBI para 1:11854896 - Status: 429
+Erro NCBI para 1:11863057 - Status: 429
+Erro NCBI para 1:11884555 - Status: 429
+Erro NCBI para 1:11898859 - Status: 429
+Erro NCBI para 1:12854105 - Status: 429
+Erro NCBI para 1:12854188 - Status: 429
+Erro NCBI para 1:11899033 - Status: 429
+Erro NCBI para 1:12854414 - Status: 429
+Erro NCBI para 1:12779618 - Status: 429
+Erro NCBI para 1:12855884 - Status: 429
+Erro NCBI para 1:12855895 - Status: 429
+Erro NCBI para 1:12855896 - Status: 429
+Erro NCBI para 1:12856079 - Status: 429
+Erro NCBI para 1:12888629 - Status: 429
+Erro NCBI para 1:12854162 - Status: 429
+Erro NCBI para 1:12907277 - Status: 429
+Erro NCBI para 1:12907282 - Status: 429
+Erro NCBI para 1:12907316 - Status: 429
+Erro NCBI para 1:12907351 - Status: 429
+Erro NCBI para 1:12907370 - Status: 429
+Erro NCBI para 1:12907380 - Status: 429
+Erro NCBI para 1:12907385 - Status: 429
+Erro NCBI para 1:12907446 - Status: 429
+Erro NCBI para 1:12907450 - Status: 429
+Erro NCBI para 1:12907457 - Status: 429
+Erro NCBI para 1:12907458 - Status: 429
+Erro NCBI para 1:12907465 - Status: 429
+Erro NCBI para 1:12907800 - Status: 429
+Erro NCBI para 1:12856111 - Status: 429
+Erro NCBI para 1:12907802 - Status: 429
+Erro NCBI para 1:12907803 - Status: 429
+Erro NCBI para 1:12907837 - Status: 429
+Erro NCBI para 1:12907379 - Status: 429
+Erro NCBI para 1:13001312 - Status: 429
+Erro NCBI para 1:13036447 - Status: 429
+Erro NCBI para 1:13036587 - Status: 429
+Erro NCBI para 1:13183130 - Status: 429
+Erro NCBI para 1:13183180 - Status: 429
+Erro NCBI para 1:13183176 - Status: 429
+Erro NCBI para 1:13183187 - Status: 429
+Erro NCBI para 1:13183213 - Status: 429
+Erro NCBI para 1:13183225 - Status: 429
+Erro NCBI para 1:13183228 - Status: 429
+Erro NCBI para 1:13183237 - Status: 429
+Erro NCBI para 1:13183439 - Status: 429
+Erro NCBI para 1:13183511 - Status: 429
+Erro NCBI para 1:13183528 - Status: 429
+Erro NCBI para 1:13183567 - Status: 429
+Erro NCBI para 1:13183631 - Status: 429
+Erro NCBI para 1:13183573 - Status: 429
+Erro NCBI para 1:13183195 - Status: 429
+Erro NCBI para 1:13695685 - Status: 429
+Erro NCBI para 1:13696022 - Status: 429
+Erro NCBI para 1:13696029 - Status: 429
+Erro NCBI para 1:13183249 - Status: 429
+Erro NCBI para 1:17991052 - Status: 429
+Erro NCBI para 1:18807897 - Status: 429
+Erro NCBI para 1:18808056 - Status: 429
+Erro NCBI para 1:18808069 - Status: 429
+Erro NCBI para 1:18808526 - Status: 429
+Erro NCBI para 1:18808465 - Status: 429
+Erro NCBI para 1:19027239 - Status: 429
+Erro NCBI para 1:20097822 - Status: 429
+Erro NCBI para 1:20097941 - Status: 429
+Erro NCBI para 1:20442054 - Status: 429
+Erro NCBI para 1:21806621 - Status: 429
+Erro NCBI para 1:21808159 - Status: 429
+Erro NCBI para 1:21808207 - Status: 429
+Erro NCBI para 1:21806624 - Status: 429
+Erro NCBI para 1:21808223 - Status: 429
+Erro NCBI para 1:21809750 - Status: 429
+Erro NCBI para 1:21809850 - Status: 429
+Erro NCBI para 1:22927241 - Status: 429
+Erro NCBI para 1:26140573 - Status: 429
+Erro NCBI para 1:26385003 - Status: 429
+Erro NCBI para 1:26487940 - Status: 429
+Erro NCBI para 1:26488019 - Status: 429
+Erro NCBI para 1:26582091 - Status: 429
+Erro NCBI para 1:26496651 - Status: 429
+Erro NCBI para 1:38187447 - Status: 429
+Erro NCBI para 1:38187453 - Status: 429
+Erro NCBI para 1:38188574 - Status: 429
+Erro NCBI para 1:38188768 - Status: 429
+Erro NCBI para 1:38188740 - Status: 429
+Erro NCBI para 1:38188787 - Status: 429
+Erro NCBI para 1:38227086 - Status: 429
+Erro NCBI para 1:39988084 - Status: 429
+Erro NCBI para 1:40098328 - Status: 429
+Erro NCBI para 1:40149642 - Status: 429
+Erro NCBI para 1:40150156 - Status: 429
+Erro NCBI para 1:43649508 - Status: 429
+Erro NCBI para 1:43636484 - Status: 429
+Erro NCBI para 1:47013364 - Status: 429
+Erro NCBI para 1:47059934 - Status: 429
+Erro NCBI para 1:47717189 - Status: 429
+Erro NCBI para 1:62380298 - Status: 429
+Erro NCBI para 1:68603586 - Status: 429
+Erro NCBI para 1:75036812 - Status: 429
+Erro NCBI para 1:75038228 - Status: 429
+Erro NCBI para 1:75172652 - Status: 429
+Erro NCBI para 1:75190452 - Status: 429
+Erro NCBI para 1:86847955 - Status: 429
+Erro NCBI para 1:103354428 - Status: 429
+Erro NCBI para 1:109810200 - Status: 429
+Erro NCBI para 1:109810201 - Status: 429
+Erro NCBI para 1:109810544 - Status: 429
+Erro NCBI para 1:109816176 - Status: 429
+Erro NCBI para 1:111060669 - Status: 429
+Erro NCBI para 1:113241052 - Status: 429
+Erro NCBI para 1:113243048 - Status: 429
+Erro NCBI para 1:113252851 - Status: 429
+Erro NCBI para 1:113255389 - Status: 429
+Erro NCBI para 1:114196495 - Status: 429
+Erro NCBI para 1:115601528 - Status: 429
+Erro NCBI para 1:116206423 - Status: 429
+Erro NCBI para 1:116243877 - Status: 429
+Erro NCBI para 1:116247826 - Status: 429
+Erro NCBI para 1:117656088 - Status: 429
+Erro NCBI para 1:117660754 - Status: 429
+Erro ao acessar Ensembl para 1:92457843 - Exceção: HTTPSConnectionPool(host='rest.ensembl.org', port=443): Max retries exceeded with url: /overlap/region/human/1:92457843-92457843?feature=gene (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024F6B916BE0>: Failed to establish a new connection: [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu\r\ncorretamente após um período de tempo ou a conexão estabelecida falhou\r\nporque o host conectado não respondeu'))
+Erro NCBI para 1:144618123 - Status: 429
+Erro NCBI para 1:144618144 - Status: 429
+Erro NCBI para 1:144618201 - Status: 429
+Erro NCBI para 1:144619346 - Status: 429
+Erro NCBI para 1:144619354 - Status: 429
+Erro NCBI para 1:144619903 - Status: 429
+Erro NCBI para 1:148754942 - Status: 429
+Erro NCBI para 1:148756448 - Status: 429
+Erro NCBI para 1:148756499 - Status: 429
+Erro NCBI para 1:148756518 - Status: 429
+Erro NCBI para 1:148756515 - Status: 429
+Erro NCBI para 1:148756607 - Status: 429
+Erro NCBI para 1:148756648 - Status: 429
+Erro NCBI para 1:149871905 - Status: 429
+Erro NCBI para 1:151867560 - Status: 429
+Erro NCBI para 1:152083325 - Status: 429
+Erro NCBI para 1:152084039 - Status: 429
+Erro NCBI para 1:152552285 - Status: 429
+Erro NCBI para 1:152636843 - Status: 429
+Erro NCBI para 1:152957832 - Status: 429
+Erro NCBI para 1:152957887 - Status: 429
+Erro NCBI para 1:152975495 - Status: 429
+Erro NCBI para 1:152975829 - Status: 429
+Erro NCBI para 1:152975763 - Status: 429
+Erro NCBI para 1:153004848 - Status: 429
+Erro NCBI para 1:153004853 - Status: 429
+Erro NCBI para 1:153004983 - Status: 429
+Erro NCBI para 1:153029137 - Status: 429
+Erro NCBI para 1:153315579 - Status: 429
+Erro NCBI para 1:153320372 - Status: 429
+Erro NCBI para 1:153320401 - Status: 429
+Erro NCBI para 1:153410822 - Status: 429
+Erro NCBI para 1:153431406 - Status: 429
+Erro NCBI para 1:153431435 - Status: 429
+Erro NCBI para 1:155106227 - Status: 429
+Erro NCBI para 1:155149718 - Status: 429
+Erro NCBI para 1:157062696 - Status: 429
+Erro NCBI para 1:157559122 - Status: 429
+Erro NCBI para 1:158986477 - Status: 429
+Erro NCBI para 1:159825004 - Status: 429
+Erro NCBI para 1:160585554 - Status: 429
+Erro NCBI para 1:160793560 - Status: 429
+Erro NCBI para 1:160970089 - Status: 429
+Erro NCBI para 1:161495477 - Status: 429
+Erro NCBI para 1:161495885 - Status: 429
+Erro NCBI para 1:161681780 - Status: 429
+Erro NCBI para 1:169511555 - Status: 429
+Erro NCBI para 1:169511734 - Status: 429
+Erro NCBI para 1:169511755 - Status: 429
+Erro NCBI para 1:169511878 - Status: 429
+Erro NCBI para 1:196801078 - Status: 429
+Erro NCBI para 1:196920148 - Status: 429
+Erro NCBI para 1:197009798 - Status: 429
+Erro NCBI para 1:197030201 - Status: 429
+Erro NCBI para 1:197070442 - Status: 429
+Erro NCBI para 1:197070707 - Status: 429
+Erro NCBI para 1:197070815 - Status: 429
+Erro NCBI para 1:197070776 - Status: 429
+Erro NCBI para 1:197072420 - Status: 429
+Erro NCBI para 1:200026632 - Status: 429
+Erro NCBI para 1:200182733 - Status: 429
+Erro NCBI para 1:200182732 - Status: 429
+Erro NCBI para 1:200182834 - Status: 429
+Erro NCBI para 1:200183398 - Status: 429
+Erro NCBI para 1:201175715 - Status: 429
+Erro NCBI para 1:201176018 - Status: 429
+Erro NCBI para 1:201176968 - Status: 429
+Erro NCBI para 1:201176108 - Status: 429
+Erro NCBI para 1:201178696 - Status: 429
+Erro NCBI para 1:201178702 - Status: 429
+Erro NCBI para 1:201178705 - Status: 429
+Erro NCBI para 1:201178758 - Status: 429
+Erro NCBI para 1:201177538 - Status: 429
+Erro NCBI para 1:201178768 - Status: 429
+Erro NCBI para 1:201178819 - Status: 429
+Erro NCBI para 1:201178904 - Status: 429
+Erro NCBI para 1:201178876 - Status: 429
+Erro NCBI para 1:201178924 - Status: 429
+Erro NCBI para 1:201178926 - Status: 429
+Erro NCBI para 1:201179050 - Status: 429
+Erro NCBI para 1:201179068 - Status: 429
+Erro NCBI para 1:201180085 - Status: 429
+Erro NCBI para 1:201180092 - Status: 429
+Erro NCBI para 1:201180093 - Status: 429
+Erro NCBI para 1:201180100 - Status: 429
+Erro NCBI para 1:201180140 - Status: 429
+Erro NCBI para 1:201180148 - Status: 429
+Erro NCBI para 1:201180162 - Status: 429
+Erro NCBI para 1:201180200 - Status: 429
+Erro NCBI para 1:201180145 - Status: 429
+Erro NCBI para 1:201180222 - Status: 429
+Erro NCBI para 1:201180501 - Status: 429
+Erro NCBI para 1:201181217 - Status: 429
+Erro NCBI para 1:201181223 - Status: 429
+Erro NCBI para 1:201184275 - Status: 429
+Erro NCBI para 1:201252866 - Status: 429
+Erro NCBI para 1:201282573 - Status: 429
+Erro NCBI para 1:201187764 - Status: 429
+Erro NCBI para 1:201981218 - Status: 429
+Erro NCBI para 1:201981862 - Status: 429
+Erro NCBI para 1:204589101 - Status: 429
+Erro NCBI para 1:214826196 - Status: 429
+Erro NCBI para 1:214830617 - Status: 429
+Erro NCBI para 1:219383905 - Status: 429
+Erro NCBI para 1:223178561 - Status: 429
+Erro NCBI para 1:226034909 - Status: 429
+Erro NCBI para 1:228480282 - Status: 429
+Erro NCBI para 1:228528563 - Status: 429
+Erro NCBI para 1:228547901 - Status: 429
+Erro NCBI para 1:228559967 - Status: 429
+Erro NCBI para 1:228699477 - Status: 429
+Erro NCBI para 1:229772693 - Status: 429
+Erro NCBI para 1:229787030 - Status: 429
+Erro NCBI para 1:232941153 - Status: 429
+Erro NCBI para 1:248004687 - Status: 429
+Erro NCBI para 1:247978996 - Status: 429
+Erro NCBI para 1:247978319 - Status: 429
+Erro NCBI para 1:248004614 - Status: 429
+Erro NCBI para 1:248004775 - Status: 429
+Erro NCBI para 1:248004877 - Status: 429
+Erro NCBI para 1:248112763 - Status: 429
+Erro NCBI para 1:248112771 - Status: 429
+Erro NCBI para 1:248112809 - Status: 429
+Erro NCBI para 1:248113026 - Status: 429
+Erro NCBI para 1:248112836 - Status: 429
+Erro NCBI para 1:248113040 - Status: 429
+Erro NCBI para 1:248343543 - Status: 429
+Erro NCBI para 1:248285985 - Status: 429
+Erro NCBI para 1:248343945 - Status: 429
+Erro NCBI para 1:248343990 - Status: 429
+Erro NCBI para 1:248366702 - Status: 429
+Erro NCBI para 1:248263471 - Status: 429
+Erro NCBI para 1:248458717 - Status: 429
+Erro NCBI para 1:248457979 - Status: 429
+Erro NCBI para 1:248458689 - Status: 429
+Erro NCBI para 2:11053020 - Status: 429
+Erro NCBI para 2:11053740 - Status: 429
+Erro NCBI para 2:20824498 - Status: 429
+Erro NCBI para 2:20838222 - Status: 429
+Erro NCBI para 2:20885321 - Status: 429
+Erro NCBI para 2:26667615 - Status: 429
+Erro NCBI para 2:26676322 - Status: 429
+Erro NCBI para 2:26739423 - Status: 429
+Erro NCBI para 2:31805880 - Status: 429
+Erro NCBI para 2:37406680 - Status: 429
+Erro NCBI para 2:44099433 - Status: 429
+Erro NCBI para 2:44104925 - Status: 429
+Erro NCBI para 2:44040401 - Status: 429
+Erro NCBI para 2:48808898 - Status: 429
+Erro NCBI para 2:48808152 - Status: 429
+Erro NCBI para 2:55771161 - Status: 429
+Erro NCBI para 2:55763010 - Status: 429
+Erro NCBI para 2:55805440 - Status: 429
+Erro NCBI para 2:58316814 - Status: 429
+Erro NCBI para 2:58388696 - Status: 429
+Erro NCBI para 2:85925756 - Status: 429
+Erro NCBI para 2:85925848 - Status: 429
+Erro NCBI para 2:88396123 - Status: 429
+Erro NCBI para 2:88407959 - Status: 429
+Erro NCBI para 2:88409984 - Status: 429
+Erro NCBI para 2:88472791 - Status: 429
+Erro NCBI para 2:88874891 - Status: 429
+Erro NCBI para 2:88879131 - Status: 429
+Erro NCBI para 2:89513365 - Status: 429
+Erro NCBI para 2:90121675 - Status: 429
+Erro NCBI para 2:90211969 - Status: 429
+Erro NCBI para 2:90139116 - Status: 429
+Erro NCBI para 2:92129281 - Status: 429
+Erro NCBI para 2:90025483 - Status: 429
+Erro NCBI para 2:96521324 - Status: 429
+Erro NCBI para 2:96521336 - Status: 429
+Erro NCBI para 2:96523194 - Status: 429
+Erro NCBI para 2:96523096 - Status: 429
+Erro NCBI para 2:96525640 - Status: 429
+Erro NCBI para 2:96525652 - Status: 429
+Erro NCBI para 2:96525643 - Status: 429
+Erro NCBI para 2:96525736 - Status: 429
+Erro NCBI para 2:96525750 - Status: 429
+Erro NCBI para 2:96525755 - Status: 429
+Erro NCBI para 2:96525717 - Status: 429
+Erro NCBI para 2:96525768 - Status: 429
+Erro NCBI para 2:96525771 - Status: 429
+Erro NCBI para 2:96525782 - Status: 429
+Erro NCBI para 2:96593016 - Status: 429
+Erro NCBI para 2:97643576 - Status: 429
+Erro NCBI para 2:101594191 - Status: 429
+Erro NCBI para 2:101627925 - Status: 429
+Erro NCBI para 2:101638828 - Status: 429
+Erro NCBI para 2:101656726 - Status: 429
+Erro NCBI para 2:107073501 - Status: 429
+Erro NCBI para 2:107073469 - Status: 429
+Erro NCBI para 2:109099572 - Status: 429
+Erro NCBI para 2:113147159 - Status: 429
+Erro NCBI para 2:113147238 - Status: 429
+Erro ao acessar Ensembl para 2:96617106 - Exceção: HTTPSConnectionPool(host='rest.ensembl.org', port=443): Max retries exceeded with url: /overlap/region/human/2:96617106-96617106?feature=gene (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024F6BE51310>: Failed to establish a new connection: [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu\r\ncorretamente após um período de tempo ou a conexão estabelecida falhou\r\nporque o host conectado não respondeu'))
+Erro NCBI para 2:96617106 - Status: 429
+Erro NCBI para 2:118732831 - Status: 429
+Erro NCBI para 2:120369300 - Status: 429
+Erro NCBI para 2:120438523 - Status: 429
+Erro NCBI para 2:128388790 - Status: 429
+Erro NCBI para 2:128388862 - Status: 429
+Erro NCBI para 2:128393800 - Status: 429
+Erro NCBI para 2:128394758 - Status: 429
+Erro NCBI para 2:128394875 - Status: 429
+Erro NCBI para 2:128394955 - Status: 429
+Erro NCBI para 2:128608184 - Status: 429
+Erro NCBI para 2:128870808 - Status: 429
+Erro NCBI para 2:128878014 - Status: 429
+Erro NCBI para 2:128934400 - Status: 429
+Erro NCBI para 2:128939799 - Status: 429
+Erro NCBI para 2:129075961 - Status: 429
+Erro NCBI para 2:130738163 - Status: 429
+Erro NCBI para 2:130738329 - Status: 429
+Erro NCBI para 2:131415008 - Status: 429
+Erro NCBI para 2:131414394 - Status: 429
+Erro NCBI para 2:132044797 - Status: 429
+Erro NCBI para 2:132044992 - Status: 429
+Erro NCBI para 2:132110862 - Status: 429
+Erro NCBI para 2:152311570 - Status: 429
+Erro NCBI para 2:152322095 - Status: 429
+Erro NCBI para 2:153378459 - Status: 429
+Erro NCBI para 2:153405594 - Status: 429
+Erro NCBI para 2:157406249 - Status: 429
+Erro NCBI para 2:157189011 - Status: 429
+Erro NCBI para 2:160086692 - Status: 429
+Erro NCBI para 2:160604452 - Status: 429
+Erro NCBI para 2:160605268 - Status: 429
+Erro NCBI para 2:160808076 - Status: 429
+Erro NCBI para 2:160901517 - Status: 429
+Erro NCBI para 2:160743040 - Status: 429
+Erro NCBI para 2:166788336 - Status: 429
+Erro NCBI para 2:166797646 - Status: 429
+Erro NCBI para 2:170103351 - Status: 429
+Erro NCBI para 2:170115588 - Status: 429
+Erro NCBI para 2:170115672 - Status: 429
+Erro NCBI para 2:171678625 - Status: 429
+Erro NCBI para 2:175202184 - Status: 429
+Erro NCBI para 2:179432185 - Status: 429
+Erro NCBI para 2:179440029 - Status: 429
+Erro NCBI para 2:179441386 - Status: 429
+Erro NCBI para 2:183622547 - Status: 429
+Erro NCBI para 2:183627504 - Status: 429
+Erro NCBI para 2:183699584 - Status: 429
+Erro NCBI para 2:183799558 - Status: 429
+Erro NCBI para 2:183848053 - Status: 429
+Erro NCBI para 2:183806893 - Status: 429
+Erro NCBI para 2:192701393 - Status: 429
+Erro NCBI para 2:196822004 - Status: 429
+Erro NCBI para 2:202337730 - Status: 429
+Erro NCBI para 2:202357949 - Status: 429
+Erro NCBI para 2:202575821 - Status: 429
+Erro NCBI para 2:204322298 - Status: 429
+Erro NCBI para 2:204116690 - Status: 429
+Erro NCBI para 2:210843383 - Status: 429
+Erro NCBI para 2:226491770 - Status: 429
+Erro NCBI para 2:226447735 - Status: 429
+Erro NCBI para 2:227659846 - Status: 429
+Erro NCBI para 2:228194480 - Status: 429
+Erro NCBI para 2:228194481 - Status: 429
+Erro NCBI para 2:231865090 - Status: 429
+Erro NCBI para 2:231865144 - Status: 429
+Erro NCBI para 2:234227523 - Status: 429
+Erro NCBI para 2:234229320 - Status: 429
+Erro NCBI para 2:234371351 - Status: 429
+Erro NCBI para 2:234590616 - Status: 429
+Erro NCBI para 2:234590969 - Status: 429
+Erro NCBI para 2:234590970 - Status: 429
+Erro NCBI para 2:234590974 - Status: 429
+Erro NCBI para 2:234590975 - Status: 429
+Erro NCBI para 2:234602191 - Status: 429
+Erro NCBI para 2:234602202 - Status: 429
+Erro NCBI para 2:234622429 - Status: 429
+Erro NCBI para 2:234627937 - Status: 429
+Erro NCBI para 2:234637853 - Status: 429
+Erro NCBI para 2:234637912 - Status: 429
+Erro NCBI para 2:234728078 - Status: 429
+Erro NCBI para 2:234737372 - Status: 429
+Erro NCBI para 2:234737380 - Status: 429
+Erro NCBI para 2:234750542 - Status: 429
+Erro NCBI para 2:234750831 - Status: 429
+Erro NCBI para 2:234761225 - Status: 429
+Erro NCBI para 2:239025630 - Status: 429
+Erro NCBI para 2:239025645 - Status: 429
+Erro NCBI para 2:239039057 - Status: 429
+Erro NCBI para 2:240834669 - Status: 429
+Erro NCBI para 2:241538074 - Status: 429
+Erro NCBI para 2:241537421 - Status: 429
+Erro NCBI para 2:241831005 - Status: 429
+Erro NCBI para 2:241831296 - Status: 429
+Erro NCBI para 2:241834944 - Status: 429
+Erro NCBI para 2:241865156 - Status: 429
+Erro Ensembl (posição inválida): 2:242203916
+Erro Ensembl (posição inválida): 2:242573211
+Erro Ensembl (posição inválida): 2:242206311
+Erro Ensembl (posição inválida): 2:242607924
+Erro Ensembl (posição inválida): 2:242610738
+Erro Ensembl (posição inválida): 2:242610773
+Erro Ensembl (posição inválida): 2:242613133
+Erro Ensembl (posição inválida): 2:242613089
+Erro NCBI para 2:242607924 - Status: 429
+Erro NCBI para 2:242610738 - Status: 429
+Erro NCBI para 2:242610773 - Status: 429
+Erro Ensembl (posição inválida): 2:242757597
+Erro NCBI para 2:242613133 - Status: 429
+Erro NCBI para 2:242613089 - Status: 429
+Erro NCBI para 2:242757597 - Status: 429
+Erro Ensembl (posição inválida): 2:242757411
+Erro Ensembl (posição inválida): 2:242758203
+Erro Ensembl (posição inválida): 2:242793273
+Erro Ensembl (posição inválida): 2:242758326
+Erro Ensembl (posição inválida): 2:242839363
+Erro Ensembl (posição inválida): 2:242946430
+Erro Ensembl (posição inválida): 2:242946289
+Erro NCBI para 2:242839363 - Status: 429
+Erro NCBI para 2:242946430 - Status: 429
+Erro NCBI para 2:242946289 - Status: 429
+Erro NCBI para 3:14106003 - Status: 429
+Erro NCBI para 3:14106025 - Status: 429
+Erro NCBI para 3:14106310 - Status: 429
+Erro NCBI para 3:14106332 - Status: 429
+Erro NCBI para 3:14106195 - Status: 429
+Erro NCBI para 3:14106310 - Status: 429
+Erro NCBI para 3:42251263 - Status: 429
+Erro NCBI para 3:42251329 - Status: 429
+Erro NCBI para 3:42251577 - Status: 429
+Erro NCBI para 3:42251498 - Status: 429
+Erro NCBI para 3:43121559 - Status: 429
+Erro NCBI para 3:46487937 - Status: 429
+Erro NCBI para 3:49350033 - Status: 429
+Erro NCBI para 3:52448051 - Status: 429
+Erro NCBI para 3:52430526 - Status: 429
+Erro NCBI para 3:53905308 - Status: 429
+Erro NCBI para 3:53916130 - Status: 429
+Erro NCBI para 3:73111998 - Status: 429
+Erro NCBI para 3:75786500 - Status: 429
+Erro NCBI para 3:75786516 - Status: 429
+Erro NCBI para 3:75786586 - Status: 429
+Erro NCBI para 3:75786572 - Status: 429
+Erro NCBI para 3:75786593 - Status: 429
+Erro NCBI para 3:75786598 - Status: 429
+Erro NCBI para 3:75786608 - Status: 429
+Erro NCBI para 3:75786672 - Status: 429
+Erro NCBI para 3:75786748 - Status: 429
+Erro NCBI para 3:75786753 - Status: 429
+Erro NCBI para 3:75786684 - Status: 429
+Erro NCBI para 3:75786760 - Status: 429
+Erro NCBI para 3:75786662 - Status: 429
+Erro NCBI para 3:75786832 - Status: 429
+Erro NCBI para 3:75787057 - Status: 429
+Erro NCBI para 3:75787049 - Status: 429
+Erro NCBI para 3:75787169 - Status: 429
+Erro NCBI para 3:75787186 - Status: 429
+Erro NCBI para 3:75790797 - Status: 429
+Erro NCBI para 3:75786845 - Status: 429
+Erro NCBI para 3:75790810 - Status: 429
+Erro NCBI para 3:87295049 - Status: 429
+Erro NCBI para 3:89521693 - Status: 429
+Erro NCBI para 3:89521725 - Status: 429
+Erro NCBI para 3:93768268 - Status: 429
+Erro NCBI para 3:93779860 - Status: 429
+Erro NCBI para 3:93780109 - Status: 429
+Erro NCBI para 3:97983561 - Status: 429
+Erro NCBI para 3:97983711 - Status: 429
+Erro NCBI para 3:97983942 - Status: 429
+Erro NCBI para 3:97983981 - Status: 429
+Erro NCBI para 3:98073591 - Status: 429
+Erro NCBI para 3:98217178 - Status: 429
+Erro NCBI para 3:100583651 - Status: 429
+Erro NCBI para 3:105260596 - Status: 429
+Erro NCBI para 3:118867047 - Status: 429
+Erro NCBI para 3:119426307 - Status: 429
+Erro NCBI para 3:122680141 - Status: 429
+Erro NCBI para 3:137807259 - Status: 429
+Erro NCBI para 3:137743508 - Status: 429
+Erro NCBI para 3:137843106 - Status: 429
+Erro NCBI para 3:137843476 - Status: 429
+Erro NCBI para 3:137850003 - Status: 429
+Erro NCBI para 3:145803142 - Status: 429
+Erro NCBI para 3:145917761 - Status: 429
+Erro NCBI para 3:146177815 - Status: 429
+Erro NCBI para 3:149468530 - Status: 429
+Erro NCBI para 3:155314034 - Status: 429
+Erro NCBI para 3:167023624 - Status: 429
+Erro NCBI para 3:167023738 - Status: 429
+Erro ao acessar Ensembl para 3:130947435 - Exceção: HTTPSConnectionPool(host='rest.ensembl.org', port=443): Max retries exceeded with url: /overlap/region/human/3:130947435-130947435?feature=gene (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024F6C12D040>: Failed to establish a new connection: [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu\r\ncorretamente após um período de tempo ou a conexão estabelecida falhou\r\nporque o host conectado não respondeu'))
+Erro NCBI para 3:167034814 - Status: 429
+Erro NCBI para 3:167051726 - Status: 429
+Erro NCBI para 3:167068256 - Status: 429
+Erro NCBI para 3:130947435 - Status: 429
+Erro NCBI para 3:167077691 - Status: 429
+Erro NCBI para 3:182681740 - Status: 429
+Erro NCBI para 3:183560195 - Status: 429
+Erro NCBI para 3:183685534 - Status: 429
+Erro NCBI para 3:183696402 - Status: 429
+Erro NCBI para 3:184293769 - Status: 429
+Erro NCBI para 3:184299167 - Status: 429
+Erro NCBI para 3:184298663 - Status: 429
+Erro NCBI para 3:184046470 - Status: 429
+Erro NCBI para 3:186395572 - Status: 429
+Erro NCBI para 3:187447032 - Status: 429
+Erro NCBI para 3:187088612 - Status: 429
+Erro NCBI para 3:187088926 - Status: 429
+Erro NCBI para 3:191100561 - Status: 429
+Erro NCBI para 3:191093310 - Status: 429
+Erro NCBI para 3:191179193 - Status: 429
+Erro NCBI para 3:193031926 - Status: 429
+Erro NCBI para 3:193036794 - Status: 429
+Erro NCBI para 3:193042776 - Status: 429
+Erro NCBI para 3:193210768 - Status: 429
+Erro NCBI para 3:192994543 - Status: 429
+Erro NCBI para 3:193386239 - Status: 429
+Erro NCBI para 3:195451881 - Status: 429
+Erro NCBI para 3:195452005 - Status: 429
+Erro NCBI para 3:195452018 - Status: 429
+Erro NCBI para 3:195452535 - Status: 429
+Erro NCBI para 3:195452619 - Status: 429
+Erro NCBI para 3:195451697 - Status: 429
+Erro NCBI para 3:195452960 - Status: 429
+Erro NCBI para 3:195452805 - Status: 429
+Erro NCBI para 3:195452980 - Status: 429
+Erro NCBI para 3:195453017 - Status: 429
+Erro NCBI para 3:195453064 - Status: 429
+Erro NCBI para 3:195453249 - Status: 429
+Erro NCBI para 3:195453243 - Status: 429
+Erro NCBI para 3:195467853 - Status: 429
+Erro NCBI para 3:195477786 - Status: 429
+Erro NCBI para 3:195479256 - Status: 429
+Erro NCBI para 3:195489009 - Status: 429
+Erro NCBI para 3:195489067 - Status: 429
+Erro NCBI para 3:195501149 - Status: 429
+Erro NCBI para 3:195497174 - Status: 429
+Erro NCBI para 3:195505774 - Status: 429
+Erro NCBI para 3:195505787 - Status: 429
+Erro NCBI para 3:195505788 - Status: 429
+Erro NCBI para 3:195505790 - Status: 429
+Erro NCBI para 3:195505801 - Status: 429
+Erro NCBI para 3:195505814 - Status: 429
+Erro NCBI para 3:195505835 - Status: 429
+Erro NCBI para 3:195505886 - Status: 429
+Erro NCBI para 3:195505892 - Status: 429
+Erro NCBI para 3:195505906 - Status: 429
+Erro NCBI para 3:195505907 - Status: 429
+Erro NCBI para 3:195505909 - Status: 429
+Erro NCBI para 3:195505910 - Status: 429
+Erro NCBI para 3:195505925 - Status: 429
+Erro NCBI para 3:195505955 - Status: 429
+Erro NCBI para 3:195505944 - Status: 429
+Erro NCBI para 3:195505979 - Status: 429
+Erro NCBI para 3:195506005 - Status: 429
+Erro NCBI para 3:195506007 - Status: 429
+Erro NCBI para 3:195506037 - Status: 429
+Erro NCBI para 3:195506137 - Status: 429
+Erro NCBI para 3:195506118 - Status: 429
+Erro NCBI para 3:195506227 - Status: 429
+Erro NCBI para 3:195506245 - Status: 429
+Erro NCBI para 3:195506341 - Status: 429
+Erro NCBI para 3:195506342 - Status: 429
+Erro NCBI para 3:195506354 - Status: 429
+Erro NCBI para 3:195506582 - Status: 429
+Erro NCBI para 3:195506603 - Status: 429
+Erro NCBI para 3:195506530 - Status: 429
+Erro NCBI para 3:195506606 - Status: 429
+Erro NCBI para 3:195506626 - Status: 429
+Erro NCBI para 3:195506746 - Status: 429
+Erro NCBI para 3:195506940 - Status: 429
+Erro NCBI para 3:195506914 - Status: 429
+Erro NCBI para 3:195506953 - Status: 429
+Erro NCBI para 3:195506627 - Status: 429
+Erro NCBI para 3:195506963 - Status: 429
+Erro NCBI para 3:195506917 - Status: 429
+Erro NCBI para 3:195507001 - Status: 429
+Erro NCBI para 3:195507107 - Status: 429
+Erro NCBI para 3:195507166 - Status: 429
+Erro NCBI para 3:195507193 - Status: 429
+Erro NCBI para 3:195507062 - Status: 429
+Erro NCBI para 3:195507221 - Status: 429
+Erro NCBI para 3:195507262 - Status: 429
+Erro NCBI para 3:195507323 - Status: 429
+Erro NCBI para 3:195507324 - Status: 429
+Erro NCBI para 3:195507251 - Status: 429
+Erro NCBI para 3:195507358 - Status: 429
+Erro NCBI para 3:195507332 - Status: 429
+Erro NCBI para 3:195507372 - Status: 429
+Erro NCBI para 3:195507370 - Status: 429
+Erro NCBI para 3:195507398 - Status: 429
+Erro NCBI para 3:195507406 - Status: 429
+Erro NCBI para 3:195507412 - Status: 429
+Erro NCBI para 3:195507446 - Status: 429
+Erro NCBI para 3:195507428 - Status: 429
+Erro NCBI para 3:195507445 - Status: 429
+Erro NCBI para 3:195507461 - Status: 429
+Erro NCBI para 3:195507481 - Status: 429
+Erro NCBI para 3:195507433 - Status: 429
+Erro NCBI para 3:195507475 - Status: 429
+Erro NCBI para 3:195507591 - Status: 429
+Erro NCBI para 3:195507604 - Status: 429
+Erro NCBI para 3:195507543 - Status: 429
+Erro NCBI para 3:195507666 - Status: 429
+Erro NCBI para 3:195507673 - Status: 429
+Erro NCBI para 3:195507675 - Status: 429
+Erro NCBI para 3:195507579 - Status: 429
+Erro NCBI para 3:195507731 - Status: 429
+Erro NCBI para 3:195507717 - Status: 429
+Erro NCBI para 3:195507702 - Status: 429
+Erro NCBI para 3:195507735 - Status: 429
+Erro NCBI para 3:195507744 - Status: 429
+Erro NCBI para 3:195507756 - Status: 429
+Erro NCBI para 3:195507762 - Status: 429
+Erro NCBI para 3:195507858 - Status: 429
+Erro NCBI para 3:195507846 - Status: 429
+Erro NCBI para 3:195507915 - Status: 429
+Erro NCBI para 3:195507925 - Status: 429
+Erro NCBI para 3:195507941 - Status: 429
+Erro NCBI para 3:195507943 - Status: 429
+Erro NCBI para 3:195508066 - Status: 429
+Erro NCBI para 3:195508067 - Status: 429
+Erro NCBI para 3:195508057 - Status: 429
+Erro NCBI para 3:195508070 - Status: 429
+Erro NCBI para 3:195507999 - Status: 429
+Erro NCBI para 3:195508091 - Status: 429
+Erro NCBI para 3:195508069 - Status: 429
+Erro NCBI para 3:195508130 - Status: 429
+Erro NCBI para 3:195508230 - Status: 429
+Erro NCBI para 3:195508231 - Status: 429
+Erro NCBI para 3:195508235 - Status: 429
+Erro NCBI para 3:195508249 - Status: 429
+Erro NCBI para 3:195508238 - Status: 429
+Erro NCBI para 3:195508393 - Status: 429
+Erro NCBI para 3:195508454 - Status: 429
+Erro NCBI para 3:195508416 - Status: 429
+Erro NCBI para 3:195508451 - Status: 429
+Erro NCBI para 3:195508452 - Status: 429
+Erro NCBI para 3:195508453 - Status: 429
+Erro NCBI para 3:195508418 - Status: 429
+Erro NCBI para 3:195508500 - Status: 429
+Erro NCBI para 3:195508501 - Status: 429
+Erro NCBI para 3:195508499 - Status: 429
+Erro NCBI para 3:195508502 - Status: 429
+Erro NCBI para 3:195508518 - Status: 429
+Erro NCBI para 3:195508510 - Status: 429
+Erro NCBI para 3:195508523 - Status: 429
+Erro NCBI para 3:195508702 - Status: 429
+Erro NCBI para 3:195508854 - Status: 429
+Erro NCBI para 3:195508526 - Status: 429
+Erro NCBI para 3:195508670 - Status: 429
+Erro NCBI para 3:195508691 - Status: 429
+Erro NCBI para 3:195508537 - Status: 429
+Erro NCBI para 3:195508986 - Status: 429
+Erro NCBI para 3:195509331 - Status: 429
+Erro NCBI para 3:195509036 - Status: 429
+Erro NCBI para 3:195509127 - Status: 429
+Erro NCBI para 3:195509102 - Status: 429
+Erro NCBI para 3:195509287 - Status: 429
+Erro NCBI para 3:195509388 - Status: 429
+Erro NCBI para 3:195509402 - Status: 429
+Erro NCBI para 3:195509477 - Status: 429
+Erro NCBI para 3:195509545 - Status: 429
+Erro NCBI para 3:195509515 - Status: 429
+Erro NCBI para 3:195509579 - Status: 429
+Erro NCBI para 3:195509582 - Status: 429
+Erro NCBI para 3:195509566 - Status: 429
+Erro NCBI para 3:195509600 - Status: 429
+Erro NCBI para 3:195509689 - Status: 429
+Erro NCBI para 3:195509769 - Status: 429
+Erro NCBI para 3:195509756 - Status: 429
+Erro NCBI para 3:195509820 - Status: 429
+Erro NCBI para 3:195509795 - Status: 429
+Erro NCBI para 3:195509880 - Status: 429
+Erro NCBI para 3:195509918 - Status: 429
+Erro NCBI para 3:195509954 - Status: 429
+Erro NCBI para 3:195509964 - Status: 429
+Erro NCBI para 3:195509974 - Status: 429
+Erro NCBI para 3:195510062 - Status: 429
+Erro NCBI para 3:195510251 - Status: 429
+Erro NCBI para 3:195510238 - Status: 429
+Erro NCBI para 3:195509957 - Status: 429
+Erro NCBI para 3:195510266 - Status: 429
+Erro NCBI para 3:195510254 - Status: 429
+Erro NCBI para 3:195510271 - Status: 429
+Erro NCBI para 3:195510611 - Status: 429
+Erro NCBI para 3:195510613 - Status: 429
+Erro NCBI para 3:195510636 - Status: 429
+Erro NCBI para 3:195510614 - Status: 429
+Erro NCBI para 3:195510707 - Status: 429
+Erro NCBI para 3:195510655 - Status: 429
+Erro NCBI para 3:195510762 - Status: 429
+Erro NCBI para 3:195510745 - Status: 429
+Erro NCBI para 3:195510767 - Status: 429
+Erro NCBI para 3:195510773 - Status: 429
+Erro NCBI para 3:195510786 - Status: 429
+Erro NCBI para 3:195510827 - Status: 429
+Erro NCBI para 3:195510878 - Status: 429
+Erro NCBI para 3:195510900 - Status: 429
+Erro NCBI para 3:195510910 - Status: 429
+Erro NCBI para 3:195510943 - Status: 429
+Erro NCBI para 3:195510933 - Status: 429
+Erro NCBI para 3:195510964 - Status: 429
+Erro NCBI para 3:195510966 - Status: 429
+Erro NCBI para 3:195511204 - Status: 429
+Erro NCBI para 3:195511211 - Status: 429
+Erro NCBI para 3:195511262 - Status: 429
+Erro NCBI para 3:195511268 - Status: 429
+Erro NCBI para 3:195511283 - Status: 429
+Erro NCBI para 3:195511316 - Status: 429
+Erro NCBI para 3:195511331 - Status: 429
+Erro NCBI para 3:195511431 - Status: 429
+Erro NCBI para 3:195511474 - Status: 429
+Erro NCBI para 3:195511454 - Status: 429
+Erro NCBI para 3:195511525 - Status: 429
+Erro NCBI para 3:195511523 - Status: 429
+Erro NCBI para 3:195511526 - Status: 429
+Erro NCBI para 3:195511534 - Status: 429
+Erro NCBI para 3:195511575 - Status: 429
+Erro NCBI para 3:195511668 - Status: 429
+Erro NCBI para 3:195511690 - Status: 429
+Erro NCBI para 3:195511740 - Status: 429
+Erro NCBI para 3:195511638 - Status: 429
+Erro NCBI para 3:195511743 - Status: 429
+Erro NCBI para 3:195511780 - Status: 429
+Erro NCBI para 3:195511822 - Status: 429
+Erro NCBI para 3:195511918 - Status: 429
+Erro NCBI para 3:195511937 - Status: 429
+Erro NCBI para 3:195511783 - Status: 429
+Erro NCBI para 3:195511959 - Status: 429
+Erro NCBI para 3:195511993 - Status: 429
+Erro NCBI para 3:195512004 - Status: 429
+Erro NCBI para 3:195512107 - Status: 429
+Erro NCBI para 3:195512302 - Status: 429
+Erro NCBI para 3:195512287 - Status: 429
+Erro NCBI para 3:195512343 - Status: 429
+Erro NCBI para 3:195512042 - Status: 429
+Erro NCBI para 3:195512445 - Status: 429
+Erro NCBI para 3:195512686 - Status: 429
+Erro NCBI para 3:195512665 - Status: 429
+Erro NCBI para 3:195512412 - Status: 429
+Erro NCBI para 3:195512742 - Status: 429
+Erro NCBI para 3:195512767 - Status: 429
+Erro NCBI para 3:195512568 - Status: 429
+Erro NCBI para 3:195512693 - Status: 429
+Erro NCBI para 3:195513364 - Status: 429
+Erro NCBI para 3:195513345 - Status: 429
+Erro NCBI para 3:195513383 - Status: 429
+Erro NCBI para 3:195513413 - Status: 429
+Erro NCBI para 3:195513420 - Status: 429
+Erro NCBI para 3:195513426 - Status: 429
+Erro NCBI para 3:195513433 - Status: 429
+Erro NCBI para 3:195513474 - Status: 429
+Erro NCBI para 3:195513519 - Status: 429
+Erro NCBI para 3:195513442 - Status: 429
+Erro NCBI para 3:195513515 - Status: 429
+Erro NCBI para 3:195513502 - Status: 429
+Erro NCBI para 3:195513667 - Status: 429
+Erro NCBI para 3:195513779 - Status: 429
+Erro NCBI para 3:195513831 - Status: 429
+Erro NCBI para 3:195513847 - Status: 429
+Erro NCBI para 3:195513874 - Status: 429
+Erro NCBI para 3:195513743 - Status: 429
+Erro NCBI para 3:195513846 - Status: 429
+Erro NCBI para 3:195514403 - Status: 429
+Erro NCBI para 3:195514393 - Status: 429
+Erro NCBI para 3:195513906 - Status: 429
+Erro NCBI para 3:195514407 - Status: 429
+Erro NCBI para 3:195514144 - Status: 429
+Erro NCBI para 4:4249855 - Status: 429
+Erro NCBI para 4:54966919 - Status: 429
+Erro NCBI para 4:55133726 - Status: 429
+Erro NCBI para 4:55139771 - Status: 429
+Erro NCBI para 4:55143577 - Status: 429
+Erro NCBI para 4:57219592 - Status: 429
+Erro NCBI para 4:57219613 - Status: 429
+Erro NCBI para 4:57237683 - Status: 429
+Erro NCBI para 4:57397050 - Status: 429
+Erro NCBI para 4:57270197 - Status: 429
+Erro NCBI para 4:57273840 - Status: 429
+Erro NCBI para 4:57397082 - Status: 429
+Erro NCBI para 4:57797100 - Status: 429
+Erro NCBI para 4:57797253 - Status: 429
+Erro NCBI para 4:57797265 - Status: 429
+Erro NCBI para 4:57797308 - Status: 429
+Erro NCBI para 4:57889677 - Status: 429
+Erro NCBI para 4:68384008 - Status: 429
+Erro NCBI para 4:68380215 - Status: 429
+Erro NCBI para 4:68374597 - Status: 429
+Erro NCBI para 4:68812283 - Status: 429
+Erro NCBI para 4:73942678 - Status: 429
+Erro NCBI para 4:72618334 - Status: 429
+Erro NCBI para 4:74735244 - Status: 429
+Erro NCBI para 4:74863997 - Status: 429
+Erro NCBI para 4:76878716 - Status: 429
+Erro NCBI para 4:77637502 - Status: 429
+Erro NCBI para 4:77660162 - Status: 429
+Erro NCBI para 4:77662309 - Status: 429
+Erro NCBI para 4:77675925 - Status: 429
+Erro NCBI para 4:77675505 - Status: 429
+Erro NCBI para 4:79455714 - Status: 429
+Erro NCBI para 4:79385719 - Status: 429
+Erro NCBI para 4:96123981 - Status: 429
+Erro NCBI para 4:100268190 - Status: 429
+Erro NCBI para 4:103518700 - Status: 429
+Erro NCBI para 4:103822298 - Status: 429
+Erro NCBI para 4:103822404 - Status: 429
+Erro NCBI para 4:103826685 - Status: 429
+Erro NCBI para 4:103832611 - Status: 429
+Erro NCBI para 4:103832650 - Status: 429
+Erro NCBI para 4:103911069 - Status: 429
+Erro NCBI para 4:104082349 - Status: 429
+Erro NCBI para 4:106474096 - Status: 429
+Erro NCBI para 4:110737389 - Status: 429
+Erro NCBI para 4:110773067 - Status: 429
+Erro NCBI para 4:128565000 - Status: 429
+Erro NCBI para 4:126412575 - Status: 429
+Erro NCBI para 4:140811063 - Status: 429
+Erro NCBI para 4:140811135 - Status: 429
+Erro NCBI para 4:154519764 - Status: 429
+Erro NCBI para 4:154624656 - Status: 429
+Erro NCBI para 4:155411065 - Status: 429
+Erro NCBI para 4:155411104 - Status: 429
+Erro NCBI para 4:155411649 - Status: 429
+Erro NCBI para 4:155411939 - Status: 429
+Erro NCBI para 4:155412464 - Status: 429
+Erro NCBI para 4:155491759 - Status: 429
+Erro NCBI para 4:159894250 - Status: 429
+Erro NCBI para 4:159894305 - Status: 429
+Erro NCBI para 4:159894391 - Status: 429
+Erro NCBI para 4:160277276 - Status: 429
+Erro NCBI para 4:164466824 - Status: 429
+Erro NCBI para 4:164440581 - Status: 429
+Erro NCBI para 4:178274694 - Status: 429
+Erro NCBI para 4:178274750 - Status: 429
+Erro NCBI para 4:178359960 - Status: 429
+Erro NCBI para 4:183720850 - Status: 429
+Erro NCBI para 4:187078819 - Status: 429
+Erro NCBI para 4:187113041 - Status: 429
+Erro NCBI para 4:187122319 - Status: 429
+Erro NCBI para 4:187120211 - Status: 429
+Erro NCBI para 4:187179210 - Status: 429
+Erro NCBI para 4:187531022 - Status: 429
+Erro Ensembl (posição inválida): 4:190395072
+Erro Ensembl (posição inválida): 4:190862182
+Erro Ensembl (posição inválida): 4:190874234
+Erro Ensembl (posição inválida): 4:190874256
+Erro Ensembl (posição inválida): 4:190876192
+Erro Ensembl (posição inválida): 4:190876195
+Erro Ensembl (posição inválida): 4:190876204
+Erro Ensembl (posição inválida): 4:190876242
+Erro NCBI para 4:190876192 - Status: 429
+Erro Ensembl (posição inválida): 4:190878563
+Erro Ensembl (posição inválida): 4:190878597
+Erro NCBI para 4:190876195 - Status: 429
+Erro NCBI para 4:190876204 - Status: 429
+Erro NCBI para 4:190876242 - Status: 429
+Erro NCBI para 4:190878563 - Status: 429
+Erro NCBI para 4:190878597 - Status: 429
+Erro Ensembl (posição inválida): 4:190878654
+Erro Ensembl (posição inválida): 4:190903688
+Erro Ensembl (posição inválida): 4:190903950
+Erro Ensembl (posição inválida): 4:190904030
+Erro Ensembl (posição inválida): 4:190904058
+Erro NCBI para 4:190904030 - Status: 429
+Erro Ensembl (posição inválida): 4:190904414
+Erro Ensembl (posição inválida): 4:190904448
+Erro Ensembl (posição inválida): 4:190903938
+Erro NCBI para 4:190904058 - Status: 429
+Erro NCBI para 4:190904414 - Status: 429
+Erro Ensembl (posição inválida): 4:190904031
+Erro NCBI para 4:190904448 - Status: 429
+Erro NCBI para 4:190903938 - Status: 429
+Erro Ensembl (posição inválida): 4:190905506
+Erro Ensembl (posição inválida): 4:190906025
+Erro Ensembl (posição inválida): 4:190989213
+Erro Ensembl (posição inválida): 4:190904383
+Erro Ensembl (posição inválida): 4:190989199
+Erro Ensembl (posição inválida): 4:190989221
+Erro Ensembl (posição inválida): 4:190989228
+Erro NCBI para 4:190989213 - Status: 429
+Erro NCBI para 4:190904383 - Status: 429
+Erro NCBI para 4:190989199 - Status: 429
+Erro Ensembl (posição inválida): 4:190989240
+Erro NCBI para 4:190989221 - Status: 429
+Erro NCBI para 4:190989228 - Status: 429
+Erro NCBI para 4:190989240 - Status: 429
+Erro Ensembl (posição inválida): 4:190989251
+Erro Ensembl (posição inválida): 4:190989266
+Erro Ensembl (posição inválida): 4:190989278
+Erro Ensembl (posição inválida): 4:190989281
+Erro Ensembl (posição inválida): 4:190989307
+Erro Ensembl (posição inválida): 4:190989325
+Erro Ensembl (posição inválida): 4:190989290
+Erro Ensembl (posição inválida): 4:190989333
+Erro NCBI para 4:190989281 - Status: 429
+Erro NCBI para 4:190989307 - Status: 429
+Erro NCBI para 4:190989325 - Status: 429
+Erro Ensembl (posição inválida): 4:190989347
+Erro NCBI para 4:190989290 - Status: 429
+Erro Ensembl (posição inválida): 4:190989356
+Erro NCBI para 4:190989333 - Status: 429
+Erro NCBI para 4:190989347 - Status: 429
+Erro NCBI para 4:190989356 - Status: 429
+Erro Ensembl (posição inválida): 4:190989372
+Erro Ensembl (posição inválida): 4:190989364
+Erro Ensembl (posição inválida): 4:190989583
+Erro Ensembl (posição inválida): 4:190989584
+Erro Ensembl (posição inválida): 4:190989599
+Erro Ensembl (posição inválida): 4:190989600
+Erro Ensembl (posição inválida): 4:190989608
+Erro Ensembl (posição inválida): 4:190989610
+Erro NCBI para 4:190989584 - Status: 429
+Erro NCBI para 4:190989600 - Status: 429
+Erro Ensembl (posição inválida): 4:190989615
+Erro NCBI para 4:190989608 - Status: 429
+Erro Ensembl (posição inválida): 4:190989621
+Erro NCBI para 4:190989610 - Status: 429
+Erro NCBI para 4:190989615 - Status: 429
+Erro NCBI para 4:190989621 - Status: 429
+Erro Ensembl (posição inválida): 4:190989624
+Erro Ensembl (posição inválida): 4:190989629
+Erro Ensembl (posição inválida): 4:190989653
+Erro Ensembl (posição inválida): 4:190989677
+Erro Ensembl (posição inválida): 4:190989666
+Erro Ensembl (posição inválida): 4:190989721
+Erro Ensembl (posição inválida): 4:190989727
+Erro NCBI para 4:190989666 - Status: 429
+Erro NCBI para 4:190989721 - Status: 429
+Erro NCBI para 4:190989727 - Status: 429
+Erro Ensembl (posição inválida): 4:191003072
+Erro Ensembl (posição inválida): 4:191003056
+Erro Ensembl (posição inválida): 4:191003086
+Erro Ensembl (posição inválida): 4:191003136
+Erro Ensembl (posição inválida): 4:190989630
+Erro NCBI para 4:191003136 - Status: 429
+Erro NCBI para 4:190989630 - Status: 429
+Erro Ensembl (posição inválida): 4:191003151
+Erro Ensembl (posição inválida): 4:191003144
+Erro Ensembl (posição inválida): 4:191003161
+Erro Ensembl (posição inválida): 4:191003163
+Erro Ensembl (posição inválida): 4:191003172
+Erro NCBI para 4:191003163 - Status: 429
+Erro NCBI para 4:191003172 - Status: 429
+Erro Ensembl (posição inválida): 4:191003183
+Erro Ensembl (posição inválida): 4:191003016
+Erro Ensembl (posição inválida): 4:191003191
+Erro Ensembl (posição inválida): 4:191003197
+Erro Ensembl (posição inválida): 4:191003198
+Erro Ensembl (posição inválida): 4:191003202
+Erro Ensembl (posição inválida): 4:191003087
+Erro Ensembl (posição inválida): 4:191003204
+Erro Ensembl (posição inválida): 4:191003112
+Erro Ensembl (posição inválida): 4:191003210
+Erro Ensembl (posição inválida): 4:191003118
+Erro Ensembl (posição inválida): 4:191003212
+Erro Ensembl (posição inválida): 4:191003231
+Erro NCBI para 4:191003118 - Status: 429
+Erro Ensembl (posição inválida): 4:191003237
+Erro NCBI para 4:191003231 - Status: 429
+Erro Ensembl (posição inválida): 4:191003123
+Erro Ensembl (posição inválida): 4:191003238
+Erro NCBI para 4:191003123 - Status: 429
+Erro Ensembl (posição inválida): 4:191003240
+Erro Ensembl (posição inválida): 4:191003242
+Erro Ensembl (posição inválida): 4:191003252
+Erro NCBI para 4:191003242 - Status: 429
+Erro NCBI para 4:191003252 - Status: 429
+Erro Ensembl (posição inválida): 4:191003255
+Erro Ensembl (posição inválida): 4:191003253
+Erro Ensembl (posição inválida): 4:191003180
+Erro Ensembl (posição inválida): 4:191003187
+Erro Ensembl (posição inválida): 4:191003258
+Erro NCBI para 4:191003253 - Status: 429
+Erro Ensembl (posição inválida): 4:191003260
+Erro Ensembl (posição inválida): 4:191003267
+Erro Ensembl (posição inválida): 4:191003270
+Erro NCBI para 4:191003258 - Status: 429
+Erro NCBI para 4:191003260 - Status: 429
+Erro NCBI para 4:191003267 - Status: 429
+Erro NCBI para 4:191003270 - Status: 429
+Erro Ensembl (posição inválida): 4:191003273
+Erro Ensembl (posição inválida): 4:191003277
+Erro Ensembl (posição inválida): 4:191003278
+Erro Ensembl (posição inválida): 4:191003289
+Erro Ensembl (posição inválida): 4:191003290
+Erro Ensembl (posição inválida): 4:191003291
+Erro Ensembl (posição inválida): 4:191003295
+Erro Ensembl (posição inválida): 4:191003298
+Erro NCBI para 4:191003289 - Status: 429
+Erro NCBI para 4:191003290 - Status: 429
+Erro Ensembl (posição inválida): 4:191003179
+Erro NCBI para 4:191003291 - Status: 429
+Erro NCBI para 4:191003295 - Status: 429
+Erro NCBI para 4:191003298 - Status: 429
+Erro Ensembl (posição inválida): 4:191003299
+Erro Ensembl (posição inválida): 4:191003328
+Erro Ensembl (posição inválida): 4:191003181
+Erro Ensembl (posição inválida): 4:191003331
+Erro Ensembl (posição inválida): 4:191003340
+Erro Ensembl (posição inválida): 4:191003354
+Erro NCBI para 4:191003181 - Status: 429
+Erro Ensembl (posição inválida): 4:191003360
+Erro Ensembl (posição inválida): 4:191003357
+Erro NCBI para 4:191003331 - Status: 429
+Erro NCBI para 4:191003329 - Status: 429
+Erro NCBI para 4:191003340 - Status: 429
+Erro NCBI para 4:191003354 - Status: 429
+Erro Ensembl (posição inválida): 4:191003375
+Erro NCBI para 4:191003357 - Status: 429
+Erro NCBI para 4:191003360 - Status: 429
+Erro Ensembl (posição inválida): 4:191003434
+Erro Ensembl (posição inválida): 4:191003453
+Erro Ensembl (posição inválida): 4:191003471
+Erro Ensembl (posição inválida): 4:191003500
+Erro Ensembl (posição inválida): 4:191003516
+Erro Ensembl (posição inválida): 4:191003522
+Erro NCBI para 4:191003471 - Status: 429
+Erro NCBI para 4:191003516 - Status: 429
+Erro NCBI para 4:191003500 - Status: 429
+Erro NCBI para 4:191003522 - Status: 429
+Erro NCBI para 5:52379277 - Status: 429
+Erro NCBI para 5:52351413 - Status: 429
+Erro NCBI para 5:50053015 - Status: 429
+Erro NCBI para 5:52193287 - Status: 429
+Erro NCBI para 5:54960673 - Status: 429
+Erro NCBI para 5:54960687 - Status: 429
+Erro NCBI para 5:55178976 - Status: 429
+Erro NCBI para 5:57754851 - Status: 429
+Erro NCBI para 5:58297881 - Status: 429
+Erro NCBI para 5:66459878 - Status: 429
+Erro NCBI para 5:66480004 - Status: 429
+Erro NCBI para 5:66492412 - Status: 429
+Erro NCBI para 5:72419456 - Status: 429
+Erro NCBI para 5:75923285 - Status: 429
+Erro NCBI para 5:75932869 - Status: 429
+Erro NCBI para 5:75932965 - Status: 429
+Erro NCBI para 5:75948650 - Status: 429
+Erro NCBI para 5:75960865 - Status: 429
+Erro NCBI para 5:75964507 - Status: 429
+Erro NCBI para 5:78340296 - Status: 429
+Erro NCBI para 5:102338739 - Status: 429
+Erro NCBI para 5:102345546 - Status: 429
+Erro NCBI para 5:110819753 - Status: 429
+Erro NCBI para 5:121413208 - Status: 429
+Erro NCBI para 5:121487969 - Status: 429
+Erro NCBI para 5:122758268 - Status: 429
+Erro NCBI para 5:123983915 - Status: 429
+Erro NCBI para 5:123984763 - Status: 429
+Erro NCBI para 5:140174622 - Status: 429
+Erro NCBI para 5:140174865 - Status: 429
+Erro NCBI para 5:140346712 - Status: 429
+Erro NCBI para 5:140347053 - Status: 429
+Erro NCBI para 5:140626627 - Status: 429
+Erro NCBI para 5:140626664 - Status: 429
+Erro NCBI para 5:140626566 - Status: 429
+Erro NCBI para 5:140626668 - Status: 429
+Erro NCBI para 5:140626670 - Status: 429
+Erro NCBI para 5:140774689 - Status: 429
+Erro NCBI para 5:149456772 - Status: 429
+Erro NCBI para 5:149457678 - Status: 429
+Erro NCBI para 5:149460553 - Status: 429
+Erro NCBI para 5:153413390 - Status: 429
+Erro NCBI para 5:157073747 - Status: 429
+Erro NCBI para 5:157075846 - Status: 429
+Erro NCBI para 5:161114522 - Status: 429
+Erro NCBI para 5:161119071 - Status: 429
+Erro NCBI para 5:161119125 - Status: 429
+Erro NCBI para 5:161128761 - Status: 429
+Erro NCBI para 5:169535522 - Status: 429
+Erro NCBI para 5:176517170 - Status: 429
+Erro NCBI para 5:176517292 - Status: 429
+Erro NCBI para 5:176517461 - Status: 429
+Erro NCBI para 5:176517797 - Status: 429
+Erro NCBI para 5:176518784 - Status: 429
+Erro NCBI para 6:27327349 - Status: 429
+Erro NCBI para 6:27327607 - Status: 429
+Erro NCBI para 6:27420048 - Status: 429
+Erro NCBI para 6:27858421 - Status: 429
+Erro NCBI para 6:27835272 - Status: 429
+Erro NCBI para 6:28891176 - Status: 429
+Erro NCBI para 6:28963248 - Status: 429
+Erro NCBI para 6:29012067 - Status: 429
+Erro NCBI para 6:29012116 - Status: 429
+Erro NCBI para 6:29634012 - Status: 429
+Erro NCBI para 6:30078330 - Status: 429
+Erro NCBI para 6:30080496 - Status: 429
+Erro NCBI para 6:30131585 - Status: 429
+Erro NCBI para 6:30131546 - Status: 429
+Erro NCBI para 6:30122154 - Status: 429
+Erro NCBI para 6:30530245 - Status: 429
+Erro NCBI para 6:30865204 - Status: 429
+Erro NCBI para 6:30993958 - Status: 429
+Erro NCBI para 6:30993499 - Status: 429
+Erro NCBI para 6:30994327 - Status: 429
+Erro NCBI para 6:30997692 - Status: 429
+Erro NCBI para 6:31079236 - Status: 429
+Erro NCBI para 6:31079643 - Status: 429
+Erro NCBI para 6:31079644 - Status: 429
+Erro NCBI para 6:31080016 - Status: 429
+Erro NCBI para 6:31083813 - Status: 429
+Erro NCBI para 6:31084075 - Status: 429
+Erro NCBI para 6:31084163 - Status: 429
+Erro NCBI para 6:31084288 - Status: 429
+Erro NCBI para 6:31084639 - Status: 429
+Erro NCBI para 6:31084942 - Status: 429
+Erro NCBI para 6:31084964 - Status: 429
+Erro NCBI para 6:31085200 - Status: 429
+Erro NCBI para 6:31085269 - Status: 429
+Erro NCBI para 6:31105857 - Status: 429
+Erro NCBI para 6:31105891 - Status: 429
+Erro NCBI para 6:31106499 - Status: 429
+Erro NCBI para 6:31110786 - Status: 429
+Erro NCBI para 6:31111180 - Status: 429
+Erro NCBI para 6:31110391 - Status: 429
+Erro NCBI para 6:31112602 - Status: 429
+Erro NCBI para 6:31113052 - Status: 429
+Erro NCBI para 6:31237162 - Status: 429
+Erro NCBI para 6:31237723 - Status: 429
+Erro NCBI para 6:31237727 - Status: 429
+Erro NCBI para 6:31237767 - Status: 429
+Erro NCBI para 6:31237771 - Status: 429
+Erro NCBI para 6:31237769 - Status: 429
+Erro NCBI para 6:31238009 - Status: 429
+Erro NCBI para 6:31237774 - Status: 429
+Erro NCBI para 6:31237773 - Status: 429
+Erro NCBI para 6:31237802 - Status: 429
+Erro NCBI para 6:31238010 - Status: 429
+Erro NCBI para 6:31238029 - Status: 429
+Erro NCBI para 6:31238053 - Status: 429
+Erro NCBI para 6:31238155 - Status: 429
+Erro NCBI para 6:31238230 - Status: 429
+Erro NCBI para 6:31238259 - Status: 429
+Erro NCBI para 6:31238234 - Status: 429
+Erro NCBI para 6:31238851 - Status: 429
+Erro NCBI para 6:31238859 - Status: 429
+Erro NCBI para 6:31238866 - Status: 429
+Erro NCBI para 6:31238930 - Status: 429
+Erro NCBI para 6:31238931 - Status: 429
+Erro NCBI para 6:31238942 - Status: 429
+Erro NCBI para 6:31238957 - Status: 429
+Erro NCBI para 6:31238992 - Status: 429
+Erro NCBI para 6:31239006 - Status: 429
+Erro NCBI para 6:31239050 - Status: 429
+Erro NCBI para 6:31239430 - Status: 429
+Erro NCBI para 6:31239602 - Status: 429
+Erro NCBI para 6:31239616 - Status: 429
+Erro NCBI para 6:31239449 - Status: 429
+Erro NCBI para 6:31239617 - Status: 429
+Erro NCBI para 6:31239621 - Status: 429
+Erro NCBI para 6:31239622 - Status: 429
+Erro NCBI para 6:31239727 - Status: 429
+Erro NCBI para 6:31239733 - Status: 429
+Erro NCBI para 6:31239752 - Status: 429
+Erro NCBI para 6:31239827 - Status: 429
+Erro NCBI para 6:31239802 - Status: 429
+Erro NCBI para 6:31239821 - Status: 429
+Erro NCBI para 6:31598489 - Status: 429
+Erro NCBI para 6:31595882 - Status: 429
+Erro NCBI para 6:31601344 - Status: 429
+Erro NCBI para 6:31602967 - Status: 429
+Erro NCBI para 6:31604010 - Status: 429
+Erro NCBI para 6:31604044 - Status: 429
+Erro NCBI para 6:32546698 - Status: 429
+Erro NCBI para 6:32546781 - Status: 429
+Erro NCBI para 6:32546795 - Status: 429
+Erro NCBI para 6:32546802 - Status: 429
+Erro NCBI para 6:32546803 - Status: 429
+Erro NCBI para 6:32546800 - Status: 429
+Erro NCBI para 6:32546832 - Status: 429
+Erro NCBI para 6:32546839 - Status: 429
+Erro NCBI para 6:32546846 - Status: 429
+Erro NCBI para 6:32546849 - Status: 429
+Erro NCBI para 6:32546854 - Status: 429
+Erro NCBI para 6:32546866 - Status: 429
+Erro NCBI para 6:32548026 - Status: 429
+Erro NCBI para 6:32548581 - Status: 429
+Erro NCBI para 6:32549356 - Status: 429
+Erro NCBI para 6:32549362 - Status: 429
+Erro NCBI para 6:32549383 - Status: 429
+Erro NCBI para 6:32549401 - Status: 429
+Erro NCBI para 6:32549416 - Status: 429
+Erro NCBI para 6:32549443 - Status: 429
+Erro NCBI para 6:32549497 - Status: 429
+Erro NCBI para 6:32549481 - Status: 429
+Erro NCBI para 6:32549501 - Status: 429
+Erro NCBI para 6:32549563 - Status: 429
+Erro NCBI para 6:32549589 - Status: 429
+Erro NCBI para 6:32549548 - Status: 429
+Erro NCBI para 6:32549596 - Status: 429
+Erro NCBI para 6:32549613 - Status: 429
+Erro NCBI para 6:32605271 - Status: 429
+Erro NCBI para 6:32609126 - Status: 429
+Erro NCBI para 6:32609873 - Status: 429
+Erro NCBI para 6:32610047 - Status: 429
+Erro NCBI para 6:32610050 - Status: 429
+Erro NCBI para 6:32610152 - Status: 429
+Erro NCBI para 6:32610158 - Status: 429
+Erro NCBI para 6:32610436 - Status: 429
+Erro NCBI para 6:32610689 - Status: 429
+Erro NCBI para 6:32610535 - Status: 429
+Erro NCBI para 6:32610704 - Status: 429
+Erro NCBI para 6:32610718 - Status: 429
+Erro NCBI para 6:32609097 - Status: 429
+Erro NCBI para 6:32610795 - Status: 429
+Erro NCBI para 6:32610786 - Status: 429
+Erro NCBI para 6:32610825 - Status: 429
+Erro NCBI para 6:32610841 - Status: 429
+Erro NCBI para 6:32610846 - Status: 429
+Erro NCBI para 6:32609974 - Status: 429
+Erro NCBI para 6:32610893 - Status: 429
+Erro NCBI para 6:32610897 - Status: 429
+Erro NCBI para 6:32610935 - Status: 429
+Erro NCBI para 6:32610858 - Status: 429
+Erro NCBI para 6:32610857 - Status: 429
+Erro NCBI para 6:32610952 - Status: 429
+Erro NCBI para 6:32610951 - Status: 429
+Erro NCBI para 6:32610946 - Status: 429
+Erro NCBI para 6:32610960 - Status: 429
+Erro NCBI para 6:32713625 - Status: 429
+Erro NCBI para 6:32714168 - Status: 429
+Erro NCBI para 6:32714164 - Status: 429
+Erro NCBI para 6:32725653 - Status: 429
+Erro NCBI para 6:32725062 - Status: 429
+Erro NCBI para 6:32726803 - Status: 429
+Erro NCBI para 6:32783086 - Status: 429
+Erro NCBI para 6:32726838 - Status: 429
+Erro NCBI para 6:32800412 - Status: 429
+Erro NCBI para 6:32811645 - Status: 429
+Erro NCBI para 6:32797809 - Status: 429
+Erro NCBI para 6:32906716 - Status: 429
+Erro NCBI para 6:32917498 - Status: 429
+Erro NCBI para 6:33036959 - Status: 429
+Erro NCBI para 6:33036951 - Status: 429
+Erro NCBI para 6:33036971 - Status: 429
+Erro NCBI para 6:33036999 - Status: 429
+Erro NCBI para 6:33037419 - Status: 429
+Erro NCBI para 6:33036853 - Status: 429
+Erro NCBI para 6:33037626 - Status: 429
+Erro NCBI para 6:33048460 - Status: 429
+Erro NCBI para 6:33048459 - Status: 429
+Erro NCBI para 6:33048457 - Status: 429
+Erro NCBI para 6:33048466 - Status: 429
+Erro NCBI para 6:33048599 - Status: 429
+Erro NCBI para 6:33048542 - Status: 429
+Erro NCBI para 6:33048661 - Status: 429
+Erro NCBI para 6:33048461 - Status: 429
+Erro NCBI para 6:33048663 - Status: 429
+Erro NCBI para 6:33048686 - Status: 429
+Erro NCBI para 6:33048694 - Status: 429
+Erro NCBI para 6:33052736 - Status: 429
+Erro NCBI para 6:33052743 - Status: 429
+Erro NCBI para 6:33052768 - Status: 429
+Erro NCBI para 6:33052803 - Status: 429
+Erro NCBI para 6:33052950 - Status: 429
+Erro NCBI para 6:33052958 - Status: 429
+Erro NCBI para 6:33054331 - Status: 429
+Erro NCBI para 6:33153528 - Status: 429
+Erro NCBI para 6:39041502 - Status: 429
+Erro NCBI para 6:39282036 - Status: 429
+Erro NCBI para 6:39048491 - Status: 429
+Erro NCBI para 6:39282806 - Status: 429
+Erro NCBI para 6:39040654 - Status: 429
+Erro NCBI para 6:39283083 - Status: 429
+Erro NCBI para 6:47646842 - Status: 429
+Erro NCBI para 6:47649574 - Status: 429
+Erro NCBI para 6:47649694 - Status: 429
+Erro NCBI para 6:47649265 - Status: 429
+Erro NCBI para 6:47847179 - Status: 429
+Erro NCBI para 6:49494241 - Status: 429
+Erro NCBI para 6:57244780 - Status: 429
+Erro NCBI para 6:66005970 - Status: 429
+Erro NCBI para 6:70407465 - Status: 429
+Erro NCBI para 6:66005888 - Status: 429
+Erro NCBI para 6:70984436 - Status: 429
+Erro NCBI para 6:74019338 - Status: 429
+Erro NCBI para 6:70989703 - Status: 429
+Erro NCBI para 6:76425288 - Status: 429
+Erro NCBI para 6:76633385 - Status: 429
+Erro NCBI para 6:76640803 - Status: 429
+Erro NCBI para 6:79708000 - Status: 429
+Erro NCBI para 6:82461727 - Status: 429
+Erro NCBI para 6:86445472 - Status: 429
+Erro NCBI para 6:88108048 - Status: 429
+Erro NCBI para 6:99819379 - Status: 429
+Erro NCBI para 6:99825348 - Status: 429
+Erro NCBI para 6:99883704 - Status: 429
+Erro NCBI para 6:99894086 - Status: 429
+Erro NCBI para 6:106967185 - Status: 429
+Erro NCBI para 6:106992464 - Status: 429
+Erro NCBI para 6:106999822 - Status: 429
+Erro NCBI para 6:112508769 - Status: 429
+Erro NCBI para 6:112508770 - Status: 429
+Erro NCBI para 6:116973182 - Status: 429
+Erro NCBI para 6:117086378 - Status: 429
+Erro NCBI para 6:117114025 - Status: 429
+Erro NCBI para 6:117114223 - Status: 429
+Erro NCBI para 6:117244374 - Status: 429
+Erro NCBI para 6:117248218 - Status: 429
+Erro NCBI para 6:117246719 - Status: 429
+Erro NCBI para 6:117243260 - Status: 429
+Erro NCBI para 6:117725448 - Status: 429
+Erro NCBI para 6:123699019 - Status: 429
+Erro NCBI para 6:123699042 - Status: 429
+Erro NCBI para 6:123778732 - Status: 429
+Erro NCBI para 6:123778708 - Status: 429
+Erro NCBI para 6:121577370 - Status: 429
+Erro NCBI para 6:137113137 - Status: 429
+Erro NCBI para 6:139013263 - Status: 429
+Erro NCBI para 6:144081609 - Status: 429
+Erro NCBI para 6:149953981 - Status: 429
+Erro NCBI para 6:149983216 - Status: 429
+Erro NCBI para 6:150039148 - Status: 429
+Erro NCBI para 6:150343211 - Status: 429
+Erro NCBI para 6:150346532 - Status: 429
+Erro NCBI para 6:152665261 - Status: 429
+Erro NCBI para 6:152675854 - Status: 429
+Erro NCBI para 6:152694184 - Status: 429
+Erro NCBI para 6:155571697 - Status: 429
+Erro NCBI para 6:155575607 - Status: 429
+Erro NCBI para 6:155577823 - Status: 429
+Erro NCBI para 6:155596901 - Status: 429
+Erro NCBI para 6:155606325 - Status: 429
+Erro NCBI para 6:167592524 - Status: 429
+Erro NCBI para 6:167592576 - Status: 429
+Erro NCBI para 6:167595371 - Status: 429
+Erro NCBI para 6:167719436 - Status: 429
+Erro NCBI para 6:167728774 - Status: 429
+Erro Ensembl (posição inválida): 6:170862300
+Erro Ensembl (posição inválida): 6:170871013
+Erro Ensembl (posição inválida): 6:170871013
+Erro Ensembl (posição inválida): 6:170871046
+Erro Ensembl (posição inválida): 6:170878793
+Erro NCBI para 6:170871046 - Status: 429
+Erro NCBI para 6:170878793 - Status: 429
+Erro NCBI para 7:299881 - Status: 429
+Erro NCBI para 7:299863 - Status: 429
+Erro NCBI para 7:299850 - Status: 429
+Erro NCBI para 7:4901385 - Status: 429
+Erro NCBI para 7:6370194 - Status: 429
+Erro NCBI para 7:6370406 - Status: 429
+Erro NCBI para 7:6370305 - Status: 429
+Erro NCBI para 7:12428550 - Status: 429
+Erro NCBI para 7:12428582 - Status: 429
+Erro NCBI para 7:25194665 - Status: 429
+Erro NCBI para 7:25194753 - Status: 429
+Erro NCBI para 7:26578105 - Status: 429
+Erro NCBI para 7:27210428 - Status: 429
+Erro NCBI para 7:31683410 - Status: 429
+Erro NCBI para 7:31732089 - Status: 429
+Erro NCBI para 7:36320821 - Status: 429
+Erro NCBI para 7:36455477 - Status: 429
+Erro NCBI para 7:45140914 - Status: 429
+Erro NCBI para 7:48965308 - Status: 429
+Erro NCBI para 7:48965427 - Status: 429
+Erro NCBI para 7:55214348 - Status: 429
+Erro NCBI para 7:54621692 - Status: 429
+Erro NCBI para 7:55266417 - Status: 429
+Erro NCBI para 7:55268949 - Status: 429
+Erro NCBI para 7:56007576 - Status: 429
+Erro NCBI para 7:63726645 - Status: 429
+Erro NCBI para 7:64291333 - Status: 429
+Erro NCBI para 7:64291991 - Status: 429
+Erro NCBI para 7:64438667 - Status: 429
+Erro NCBI para 7:64452830 - Status: 429
+Erro NCBI para 7:57529392 - Status: 429
+Erro NCBI para 7:65419353 - Status: 429
+Erro NCBI para 7:65429359 - Status: 429
+Erro NCBI para 7:65425894 - Status: 429
+Erro NCBI para 7:82581859 - Status: 429
+Erro NCBI para 7:82582846 - Status: 429
+Erro NCBI para 7:82583609 - Status: 429
+Erro NCBI para 7:89797144 - Status: 429
+Erro NCBI para 7:89854446 - Status: 429
+Erro NCBI para 7:87911987 - Status: 429
+Erro NCBI para 7:89861832 - Status: 429
+Erro NCBI para 7:89861890 - Status: 429
+Erro NCBI para 7:98782750 - Status: 429
+Erro NCBI para 7:99799845 - Status: 429
+Erro NCBI para 7:99817859 - Status: 429
+Erro NCBI para 7:99821685 - Status: 429
+Erro NCBI para 7:100608826 - Status: 429
+Erro NCBI para 7:100608868 - Status: 429
+Erro NCBI para 7:100608823 - Status: 429
+Erro NCBI para 7:100608884 - Status: 429
+Erro NCBI para 7:100610069 - Status: 429
+Erro NCBI para 7:100616288 - Status: 429
+Erro NCBI para 7:100616310 - Status: 429
+Erro NCBI para 7:100616258 - Status: 429
+Erro ao acessar Ensembl para 7:100550271 - Exceção: HTTPSConnectionPool(host='rest.ensembl.org', port=443): Max retries exceeded with url: /overlap/region/human/7:100550271-100550271?feature=gene (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024F6CAB8F10>: Failed to establish a new connection: [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu\r\ncorretamente após um período de tempo ou a conexão estabelecida falhou\r\nporque o host conectado não respondeu'))
+Erro NCBI para 7:100679318 - Status: 429
+Erro NCBI para 7:100679366 - Status: 429
+Erro NCBI para 7:100679388 - Status: 429
+Erro NCBI para 7:100679390 - Status: 429
+Erro NCBI para 7:100679429 - Status: 429
+Erro NCBI para 7:107738882 - Status: 429
+Erro NCBI para 7:107838464 - Status: 429
+Erro NCBI para 7:121616250 - Status: 429
+Erro NCBI para 7:128292108 - Status: 429
+Erro NCBI para 7:128117227 - Status: 429
+Erro NCBI para 7:141898522 - Status: 429
+Erro NCBI para 7:141857846 - Status: 429
+Erro NCBI para 7:142223949 - Status: 429
+Erro NCBI para 7:142223953 - Status: 429
+Erro NCBI para 7:142223952 - Status: 429
+Erro NCBI para 7:142223962 - Status: 429
+Erro NCBI para 7:142223959 - Status: 429
+Erro NCBI para 7:142224021 - Status: 429
+Erro NCBI para 7:142224022 - Status: 429
+Erro NCBI para 7:142223942 - Status: 429
+Erro NCBI para 7:142223997 - Status: 429
+Erro NCBI para 7:142224023 - Status: 429
+Erro NCBI para 7:142224063 - Status: 429
+Erro NCBI para 7:142224072 - Status: 429
+Erro NCBI para 7:142224089 - Status: 429
+Erro NCBI para 7:142224098 - Status: 429
+Erro NCBI para 7:142223964 - Status: 429
+Erro NCBI para 7:142224062 - Status: 429
+Erro NCBI para 7:142247134 - Status: 429
+Erro NCBI para 7:142247263 - Status: 429
+Erro NCBI para 7:142247270 - Status: 429
+Erro NCBI para 7:142247348 - Status: 429
+Erro NCBI para 7:142247380 - Status: 429
+Erro NCBI para 7:142247396 - Status: 429
+Erro NCBI para 7:142247530 - Status: 429
+Erro NCBI para 7:142247539 - Status: 429
+Erro NCBI para 7:142247554 - Status: 429
+Erro NCBI para 7:142423562 - Status: 429
+Erro NCBI para 7:142458409 - Status: 429
+Erro NCBI para 7:142458412 - Status: 429
+Erro NCBI para 7:142247288 - Status: 429
+Erro NCBI para 7:142458414 - Status: 429
+Erro NCBI para 7:142458511 - Status: 429
+Erro NCBI para 7:142458486 - Status: 429
+Erro NCBI para 7:142458527 - Status: 429
+Erro NCBI para 7:142458523 - Status: 429
+Erro NCBI para 7:142378633 - Status: 429
+Erro NCBI para 7:142458531 - Status: 429
+Erro NCBI para 7:142458526 - Status: 429
+Erro NCBI para 7:142458604 - Status: 429
+Erro NCBI para 7:142458542 - Status: 429
+Erro NCBI para 7:142458592 - Status: 429
+Erro NCBI para 7:142458598 - Status: 429
+Erro NCBI para 7:142458610 - Status: 429
+Erro NCBI para 7:142458700 - Status: 429
+Erro NCBI para 7:142458719 - Status: 429
+Erro NCBI para 7:142458666 - Status: 429
+Erro NCBI para 7:142458737 - Status: 429
+Erro NCBI para 7:142458739 - Status: 429
+Erro NCBI para 7:142458768 - Status: 429
+Erro NCBI para 7:142458805 - Status: 429
+Erro NCBI para 7:142458843 - Status: 429
+Erro NCBI para 7:142458929 - Status: 429
+Erro NCBI para 7:142458938 - Status: 429
+Erro NCBI para 7:142460335 - Status: 429
+Erro NCBI para 7:142460369 - Status: 429
+Erro NCBI para 7:142460394 - Status: 429
+Erro NCBI para 7:142460415 - Status: 429
+Erro NCBI para 7:142460744 - Status: 429
+Erro NCBI para 7:142460778 - Status: 429
+Erro NCBI para 7:142460764 - Status: 429
+Erro NCBI para 7:142460752 - Status: 429
+Erro NCBI para 7:142460865 - Status: 429
+Erro NCBI para 7:142479940 - Status: 429
+Erro NCBI para 7:142480012 - Status: 429
+Erro NCBI para 7:142480034 - Status: 429
+Erro NCBI para 7:142480067 - Status: 429
+Erro NCBI para 7:142480002 - Status: 429
+Erro NCBI para 7:142481234 - Status: 429
+Erro NCBI para 7:142481376 - Status: 429
+Erro NCBI para 7:142498837 - Status: 429
+Erro NCBI para 7:142498813 - Status: 429
+Erro NCBI para 7:142498833 - Status: 429
+Erro NCBI para 7:142498738 - Status: 429
+Erro NCBI para 7:142498897 - Status: 429
+Erro NCBI para 7:142499071 - Status: 429
+Erro NCBI para 7:142499789 - Status: 429
+Erro NCBI para 7:142499862 - Status: 429
+Erro NCBI para 7:142499874 - Status: 429
+Erro NCBI para 7:142499880 - Status: 429
+Erro NCBI para 7:142499884 - Status: 429
+Erro NCBI para 7:143017807 - Status: 429
+Erro NCBI para 7:143042837 - Status: 429
+Erro NCBI para 7:143141475 - Status: 429
+Erro NCBI para 7:143093538 - Status: 429
+Erro NCBI para 7:143097100 - Status: 429
+Erro NCBI para 7:143088867 - Status: 429
+Erro NCBI para 7:143175154 - Status: 429
+Erro NCBI para 7:143175345 - Status: 429
+Erro NCBI para 7:144015687 - Status: 429
+Erro NCBI para 7:144060802 - Status: 429
+Erro NCBI para 7:144062222 - Status: 429
+Erro NCBI para 7:144015720 - Status: 429
+Erro NCBI para 7:148979323 - Status: 429
+Erro NCBI para 7:148991712 - Status: 429
+Erro NCBI para 7:149318409 - Status: 429
+Erro NCBI para 7:149506211 - Status: 429
+Erro NCBI para 7:149511902 - Status: 429
+Erro NCBI para 7:149516486 - Status: 429
+Erro NCBI para 7:149515188 - Status: 429
+Erro NCBI para 7:149517978 - Status: 429
+Erro NCBI para 7:149518961 - Status: 429
+Erro NCBI para 7:149523584 - Status: 429
+Erro NCBI para 7:149543269 - Status: 429
+Erro NCBI para 7:150644428 - Status: 429
+Erro NCBI para 7:150695726 - Status: 429
+Erro NCBI para 7:150648789 - Status: 429
+Erro NCBI para 7:150696111 - Status: 429
+Erro NCBI para 7:150704250 - Status: 429
+Erro NCBI para 7:150648198 - Status: 429
+Erro NCBI para 7:150912786 - Status: 429
+Erro NCBI para 7:150921950 - Status: 429
+Erro NCBI para 7:150935430 - Status: 429
+Erro NCBI para 7:151932908 - Status: 429
+Erro NCBI para 7:151945140 - Status: 429
+Erro NCBI para 7:151945007 - Status: 429
+Erro NCBI para 7:151945167 - Status: 429
+Erro NCBI para 7:151945204 - Status: 429
+Erro NCBI para 7:151945225 - Status: 429
+Erro NCBI para 7:155255332 - Status: 429
+Erro NCBI para 7:155150765 - Status: 429
+Erro NCBI para 8:7398538 - Status: 429
+Erro NCBI para 8:11666337 - Status: 429
+Erro NCBI para 8:11618998 - Status: 429
+Erro NCBI para 8:11872322 - Status: 429
+Erro NCBI para 8:11872395 - Status: 429
+Erro NCBI para 8:11872272 - Status: 429
+Erro NCBI para 8:11872816 - Status: 429
+Erro NCBI para 8:11872821 - Status: 429
+Erro NCBI para 8:11872844 - Status: 429
+Erro NCBI para 8:11872949 - Status: 429
+Erro NCBI para 8:12042880 - Status: 429
+Erro NCBI para 8:12042821 - Status: 429
+Erro NCBI para 8:19263003 - Status: 429
+Erro NCBI para 8:20038466 - Status: 429
+Erro NCBI para 8:20036827 - Status: 429
+Erro NCBI para 8:21833965 - Status: 429
+Erro NCBI para 8:21847855 - Status: 429
+Erro NCBI para 8:21862551 - Status: 429
+Erro NCBI para 8:22105502 - Status: 429
+Erro NCBI para 8:22145071 - Status: 429
+Erro NCBI para 8:22084503 - Status: 429
+Erro NCBI para 8:29996256 - Status: 429
+Erro NCBI para 8:30921935 - Status: 429
+Erro NCBI para 8:33369994 - Status: 429
+Erro NCBI para 8:41391704 - Status: 429
+Erro NCBI para 8:55542540 - Status: 429
+Erro NCBI para 8:56686224 - Status: 429
+Erro NCBI para 8:72981327 - Status: 429
+Erro NCBI para 8:72966002 - Status: 429
+Erro NCBI para 8:72984041 - Status: 429
+Erro NCBI para 8:72981318 - Status: 429
+Erro NCBI para 8:72987638 - Status: 429
+Erro NCBI para 8:74888494 - Status: 429
+Erro NCBI para 8:95186382 - Status: 429
+Erro NCBI para 8:95188850 - Status: 429
+Erro NCBI para 8:95161102 - Status: 429
+Erro NCBI para 8:97239126 - Status: 429
+Erro NCBI para 8:97239613 - Status: 429
+Erro NCBI para 8:97240129 - Status: 429
+Erro NCBI para 8:97240847 - Status: 429
+Erro NCBI para 8:98943545 - Status: 429
+Erro NCBI para 8:98954012 - Status: 429
+Erro NCBI para 8:110302047 - Status: 429
+Erro NCBI para 8:110376861 - Status: 429
+Erro NCBI para 8:110416813 - Status: 429
+Erro NCBI para 8:110448635 - Status: 429
+Erro NCBI para 8:110455321 - Status: 429
+Erro NCBI para 8:110457011 - Status: 429
+Erro NCBI para 8:110460488 - Status: 429
+Erro NCBI para 8:110465060 - Status: 429
+Erro NCBI para 8:110477066 - Status: 429
+Erro NCBI para 8:117791733 - Status: 429
+Erro NCBI para 8:133931748 - Status: 429
+Erro NCBI para 8:134108453 - Status: 429
+Erro NCBI para 8:134108546 - Status: 429
+Erro NCBI para 8:141889589 - Status: 429
+Erro NCBI para 8:144824898 - Status: 429
+Erro NCBI para 8:144825035 - Status: 429
+Erro NCBI para 8:144825272 - Status: 429
+Erro Ensembl (posição inválida): 8:145154257
+Erro NCBI para 8:145111979 - Status: 429
+Erro Ensembl (posição inválida): 8:145161896
+Erro Ensembl (posição inválida): 8:145160646
+Erro NCBI para 8:145154257 - Status: 429
+Erro Ensembl (posição inválida): 8:145163621
+Erro Ensembl (posição inválida): 8:145163414
+Erro NCBI para 8:145161896 - Status: 429
+Erro NCBI para 8:145163621 - Status: 429
+Erro NCBI para 8:145163414 - Status: 429
+Erro Ensembl (posição inválida): 8:145164617
+Erro Ensembl (posição inválida): 8:145164847
+Erro Ensembl (posição inválida): 8:145163647
+Erro Ensembl (posição inválida): 8:145168611
+Erro Ensembl (posição inválida): 8:145150832
+Erro NCBI para 8:145163647 - Status: 429
+Erro NCBI para 8:145168611 - Status: 429
+Erro Ensembl (posição inválida): 8:145170440
+Erro Ensembl (posição inválida): 8:145170704
+Erro Ensembl (posição inválida): 8:145223288
+Erro Ensembl (posição inválida): 8:145171003
+Erro NCBI para 8:145170440 - Status: 429
+Erro NCBI para 8:145170704 - Status: 429
+Erro NCBI para 8:145223288 - Status: 429
+Erro NCBI para 8:145166134 - Status: 429
+Erro Ensembl (posição inválida): 8:145578296
+Erro Ensembl (posição inválida): 8:145542021
+Erro Ensembl (posição inválida): 8:145580028
+Erro Ensembl (posição inválida): 8:145603114
+Erro NCBI para 8:145542021 - Status: 429
+Erro NCBI para 8:145580028 - Status: 429
+Erro Ensembl (posição inválida): 8:145639726
+Erro Ensembl (posição inválida): 8:145640411
+Erro Ensembl (posição inválida): 8:145641564
+Erro Ensembl (posição inválida): 8:145641328
+Erro NCBI para 8:145639726 - Status: 429
+Erro NCBI para 8:145640411 - Status: 429
+Erro Ensembl (posição inválida): 8:145665407
+Erro NCBI para 8:145641328 - Status: 429
+Erro Ensembl (posição inválida): 8:145665516
+Erro Ensembl (posição inválida): 8:145665761
+Erro Ensembl (posição inválida): 8:145623963
+Erro Ensembl (posição inválida): 8:145689915
+Erro NCBI para 8:145665516 - Status: 429
+Erro Ensembl (posição inválida): 8:145642002
+Erro Ensembl (posição inválida): 8:145690348
+Erro NCBI para 8:145623963 - Status: 429
+Erro Ensembl (posição inválida): 8:145690308
+Erro NCBI para 8:145689915 - Status: 429
+Erro Ensembl (posição inválida): 8:145692385
+Erro Ensembl (posição inválida): 8:145690396
+Erro NCBI para 8:145642002 - Status: 429
+Erro NCBI para 8:145690308 - Status: 429
+Erro NCBI para 8:145692385 - Status: 429
+Erro Ensembl (posição inválida): 8:145723419
+Erro NCBI para 8:145690396 - Status: 429
+Erro Ensembl (posição inválida): 8:145693720
+Erro Ensembl (posição inválida): 8:145729727
+Erro Ensembl (posição inválida): 8:145724275
+Erro Ensembl (posição inválida): 8:145737636
+Erro Ensembl (posição inválida): 8:145737816
+Erro NCBI para 8:145729727 - Status: 429
+Erro Ensembl (posição inválida): 8:145741702
+Erro Ensembl (posição inválida): 8:145741765
+Erro NCBI para 8:145737816 - Status: 429
+Erro NCBI para 8:145724275 - Status: 429
+Erro Ensembl (posição inválida): 8:145742514
+Erro Ensembl (posição inválida): 8:145738767
+Erro NCBI para 8:145741702 - Status: 429
+Erro NCBI para 8:145741765 - Status: 429
+Erro NCBI para 8:145742514 - Status: 429
+Erro Ensembl (posição inválida): 8:145742879
+Erro Ensembl (posição inválida): 8:145745182
+Erro Ensembl (posição inválida): 8:145773341
+Erro Ensembl (posição inválida): 8:145756170
+Erro Ensembl (posição inválida): 8:146115367
+Erro Ensembl (posição inválida): 8:145999616
+Erro NCBI para 8:145773341 - Status: 429
+Erro NCBI para 8:145756170 - Status: 429
+Erro NCBI para 8:146115367 - Status: 429
+Erro NCBI para 8:146203412 - Status: 429
+Erro NCBI para 8:145999616 - Status: 429
+Erro NCBI para 9:43628651 - Status: 429
+Erro NCBI para 9:43627428 - Status: 429
+Erro NCBI para 9:43626815 - Status: 429
+Erro NCBI para 9:43685298 - Status: 429
+Erro NCBI para 9:43816656 - Status: 429
+Erro NCBI para 9:43822686 - Status: 429
+Erro NCBI para 9:43876040 - Status: 429
+Erro NCBI para 9:43849817 - Status: 429
+Erro NCBI para 9:43849812 - Status: 429
+Erro NCBI para 9:43822762 - Status: 429
+Erro NCBI para 9:43822749 - Status: 429
+Erro NCBI para 9:43915893 - Status: 429
+Erro NCBI para 9:45727954 - Status: 429
+Erro NCBI para 9:45733796 - Status: 429
+Erro NCBI para 9:45733681 - Status: 429
+Erro NCBI para 9:45733823 - Status: 429
+Erro NCBI para 9:45733881 - Status: 429
+Erro NCBI para 9:46386688 - Status: 429
+Erro NCBI para 9:46386910 - Status: 429
+Erro NCBI para 9:46386994 - Status: 429
+Erro NCBI para 9:46386956 - Status: 429
+Erro NCBI para 9:46386740 - Status: 429
+Erro NCBI para 9:46386995 - Status: 429
+Erro NCBI para 9:66499220 - Status: 429
+Erro NCBI para 9:66499356 - Status: 429
+Erro NCBI para 9:66499403 - Status: 429
+Erro NCBI para 9:66499461 - Status: 429
+Erro NCBI para 9:66499793 - Status: 429
+Erro NCBI para 9:66499739 - Status: 429
+Erro NCBI para 9:66499904 - Status: 429
+Erro NCBI para 9:66553727 - Status: 429
+Erro NCBI para 9:67968354 - Status: 429
+Erro NCBI para 9:67968458 - Status: 429
+Erro NCBI para 9:67968476 - Status: 429
+Erro NCBI para 9:67968657 - Status: 429
+Erro NCBI para 9:71986315 - Status: 429
+Erro NCBI para 9:72002911 - Status: 429
+Erro NCBI para 9:71628207 - Status: 429
+Erro NCBI para 9:72517293 - Status: 429
+Erro NCBI para 9:72897440 - Status: 429
+Erro NCBI para 9:78790136 - Status: 429
+Erro NCBI para 9:78969059 - Status: 429
+Erro NCBI para 9:79318375 - Status: 429
+Erro NCBI para 9:79318677 - Status: 429
+Erro NCBI para 9:79318998 - Status: 429
+Erro NCBI para 9:79321276 - Status: 429
+Erro NCBI para 9:79320640 - Status: 429
+Erro NCBI para 9:79318921 - Status: 429
+Erro NCBI para 9:79322674 - Status: 429
+Erro NCBI para 9:79324135 - Status: 429
+Erro NCBI para 9:79324179 - Status: 429
+Erro NCBI para 9:79324741 - Status: 429
+Erro NCBI para 9:79325558 - Status: 429
+Erro NCBI para 9:79930342 - Status: 429
+Erro NCBI para 9:79325615 - Status: 429
+Erro NCBI para 9:86920236 - Status: 429
+Erro NCBI para 9:88959938 - Status: 429
+Erro NCBI para 9:90062823 - Status: 429
+Erro NCBI para 9:100684757 - Status: 429
+Erro NCBI para 9:100689693 - Status: 429
+Erro NCBI para 9:100777657 - Status: 429
+Erro NCBI para 9:100777659 - Status: 429
+Erro NCBI para 9:100777660 - Status: 429
+Erro NCBI para 9:102068770 - Status: 429
+Erro NCBI para 9:102068832 - Status: 429
+Erro NCBI para 9:102713580 - Status: 429
+Erro NCBI para 9:103060386 - Status: 429
+Erro NCBI para 9:101797330 - Status: 429
+Erro NCBI para 9:103064530 - Status: 429
+Erro NCBI para 9:107267304 - Status: 429
+Erro NCBI para 9:107360826 - Status: 429
+Erro NCBI para 9:107360768 - Status: 429
+Erro NCBI para 9:107266844 - Status: 429
+Erro NCBI para 9:107360851 - Status: 429
+Erro NCBI para 9:107361439 - Status: 429
+Erro NCBI para 9:107361451 - Status: 429
+Erro NCBI para 9:107361449 - Status: 429
+Erro NCBI para 9:107361452 - Status: 429
+Erro NCBI para 9:107361460 - Status: 429
+Erro NCBI para 9:107361490 - Status: 429
+Erro NCBI para 9:107361599 - Status: 429
+Erro NCBI para 9:111956599 - Status: 429
+Erro NCBI para 9:112899361 - Status: 429
+Erro NCBI para 9:112900199 - Status: 429
+Erro NCBI para 9:113091523 - Status: 429
+Erro NCBI para 9:125390874 - Status: 429
+Erro NCBI para 9:125391369 - Status: 429
+Erro NCBI para 9:125391770 - Status: 429
+Erro NCBI para 9:125377505 - Status: 429
+Erro NCBI para 9:130690412 - Status: 429
+Erro NCBI para 9:131846957 - Status: 429
+Erro NCBI para 9:135263573 - Status: 429
+Erro NCBI para 9:135930735 - Status: 429
+Erro NCBI para 9:136133506 - Status: 429
+Erro NCBI para 9:135974079 - Status: 429
+Erro ao acessar Ensembl para 9:130242166 - Exceção: HTTPSConnectionPool(host='rest.ensembl.org', port=443): Max retries exceeded with url: /overlap/region/human/9:130242166-130242166?feature=gene (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024F6CF1E5E0>: Failed to establish a new connection: [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu\r\ncorretamente após um período de tempo ou a conexão estabelecida falhou\r\nporque o host conectado não respondeu'))
+Erro Ensembl (posição inválida): 9:138439809
+Erro Ensembl (posição inválida): 9:138440554
+Erro Ensembl (posição inválida): 9:138440562
+Erro Ensembl (posição inválida): 9:138440624
+Erro Ensembl (posição inválida): 9:138441166
+Erro NCBI para 9:138440554 - Status: 429
+Erro NCBI para 9:138440562 - Status: 429
+Erro NCBI para 9:138440624 - Status: 429
+Erro Ensembl (posição inválida): 9:138439806
+Erro NCBI para 9:138441166 - Status: 429
+Erro Ensembl (posição inválida): 9:138441760
+Erro Ensembl (posição inválida): 9:138515991
+Erro Ensembl (posição inválida): 9:138516128
+Erro Ensembl (posição inválida): 9:138440641
+Erro Ensembl (posição inválida): 9:138516346
+Erro Ensembl (posição inválida): 9:138518010
+Erro NCBI para 9:138516128 - Status: 429
+Erro Ensembl (posição inválida): 9:138586198
+Erro NCBI para 9:138440641 - Status: 429
+Erro NCBI para 9:138516346 - Status: 429
+Erro Ensembl (posição inválida): 9:138586966
+Erro Ensembl (posição inválida): 9:138586967
+Erro NCBI para 9:138518010 - Status: 429
+Erro NCBI para 9:138586198 - Status: 429
+Erro NCBI para 9:138586966 - Status: 429
+Erro NCBI para 9:138586967 - Status: 429
+Erro Ensembl (posição inválida): 9:138590928
+Erro Ensembl (posição inválida): 9:138683984
+Erro Ensembl (posição inválida): 9:138742077
+Erro Ensembl (posição inválida): 9:138669261
+Erro Ensembl (posição inválida): 9:138836941
+Erro Ensembl (posição inválida): 9:138838140
+Erro NCBI para 9:138669261 - Status: 429
+Erro Ensembl (posição inválida): 9:138903671
+Erro NCBI para 9:138836941 - Status: 429
+Erro Ensembl (posição inválida): 9:138905136
+Erro Ensembl (posição inválida): 9:139142668
+Erro NCBI para 9:138838140 - Status: 429
+Erro NCBI para 9:138903671 - Status: 429
+Erro NCBI para 9:138905136 - Status: 429
+Erro NCBI para 9:139142668 - Status: 429
+Erro Ensembl (posição inválida): 9:139142710
+Erro Ensembl (posição inválida): 9:139142808
+Erro Ensembl (posição inválida): 9:139252495
+Erro Ensembl (posição inválida): 9:138591266
+Erro Ensembl (posição inválida): 9:139258462
+Erro Ensembl (posição inválida): 9:139270901
+Erro Ensembl (posição inválida): 9:139272045
+Erro Ensembl (posição inválida): 9:139273402
+Erro NCBI para 9:138591266 - Status: 429
+Erro Ensembl (posição inválida): 9:139326319
+Erro Ensembl (posição inválida): 9:139235415
+Erro NCBI para 9:139270901 - Status: 429
+Erro NCBI para 9:139258462 - Status: 429
+Erro NCBI para 9:139272045 - Status: 429
+Erro NCBI para 9:139273402 - Status: 429
+Erro NCBI para 9:139326319 - Status: 429
+Erro NCBI para 9:139235415 - Status: 429
+Erro Ensembl (posição inválida): 9:139333403
+Erro Ensembl (posição inválida): 9:139397707
+Erro Ensembl (posição inválida): 9:139400299
+Erro Ensembl (posição inválida): 9:139391636
+Erro Ensembl (posição inválida): 9:139418260
+Erro Ensembl (posição inválida): 9:139407932
+Erro Ensembl (posição inválida): 9:139564668
+Erro Ensembl (posição inválida): 9:139616742
+Erro NCBI para 9:139418260 - Status: 429
+Erro Ensembl (posição inválida): 9:139617662
+Erro NCBI para 9:139407932 - Status: 429
+Erro NCBI para 9:139564668 - Status: 429
+Erro NCBI para 9:139616742 - Status: 429
+Erro Ensembl (posição inválida): 9:139617626
+Erro NCBI para 9:139617662 - Status: 429
+Erro Ensembl (posição inválida): 9:139617836
+Erro NCBI para 9:139617626 - Status: 429
+Erro Ensembl (posição inválida): 9:139620637
+Erro Ensembl (posição inválida): 9:139657834
+Erro Ensembl (posição inválida): 9:139658350
+Erro Ensembl (posição inválida): 9:139656670
+Erro Ensembl (posição inválida): 9:139726239
+Erro NCBI para 9:139658350 - Status: 429
+Erro Ensembl (posição inválida): 9:139656706
+Erro NCBI para 9:139656670 - Status: 429
+Erro Ensembl (posição inválida): 9:139700605
+Erro NCBI para 9:139726239 - Status: 429
+Erro NCBI para 9:139656706 - Status: 429
+Erro Ensembl (posição inválida): 9:139701108
+Erro Ensembl (posição inválida): 9:139732331
+Erro Ensembl (posição inválida): 9:139732462
+Erro Ensembl (posição inválida): 9:139739643
+Erro Ensembl (posição inválida): 9:139749067
+Erro NCBI para 9:139731969 - Status: 429
+Erro Ensembl (posição inválida): 9:139820421
+Erro NCBI para 9:139739643 - Status: 429
+Erro NCBI para 9:139732462 - Status: 429
+Erro Ensembl (posição inválida): 9:139752899
+Erro NCBI para 9:139749067 - Status: 429
+Erro Ensembl (posição inválida): 9:139839904
+Erro NCBI para 9:139820421 - Status: 429
+Erro Ensembl (posição inválida): 9:139840543
+Erro NCBI para 9:139752899 - Status: 429
+Erro Ensembl (posição inválida): 9:139848688
+Erro Ensembl (posição inválida): 9:139863841
+Erro Ensembl (posição inválida): 9:139863909
+Erro Ensembl (posição inválida): 9:139866247
+Erro Ensembl (posição inválida): 9:139872048
+Erro Ensembl (posição inválida): 9:139902712
+Erro NCBI para 9:139863841 - Status: 429
+Erro NCBI para 9:139863909 - Status: 429
+Erro NCBI para 9:139866247 - Status: 429
+Erro NCBI para 9:139872048 - Status: 429
+Erro NCBI para 9:139902712 - Status: 429
+Erro Ensembl (posição inválida): 9:139904037
+Erro Ensembl (posição inválida): 9:139906359
+Erro Ensembl (posição inválida): 9:139911983
+Erro Ensembl (posição inválida): 9:139912484
+Erro Ensembl (posição inválida): 9:139913239
+Erro Ensembl (posição inválida): 9:139902786
+Erro Ensembl (posição inválida): 9:139916833
+Erro Ensembl (posição inválida): 9:139902797
+Erro Ensembl (posição inválida): 9:139916879
+Erro NCBI para 9:139912484 - Status: 429
+Erro NCBI para 9:139913239 - Status: 429
+Erro NCBI para 9:139902786 - Status: 429
+Erro NCBI para 9:139916833 - Status: 429
+Erro NCBI para 9:139902797 - Status: 429
+Erro NCBI para 9:139916879 - Status: 429
+Erro Ensembl (posição inválida): 9:139914893
+Erro Ensembl (posição inválida): 9:139925927
+Erro Ensembl (posição inválida): 9:139943429
+Erro Ensembl (posição inválida): 9:139937799
+Erro Ensembl (posição inválida): 9:139937795
+Erro Ensembl (posição inválida): 9:139943549
+Erro Ensembl (posição inválida): 9:139972900
+Erro Ensembl (posição inválida): 9:139981627
+Erro NCBI para 9:139937799 - Status: 429
+Erro NCBI para 9:139937795 - Status: 429
+Erro NCBI para 9:139943549 - Status: 429
+Erro NCBI para 9:139972900 - Status: 429
+Erro NCBI para 9:139981627 - Status: 429
+Erro Ensembl (posição inválida): 9:139923265
+Erro Ensembl (posição inválida): 9:139996195
+Erro Ensembl (posição inválida): 9:139996376
+Erro Ensembl (posição inválida): 9:139929435
+Erro Ensembl (posição inválida): 9:139996589
+Erro Ensembl (posição inválida): 9:139996653
+Erro Ensembl (posição inválida): 9:139996619
+Erro Ensembl (posição inválida): 9:139996668
+Erro NCBI para 9:139996376 - Status: 429
+Erro NCBI para 9:139929435 - Status: 429
+Erro Ensembl (posição inválida): 9:139996685
+Erro Ensembl (posição inválida): 9:140002187
+Erro NCBI para 9:139996653 - Status: 429
+Erro NCBI para 9:139996619 - Status: 429
+Erro NCBI para 9:139996668 - Status: 429
+Erro NCBI para 9:139996685 - Status: 429
+Erro Ensembl (posição inválida): 9:140002220
+Erro NCBI para 9:140002187 - Status: 429
+Erro Ensembl (posição inválida): 9:140002989
+Erro Ensembl (posição inválida): 9:140003427
+Erro Ensembl (posição inválida): 9:140002261
+Erro Ensembl (posição inválida): 9:140006425
+Erro Ensembl (posição inválida): 9:140008750
+Erro Ensembl (posição inválida): 9:140051238
+Erro Ensembl (posição inválida): 9:140008934
+Erro NCBI para 9:140003427 - Status: 429
+Erro Ensembl (posição inválida): 9:140051376
+Erro NCBI para 9:140006425 - Status: 429
+Erro NCBI para 9:140008750 - Status: 429
+Erro NCBI para 9:140051238 - Status: 429
+Erro NCBI para 9:140008934 - Status: 429
+Erro NCBI para 9:140051376 - Status: 429
+Erro Ensembl (posição inválida): 9:140079522
+Erro Ensembl (posição inválida): 9:140082546
+Erro Ensembl (posição inválida): 9:140077639
+Erro Ensembl (posição inválida): 9:140110555
+Erro Ensembl (posição inválida): 9:140093903
+Erro Ensembl (posição inválida): 9:140123132
+Erro Ensembl (posição inválida): 9:140120396
+Erro Ensembl (posição inválida): 9:140128085
+Erro NCBI para 9:140110555 - Status: 429
+Erro NCBI para 9:140093903 - Status: 429
+Erro Ensembl (posição inválida): 9:140130606
+Erro NCBI para 9:140123132 - Status: 429
+Erro NCBI para 9:140120396 - Status: 429
+Erro Ensembl (posição inválida): 9:140139757
+Erro NCBI para 9:140128085 - Status: 429
+Erro NCBI para 9:140139757 - Status: 429
+Erro NCBI para 9:140130606 - Status: 429
+Erro Ensembl (posição inválida): 9:140147273
+Erro Ensembl (posição inválida): 9:140147152
+Erro Ensembl (posição inválida): 9:140166597
+Erro Ensembl (posição inválida): 9:140167022
+Erro Ensembl (posição inválida): 9:140242634
+Erro Ensembl (posição inválida): 9:140245792
+Erro Ensembl (posição inválida): 9:140247143
+Erro Ensembl (posição inválida): 9:140250818
+Erro NCBI para 9:140167022 - Status: 429
+Erro NCBI para 9:140242634 - Status: 429
+Erro NCBI para 9:140245792 - Status: 429
+Erro NCBI para 9:140247143 - Status: 429
+Erro Ensembl (posição inválida): 9:140262426
+Erro Ensembl (posição inválida): 9:140277826
+Erro NCBI para 9:140250818 - Status: 429
+Erro NCBI para 9:140262426 - Status: 429
+Erro NCBI para 9:140277826 - Status: 429
+Erro Ensembl (posição inválida): 9:140330976
+Erro Ensembl (posição inválida): 9:140332478
+Erro Ensembl (posição inválida): 9:140357972
+Erro Ensembl (posição inválida): 9:140374861
+Erro Ensembl (posição inválida): 9:140611436
+Erro Ensembl (posição inválida): 9:140509302
+Erro Ensembl (posição inválida): 9:140638461
+Erro NCBI para 9:140374861 - Status: 429
+Erro NCBI para 9:140611436 - Status: 429
+Erro NCBI para 9:140509302 - Status: 429
+Erro Ensembl (posição inválida): 9:140777306
+Erro Ensembl (posição inválida): 9:140648742
+Erro Ensembl (posição inválida): 9:140509075
+Erro NCBI para 9:140638461 - Status: 429
+Erro NCBI para 9:140777306 - Status: 429
+Erro NCBI para 9:140648742 - Status: 429
+Erro NCBI para 9:140509075 - Status: 429
+Erro Ensembl (posição inválida): 9:140865989
+Erro Ensembl (posição inválida): 9:141008876
+Erro Ensembl (posição inválida): 9:140918170
+Erro Ensembl (posição inválida): 9:141069844
+Erro Ensembl (posição inválida): 9:141069905
+Erro Ensembl (posição inválida): 9:141070125
+Erro Ensembl (posição inválida): 9:141070283
+Erro Ensembl (posição inválida): 9:140786516
+Erro Ensembl (posição inválida): 9:141070335
+Erro NCBI para 9:141069844 - Status: 429
+Erro NCBI para 9:141069905 - Status: 429
+Erro NCBI para 9:141070125 - Status: 429
+Erro NCBI para 9:141070283 - Status: 429
+Erro NCBI para 9:140786516 - Status: 429
+Erro NCBI para 9:141070335 - Status: 429
+Erro Ensembl (posição inválida): 9:141016262
+Erro NCBI para 9:141016262 - Status: 429
+Erro Ensembl (posição inválida): 9:141107536
+Erro NCBI para 10:93945 - Status: 429
+Erro NCBI para 10:94018 - Status: 429
+Erro NCBI para 10:94026 - Status: 429
+Erro Ensembl (posição inválida): 9:141070347
+Erro NCBI para 10:3181003 - Status: 429
+Erro NCBI para 10:3818497 - Status: 429
+Erro NCBI para 10:3818894 - Status: 429
+Erro NCBI para 10:3819209 - Status: 429
+Erro NCBI para 10:3820113 - Status: 429
+Erro NCBI para 10:3820114 - Status: 429
+Erro NCBI para 10:5139685 - Status: 429
+Erro NCBI para 10:5141609 - Status: 429
+Erro NCBI para 10:11805249 - Status: 429
+Erro NCBI para 10:11805354 - Status: 429
+Erro NCBI para 10:11805357 - Status: 429
+Erro NCBI para 10:11797467 - Status: 429
+Erro NCBI para 10:11797500 - Status: 429
+Erro NCBI para 10:13214753 - Status: 429
+Erro NCBI para 10:13275553 - Status: 429
+Erro NCBI para 10:22498749 - Status: 429
+Erro NCBI para 10:22498484 - Status: 429
+Erro NCBI para 10:22839628 - Status: 429
+Erro NCBI para 10:29759225 - Status: 429
+Erro NCBI para 10:28378758 - Status: 429
+Erro NCBI para 10:29747221 - Status: 429
+Erro NCBI para 10:29770551 - Status: 429
+Erro NCBI para 10:29840164 - Status: 429
+Erro NCBI para 10:33475282 - Status: 429
+Erro NCBI para 10:33495267 - Status: 429
+Erro NCBI para 10:33502240 - Status: 429
+Erro NCBI para 10:33552696 - Status: 429
+Erro NCBI para 10:36812251 - Status: 429
+Erro NCBI para 10:33510768 - Status: 429
+Erro NCBI para 10:36812879 - Status: 429
+Erro NCBI para 10:37890955 - Status: 429
+Erro NCBI para 10:42920884 - Status: 429
+Erro NCBI para 10:42949722 - Status: 429
+Erro NCBI para 10:42949664 - Status: 429
+Erro NCBI para 10:42949757 - Status: 429
+Erro NCBI para 10:42949768 - Status: 429
+Erro NCBI para 10:42949773 - Status: 429
+Erro NCBI para 10:42949811 - Status: 429
+Erro NCBI para 10:42949828 - Status: 429
+Erro NCBI para 10:43312807 - Status: 429
+Erro NCBI para 10:43281089 - Status: 429
+Erro NCBI para 10:47087830 - Status: 429
+Erro NCBI para 10:47087731 - Status: 429
+Erro NCBI para 10:47087608 - Status: 429
+Erro NCBI para 10:47769385 - Status: 429
+Erro NCBI para 10:47769386 - Status: 429
+Erro NCBI para 10:47769462 - Status: 429
+Erro NCBI para 10:47769358 - Status: 429
+Erro NCBI para 10:49218498 - Status: 429
+Erro NCBI para 10:49218561 - Status: 429
+Erro NCBI para 10:49219100 - Status: 429
+Erro NCBI para 10:50916484 - Status: 429
+Erro NCBI para 10:69971585 - Status: 429
+Erro NCBI para 10:69971332 - Status: 429
+Erro NCBI para 10:69971652 - Status: 429
+Erro NCBI para 10:71392557 - Status: 429
+Erro NCBI para 10:71392692 - Status: 429
+Erro NCBI para 10:72358577 - Status: 429
+Erro NCBI para 10:72015573 - Status: 429
+Erro NCBI para 10:79566632 - Status: 429
+Erro NCBI para 10:81053475 - Status: 429
+Erro NCBI para 10:81317045 - Status: 429
+Erro NCBI para 10:81317292 - Status: 429
+Erro NCBI para 10:76861680 - Status: 429
+Erro NCBI para 10:81319214 - Status: 429
+Erro NCBI para 10:81319423 - Status: 429
+Erro NCBI para 10:81371698 - Status: 429
+Erro NCBI para 10:81706324 - Status: 429
+Erro NCBI para 10:88702390 - Status: 429
+Erro NCBI para 10:89120661 - Status: 429
+Erro NCBI para 10:89124905 - Status: 429
+Erro NCBI para 10:89124914 - Status: 429
+Erro NCBI para 10:90356598 - Status: 429
+Erro NCBI para 10:90342837 - Status: 429
+Erro NCBI para 10:90673024 - Status: 429
+Erro NCBI para 10:96827178 - Status: 429
+Erro NCBI para 10:96997820 - Status: 429
+Erro NCBI para 10:98369536 - Status: 429
+Erro NCBI para 10:98380137 - Status: 429
+Erro NCBI para 10:100020880 - Status: 429
+Erro NCBI para 10:116615045 - Status: 429
+Erro NCBI para 10:118231363 - Status: 429
+Erro NCBI para 10:118620459 - Status: 429
+Erro NCBI para 10:121679013 - Status: 429
+Erro NCBI para 10:120920588 - Status: 429
+Erro NCBI para 10:122645376 - Status: 429
+Erro NCBI para 10:123239112 - Status: 429
+Erro NCBI para 10:124457452 - Status: 429
+Erro NCBI para 10:125521533 - Status: 429
+Erro NCBI para 10:125521590 - Status: 429
+Erro NCBI para 10:125528048 - Status: 429
+Erro NCBI para 10:127753388 - Status: 429
+Erro NCBI para 10:128974621 - Status: 429
+Erro NCBI para 10:128926013 - Status: 429
+Erro NCBI para 10:129160458 - Status: 429
+Erro Ensembl (posição inválida): 10:133918420
+Erro Ensembl (posição inválida): 10:133948634
+Erro Ensembl (posição inválida): 10:133961494
+Erro Ensembl (posição inválida): 10:133981682
+Erro Ensembl (posição inválida): 10:134017295
+Erro NCBI para 10:133961494 - Status: 429
+Erro NCBI para 10:133981682 - Status: 429
+Erro Ensembl (posição inválida): 10:134036193
+Erro Ensembl (posição inválida): 10:134143985
+Erro NCBI para 10:134017295 - Status: 429
+Erro Ensembl (posição inválida): 10:134143986
+Erro NCBI para 10:134036193 - Status: 429
+Erro NCBI para 10:134143985 - Status: 429
+Erro Ensembl (posição inválida): 10:134145136
+Erro Ensembl (posição inválida): 10:134145153
+Erro NCBI para 10:134143986 - Status: 429
+Erro Ensembl (posição inválida): 10:134145166
+Erro Ensembl (posição inválida): 10:134013990
+Erro Ensembl (posição inválida): 10:134161633
+Erro NCBI para 10:134145166 - Status: 429
+Erro Ensembl (posição inválida): 10:134218269
+Erro NCBI para 10:134013990 - Status: 429
+Erro NCBI para 10:134161633 - Status: 429
+Erro Ensembl (posição inválida): 10:134218296
+Erro Ensembl (posição inválida): 10:134161517
+Erro NCBI para 10:134218269 - Status: 429
+Erro Ensembl (posição inválida): 10:134180353
+Erro NCBI para 10:134218296 - Status: 429
+Erro Ensembl (posição inválida): 10:134459388
+Erro Ensembl (posição inválida): 10:134598628
+Erro Ensembl (posição inválida): 10:134622408
+Erro Ensembl (posição inválida): 10:134623959
+Erro NCBI para 10:134161517 - Status: 429
+Erro Ensembl (posição inválida): 10:134624225
+Erro Ensembl (posição inválida): 10:134646988
+Erro NCBI para 10:134623959 - Status: 429
+Erro Ensembl (posição inválida): 10:134648279
+Erro NCBI para 10:134624225 - Status: 429
+Erro NCBI para 10:134646988 - Status: 429
+Erro Ensembl (posição inválida): 10:134682855
+Erro Ensembl (posição inválida): 10:134722022
+Erro NCBI para 10:134648279 - Status: 429
+Erro NCBI para 10:134682855 - Status: 429
+Erro Ensembl (posição inválida): 10:134726621
+Erro Ensembl (posição inválida): 10:134736044
+Erro Ensembl (posição inválida): 10:134736052
+Erro Ensembl (posição inválida): 10:134735672
+Erro NCBI para 10:134722022 - Status: 429
+Erro Ensembl (posição inválida): 10:134738232
+Erro Ensembl (posição inválida): 10:134736076
+Erro NCBI para 10:134735672 - Status: 429
+Erro Ensembl (posição inválida): 10:134748331
+Erro NCBI para 10:134738232 - Status: 429
+Erro NCBI para 10:134736076 - Status: 429
+Erro Ensembl (posição inválida): 10:134884516
+Erro Ensembl (posição inválida): 10:134884546
+Erro NCBI para 10:134748331 - Status: 429
+Erro Ensembl (posição inválida): 10:134736026
+Erro NCBI para 10:134884516 - Status: 429
+Erro Ensembl (posição inválida): 10:134915832
+Erro NCBI para 10:134884546 - Status: 429
+Erro NCBI para 10:134736026 - Status: 429
+Erro Ensembl (posição inválida): 10:134942166
+Erro Ensembl (posição inválida): 10:134999602
+Erro Ensembl (posição inválida): 10:135000148
+Erro Ensembl (posição inválida): 10:135000159
+Erro Ensembl (posição inválida): 10:135012162
+Erro Ensembl (posição inválida): 10:135012652
+Erro Ensembl (posição inválida): 10:135015427
+Erro Ensembl (posição inválida): 10:134973995
+Erro NCBI para 10:135000148 - Status: 429
+Erro NCBI para 10:135012162 - Status: 429
+Erro Ensembl (posição inválida): 10:135015667
+Erro NCBI para 10:135012652 - Status: 429
+Erro NCBI para 10:135015427 - Status: 429
+Erro NCBI para 10:135015667 - Status: 429
+Erro Ensembl (posição inválida): 10:135016089
+Erro Ensembl (posição inválida): 10:135016175
+Erro Ensembl (posição inválida): 10:135061112
+Erro Ensembl (posição inválida): 10:135032376
+Erro Ensembl (posição inválida): 10:135076596
+Erro Ensembl (posição inválida): 10:135085321
+Erro Ensembl (posição inválida): 10:135085426
+Erro NCBI para 10:135061112 - Status: 429
+Erro Ensembl (posição inválida): 10:135085754
+Erro NCBI para 10:135076596 - Status: 429
+Erro Ensembl (posição inválida): 10:135087521
+Erro NCBI para 10:135085426 - Status: 429
+Erro NCBI para 10:135085754 - Status: 429
+Erro NCBI para 10:135087521 - Status: 429
+Erro Ensembl (posição inválida): 10:135098672
+Erro Ensembl (posição inválida): 10:135097434
+Erro Ensembl (posição inválida): 10:135082346
+Erro Ensembl (posição inválida): 10:135098845
+Erro Ensembl (posição inválida): 10:135098830
+Erro Ensembl (posição inválida): 10:135165790
+Erro Ensembl (posição inválida): 10:135180430
+Erro Ensembl (posição inválida): 10:135186806
+Erro NCBI para 10:135098845 - Status: 429
+Erro NCBI para 10:135098830 - Status: 429
+Erro NCBI para 10:135165790 - Status: 429
+Erro NCBI para 10:135180430 - Status: 429
+Erro NCBI para 10:135186806 - Status: 429
+Erro Ensembl (posição inválida): 10:135184126
+Erro Ensembl (posição inválida): 10:135089035
+Erro Ensembl (posição inválida): 10:135237166
+Erro Ensembl (posição inválida): 10:135233541
+Erro Ensembl (posição inválida): 10:135269788
+Erro Ensembl (posição inválida): 10:135270837
+Erro Ensembl (posição inválida): 10:135271789
+Erro Ensembl (posição inválida): 10:135278244
+Erro NCBI para 10:135269788 - Status: 429
+Erro NCBI para 10:135270837 - Status: 429
+Erro NCBI para 10:135271789 - Status: 429
+Erro NCBI para 10:135278244 - Status: 429
+Erro Ensembl (posição inválida): 10:135204950
+Erro Ensembl (posição inválida): 10:135279752
+Erro Ensembl (posição inválida): 10:135279810
+Erro Ensembl (posição inválida): 10:135278193
+Erro Ensembl (posição inválida): 10:135280765
+Erro Ensembl (posição inválida): 10:135351362
+Erro Ensembl (posição inválida): 10:135347397
+Erro Ensembl (posição inválida): 10:135368590
+Erro Ensembl (posição inválida): 10:135369532
+Erro Ensembl (posição inválida): 10:135370633
+Erro NCBI para 10:135280765 - Status: 429
+Erro NCBI para 10:135278193 - Status: 429
+Erro NCBI para 10:135351362 - Status: 429
+Erro NCBI para 10:135347397 - Status: 429
+Erro NCBI para 10:135368590 - Status: 429
+Erro NCBI para 10:135369532 - Status: 429
+Erro NCBI para 10:135370633 - Status: 429
+Erro Ensembl (posição inválida): 10:135370639
+Erro Ensembl (posição inválida): 10:135381390
+Erro Ensembl (posição inválida): 10:135381425
+Erro Ensembl (posição inválida): 10:135381443
+Erro Ensembl (posição inválida): 10:135381592
+Erro Ensembl (posição inválida): 10:135381623
+Erro Ensembl (posição inválida): 10:135438753
+Erro Ensembl (posição inválida): 10:135381766
+Erro Ensembl (posição inválida): 10:135438929
+Erro Ensembl (posição inválida): 10:135438888
+Erro NCBI para 10:135381443 - Status: 429
+Erro NCBI para 10:135381592 - Status: 429
+Erro NCBI para 10:135381623 - Status: 429
+Erro NCBI para 10:135438753 - Status: 429
+Erro NCBI para 10:135381766 - Status: 429
+Erro NCBI para 10:135438929 - Status: 429
+Erro NCBI para 10:135438888 - Status: 429
+Erro Ensembl (posição inválida): 10:135438951
+Erro Ensembl (posição inválida): 10:135438967
+Erro Ensembl (posição inválida): 10:135438977
+Erro Ensembl (posição inválida): 10:135438955
+Erro Ensembl (posição inválida): 10:135490938
+Erro Ensembl (posição inválida): 10:135440222
+Erro Ensembl (posição inválida): 10:135490939
+Erro Ensembl (posição inválida): 10:135490942
+Erro NCBI para 10:135438955 - Status: 429
+Erro NCBI para 10:135490938 - Status: 429
+Erro NCBI para 10:135440222 - Status: 429
+Erro NCBI para 10:135490939 - Status: 429
+Erro NCBI para 10:135490942 - Status: 429
+Erro Ensembl (posição inválida): 10:135490964
+Erro NCBI para 10:135490964 - Status: 429
+Erro Ensembl (posição inválida): 10:135490974
+Erro Ensembl (posição inválida): 10:135490987
+Erro Ensembl (posição inválida): 10:135490973
+Erro Ensembl (posição inválida): 10:135491005
+Erro Ensembl (posição inválida): 10:135491021
+Erro Ensembl (posição inválida): 10:135491022
+Erro Ensembl (posição inválida): 10:135491030
+Erro Ensembl (posição inválida): 10:135491028
+Erro NCBI para 10:135491005 - Status: 429
+Erro NCBI para 10:135491021 - Status: 429
+Erro NCBI para 10:135491030 - Status: 429
+Erro NCBI para 10:135491028 - Status: 429
+Erro NCBI para 10:135491022 - Status: 429
+Erro Ensembl (posição inválida): 10:135491016
+Erro Ensembl (posição inválida): 10:135491034
+Erro Ensembl (posição inválida): 10:135491039
+Erro Ensembl (posição inválida): 10:135491044
+Erro Ensembl (posição inválida): 10:135491043
+Erro Ensembl (posição inválida): 10:135491046
+Erro Ensembl (posição inválida): 10:135491056
+Erro Ensembl (posição inválida): 10:135491075
+Erro Ensembl (posição inválida): 10:135491083
+Erro NCBI para 10:135491044 - Status: 429
+Erro NCBI para 10:135491043 - Status: 429
+Erro NCBI para 10:135491056 - Status: 429
+Erro NCBI para 10:135491046 - Status: 429
+Erro NCBI para 10:135491075 - Status: 429
+Erro NCBI para 10:135491083 - Status: 429
+Erro Ensembl (posição inválida): 10:135491077
+Erro Ensembl (posição inválida): 10:135491107
+Erro Ensembl (posição inválida): 10:135491121
+Erro Ensembl (posição inválida): 10:135491113
+Erro Ensembl (posição inválida): 10:135491144
+Erro Ensembl (posição inválida): 10:135491136
+Erro Ensembl (posição inválida): 10:135491126
+Erro Ensembl (posição inválida): 10:135491145
+Erro Ensembl (posição inválida): 10:135491146
+Erro NCBI para 10:135491144 - Status: 429
+Erro NCBI para 10:135491136 - Status: 429
+Erro NCBI para 10:135491145 - Status: 429
+Erro NCBI para 10:135491126 - Status: 429
+Erro NCBI para 10:135491146 - Status: 429
+Erro Ensembl (posição inválida): 10:135491127
+Erro Ensembl (posição inválida): 10:135491163
+Erro Ensembl (posição inválida): 10:135491166
+Erro Ensembl (posição inválida): 10:135491220
+Erro Ensembl (posição inválida): 10:135491222
+Erro Ensembl (posição inválida): 10:135491173
+Erro Ensembl (posição inválida): 10:135491216
+Erro Ensembl (posição inválida): 10:135491226
+Erro Ensembl (posição inválida): 10:135491277
+Erro NCBI para 10:135491220 - Status: 429
+Erro NCBI para 10:135491222 - Status: 429
+Erro NCBI para 10:135491173 - Status: 429
+Erro NCBI para 10:135491216 - Status: 429
+Erro NCBI para 10:135491226 - Status: 429
+Erro NCBI para 10:135491277 - Status: 429
+Erro Ensembl (posição inválida): 10:135491204
+Erro Ensembl (posição inválida): 10:135491289
+Erro Ensembl (posição inválida): 10:135491316
+Erro NCBI para 11:1213017 - Status: 429
+Erro NCBI para 11:1213004 - Status: 429
+Erro NCBI para 11:1213023 - Status: 429
+Erro NCBI para 11:1213100 - Status: 429
+Erro NCBI para 11:1213047 - Status: 429
+Erro NCBI para 11:1213107 - Status: 429
+Erro NCBI para 11:1213118 - Status: 429
+Erro NCBI para 11:1213155 - Status: 429
+Erro NCBI para 11:1213135 - Status: 429
+Erro NCBI para 11:1213159 - Status: 429
+Erro NCBI para 11:1213174 - Status: 429
+Erro NCBI para 11:1213177 - Status: 429
+Erro NCBI para 11:1213204 - Status: 429
+Erro NCBI para 11:1213264 - Status: 429
+Erro NCBI para 11:1213259 - Status: 429
+Erro NCBI para 11:1213209 - Status: 429
+Erro NCBI para 11:1213272 - Status: 429
+Erro NCBI para 11:1213275 - Status: 429
+Erro NCBI para 11:1213281 - Status: 429
+Erro NCBI para 11:1213293 - Status: 429
+Erro NCBI para 11:1213405 - Status: 429
+Erro NCBI para 11:1213424 - Status: 429
+Erro NCBI para 11:1213416 - Status: 429
+Erro NCBI para 11:1213428 - Status: 429
+Erro NCBI para 11:1213440 - Status: 429
+Erro NCBI para 11:1213461 - Status: 429
+Erro NCBI para 11:1213533 - Status: 429
+Erro NCBI para 11:1213566 - Status: 429
+Erro NCBI para 11:1213665 - Status: 429
+Erro NCBI para 11:1215580 - Status: 429
+Erro NCBI para 11:1216333 - Status: 429
+Erro NCBI para 11:1218128 - Status: 429
+Erro NCBI para 11:1217228 - Status: 429
+Erro NCBI para 11:1263776 - Status: 429
+Erro NCBI para 11:1264691 - Status: 429
+Erro NCBI para 11:1264742 - Status: 429
+Erro NCBI para 11:1264823 - Status: 429
+Erro NCBI para 11:1264808 - Status: 429
+Erro NCBI para 11:1265786 - Status: 429
+Erro NCBI para 11:1265872 - Status: 429
+Erro NCBI para 11:1267550 - Status: 429
+Erro NCBI para 11:1268608 - Status: 429
+Erro NCBI para 11:1267960 - Status: 429
+Erro NCBI para 11:1268513 - Status: 429
+Erro NCBI para 11:1267917 - Status: 429
+Erro NCBI para 11:1268637 - Status: 429
+Erro NCBI para 11:1268955 - Status: 429
+Erro NCBI para 11:1271321 - Status: 429
+Erro NCBI para 11:1272039 - Status: 429
+Erro NCBI para 11:1272226 - Status: 429
+Erro NCBI para 11:1271469 - Status: 429
+Erro NCBI para 11:1272245 - Status: 429
+Erro NCBI para 11:1272709 - Status: 429
+Erro NCBI para 11:1272754 - Status: 429
+Erro NCBI para 11:1628965 - Status: 429
+Erro NCBI para 11:1628992 - Status: 429
+Erro NCBI para 11:1643066 - Status: 429
+Erro NCBI para 11:1643082 - Status: 429
+Erro NCBI para 11:1651120 - Status: 429
+Erro NCBI para 11:1651540 - Status: 429
+Erro NCBI para 11:1651550 - Status: 429
+Erro NCBI para 11:1651555 - Status: 429
+Erro NCBI para 11:1651625 - Status: 429
+Erro NCBI para 11:2323029 - Status: 429
+Erro NCBI para 11:2324041 - Status: 429
+Erro NCBI para 11:4615234 - Status: 429
+Erro NCBI para 11:4159457 - Status: 429
+Erro NCBI para 11:4615390 - Status: 429
+Erro NCBI para 11:4703165 - Status: 429
+Erro NCBI para 11:5020832 - Status: 429
+Erro NCBI para 11:5067984 - Status: 429
+Erro NCBI para 11:5068177 - Status: 429
+Erro NCBI para 11:5068137 - Status: 429
+Erro NCBI para 11:5080068 - Status: 429
+Erro NCBI para 11:5068661 - Status: 429
+Erro NCBI para 11:5080234 - Status: 429
+Erro NCBI para 11:5142270 - Status: 429
+Erro NCBI para 11:5142549 - Status: 429
+Erro NCBI para 11:5172786 - Status: 429
+Erro NCBI para 11:5080844 - Status: 429
+Erro NCBI para 11:5199660 - Status: 429
+Erro NCBI para 11:5199645 - Status: 429
+Erro NCBI para 11:5199675 - Status: 429
+Erro NCBI para 11:5221645 - Status: 429
+Erro NCBI para 11:5248243 - Status: 429
+Erro NCBI para 11:6007272 - Status: 429
+Erro NCBI para 11:6007680 - Status: 429
+Erro NCBI para 11:6007613 - Status: 429
+Erro NCBI para 11:6007743 - Status: 429
+Erro NCBI para 11:6806496 - Status: 429
+Erro NCBI para 11:7950024 - Status: 429
+Erro NCBI para 11:18253176 - Status: 429
+Erro NCBI para 11:18195051 - Status: 429
+Erro NCBI para 11:25098938 - Status: 429
+Erro NCBI para 11:44640268 - Status: 429
+Erro NCBI para 11:47431728 - Status: 429
+Erro NCBI para 11:47609867 - Status: 429
+Erro NCBI para 11:47644289 - Status: 429
+Erro NCBI para 11:48238421 - Status: 429
+Erro NCBI para 11:48286234 - Status: 429
+Erro NCBI para 11:48286256 - Status: 429
+Erro NCBI para 11:48286231 - Status: 429
+Erro NCBI para 11:48367190 - Status: 429
+Erro NCBI para 11:48367050 - Status: 429
+Erro NCBI para 11:48367097 - Status: 429
+Erro NCBI para 11:48367073 - Status: 429
+Erro NCBI para 11:48367195 - Status: 429
+Erro NCBI para 11:48367249 - Status: 429
+Erro NCBI para 11:48367469 - Status: 429
+Erro NCBI para 11:48367455 - Status: 429
+Erro NCBI para 11:48367419 - Status: 429
+Erro NCBI para 11:48367424 - Status: 429
+Erro NCBI para 11:48367470 - Status: 429
+Erro NCBI para 11:48367311 - Status: 429
+Erro NCBI para 11:48367474 - Status: 429
+Erro NCBI para 11:48367511 - Status: 429
+Erro NCBI para 11:48373817 - Status: 429
+Erro NCBI para 11:48373820 - Status: 429
+Erro NCBI para 11:48373827 - Status: 429
+Erro NCBI para 11:48373834 - Status: 429
+Erro NCBI para 11:48373936 - Status: 429
+Erro NCBI para 11:48373976 - Status: 429
+Erro NCBI para 11:48373986 - Status: 429
+Erro NCBI para 11:48373797 - Status: 429
+Erro NCBI para 11:48387115 - Status: 429
+Erro NCBI para 11:48387155 - Status: 429
+Erro NCBI para 11:48387107 - Status: 429
+Erro NCBI para 11:48387164 - Status: 429
+Erro NCBI para 11:48387186 - Status: 429
+Erro NCBI para 11:48387201 - Status: 429
+Erro NCBI para 11:48387210 - Status: 429
+Erro NCBI para 11:48387424 - Status: 429
+Erro NCBI para 11:48387506 - Status: 429
+Erro NCBI para 11:48387526 - Status: 429
+Erro NCBI para 11:48387335 - Status: 429
+Erro NCBI para 11:48387301 - Status: 429
+Erro NCBI para 11:48387370 - Status: 429
+Erro NCBI para 11:48387591 - Status: 429
+Erro NCBI para 11:48387584 - Status: 429
+Erro NCBI para 11:48387604 - Status: 429
+Erro NCBI para 11:48387582 - Status: 429
+Erro NCBI para 11:48387630 - Status: 429
+Erro NCBI para 11:48387668 - Status: 429
+Erro NCBI para 11:48387679 - Status: 429
+Erro NCBI para 11:48387757 - Status: 429
+Erro NCBI para 11:48387780 - Status: 429
+Erro NCBI para 11:48387789 - Status: 429
+Erro NCBI para 11:48387825 - Status: 429
+Erro NCBI para 11:48387833 - Status: 429
+Erro NCBI para 11:48387850 - Status: 429
+Erro NCBI para 11:48387894 - Status: 429
+Erro NCBI para 11:48387917 - Status: 429
+Erro NCBI para 11:48387930 - Status: 429
+Erro NCBI para 11:48387945 - Status: 429
+Erro NCBI para 11:48387946 - Status: 429
+Erro NCBI para 11:48387960 - Status: 429
+Erro NCBI para 11:48510654 - Status: 429
+Erro NCBI para 11:48387978 - Status: 429
+Erro NCBI para 11:49059362 - Status: 429
+Erro NCBI para 11:49974371 - Status: 429
+Erro NCBI para 11:51411740 - Status: 429
+Erro NCBI para 11:51412327 - Status: 429
+Erro NCBI para 11:51516000 - Status: 429
+Erro NCBI para 11:51516036 - Status: 429
+Erro NCBI para 11:55111238 - Status: 429
+Erro NCBI para 11:55322818 - Status: 429
+Erro NCBI para 11:55339652 - Status: 429
+Erro NCBI para 11:55339829 - Status: 429
+Erro NCBI para 11:55340379 - Status: 429
+Erro NCBI para 11:55433040 - Status: 429
+Erro NCBI para 11:55541098 - Status: 429
+Erro NCBI para 11:55578987 - Status: 429
+Erro NCBI para 11:55578991 - Status: 429
+Erro NCBI para 11:55579102 - Status: 429
+Erro NCBI para 11:55563776 - Status: 429
+Erro NCBI para 11:55579801 - Status: 429
+Erro NCBI para 11:55594869 - Status: 429
+Erro NCBI para 11:55587914 - Status: 429
+Erro NCBI para 11:55595017 - Status: 429
+Erro NCBI para 11:55579419 - Status: 429
+Erro NCBI para 11:55595012 - Status: 429
+Erro NCBI para 11:55595018 - Status: 429
+Erro NCBI para 11:55652963 - Status: 429
+Erro NCBI para 11:55653164 - Status: 429
+Erro NCBI para 11:55703247 - Status: 429
+Erro NCBI para 11:55703728 - Status: 429
+Erro NCBI para 11:55746891 - Status: 429
+Erro NCBI para 11:55761528 - Status: 429
+Erro NCBI para 11:55798152 - Status: 429
+Erro NCBI para 11:55761738 - Status: 429
+Erro NCBI para 11:56043702 - Status: 429
+Erro NCBI para 11:56086147 - Status: 429
+Erro NCBI para 11:56058197 - Status: 429
+Erro NCBI para 11:56113516 - Status: 429
+Erro NCBI para 11:56000403 - Status: 429
+Erro NCBI para 11:56113575 - Status: 429
+Erro NCBI para 11:56113593 - Status: 429
+Erro NCBI para 11:56143968 - Status: 429
+Erro NCBI para 11:56184888 - Status: 429
+Erro NCBI para 11:56143424 - Status: 429
+Erro NCBI para 11:56185224 - Status: 429
+Erro NCBI para 11:56185345 - Status: 429
+Erro NCBI para 11:56344993 - Status: 429
+Erro NCBI para 11:56431834 - Status: 429
+Erro NCBI para 11:56431216 - Status: 429
+Erro NCBI para 11:56757021 - Status: 429
+Erro NCBI para 11:56954846 - Status: 429
+Erro NCBI para 11:57004344 - Status: 429
+Erro NCBI para 11:57077464 - Status: 429
+Erro NCBI para 11:57137371 - Status: 429
+Erro NCBI para 11:57137424 - Status: 429
+Erro NCBI para 11:57155001 - Status: 429
+Erro NCBI para 11:57155288 - Status: 429
+Erro NCBI para 11:57157405 - Status: 429
+Erro NCBI para 11:57571232 - Status: 429
+Erro NCBI para 11:57971201 - Status: 429
+Erro NCBI para 11:57982229 - Status: 429
+Erro NCBI para 11:57982584 - Status: 429
+Erro NCBI para 11:57982726 - Status: 429
+Erro NCBI para 11:57982763 - Status: 429
+Erro NCBI para 11:57971195 - Status: 429
+Erro NCBI para 11:57983194 - Status: 429
+Erro NCBI para 11:58378424 - Status: 429
+Erro NCBI para 11:58478084 - Status: 429
+Erro NCBI para 11:60157166 - Status: 429
+Erro NCBI para 11:60050125 - Status: 429
+Erro NCBI para 11:61165741 - Status: 429
+Erro NCBI para 11:61179285 - Status: 429
+Erro NCBI para 11:62293948 - Status: 429
+Erro NCBI para 11:62292882 - Status: 429
+Erro NCBI para 11:62334908 - Status: 429
+Erro NCBI para 11:63072310 - Status: 429
+Erro NCBI para 11:63258416 - Status: 429
+Erro NCBI para 11:63679369 - Status: 429
+Erro NCBI para 11:64543927 - Status: 429
+Erro NCBI para 11:65000719 - Status: 429
+Erro NCBI para 11:65004301 - Status: 429
+Erro NCBI para 11:65004309 - Status: 429
+Erro NCBI para 11:65144075 - Status: 429
+Erro NCBI para 11:65161129 - Status: 429
+Erro NCBI para 11:65386523 - Status: 429
+Erro NCBI para 11:67572698 - Status: 429
+Erro NCBI para 11:67564241 - Status: 429
+Erro NCBI para 11:68682402 - Status: 429
+Erro NCBI para 11:68678962 - Status: 429
+Erro NCBI para 11:68704028 - Status: 429
+Erro NCBI para 11:68701948 - Status: 429
+Erro NCBI para 11:68854012 - Status: 429
+Erro NCBI para 11:69462910 - Status: 429
+Erro NCBI para 11:71276769 - Status: 429
+Erro NCBI para 11:71276909 - Status: 429
+Erro NCBI para 11:71276831 - Status: 429
+Erro NCBI para 11:71279936 - Status: 429
+Erro NCBI para 11:76637651 - Status: 429
+Erro NCBI para 11:76637680 - Status: 429
+Erro NCBI para 11:86123556 - Status: 429
+Erro NCBI para 11:86161388 - Status: 429
+Erro NCBI para 11:86153911 - Status: 429
+Erro NCBI para 11:89608899 - Status: 429
+Erro NCBI para 11:89774397 - Status: 429
+Erro NCBI para 11:89774448 - Status: 429
+Erro NCBI para 11:89868755 - Status: 429
+Erro NCBI para 11:89935586 - Status: 429
+Erro NCBI para 11:93141580 - Status: 429
+Erro NCBI para 11:93212254 - Status: 429
+Erro NCBI para 11:93474570 - Status: 429
+Erro NCBI para 11:93862493 - Status: 429
+Erro NCBI para 11:94320237 - Status: 429
+Erro NCBI para 11:94533373 - Status: 429
+Erro NCBI para 11:94322353 - Status: 429
+Erro NCBI para 11:102567207 - Status: 429
+Erro NCBI para 11:102576358 - Status: 429
+Erro NCBI para 11:102576375 - Status: 429
+Erro NCBI para 11:103047007 - Status: 429
+Erro NCBI para 11:102738793 - Status: 429
+Erro NCBI para 11:104819327 - Status: 429
+Erro NCBI para 11:104768098 - Status: 429
+Erro NCBI para 11:104869708 - Status: 429
+Erro NCBI para 11:104761100 - Status: 429
+Erro NCBI para 11:107197640 - Status: 429
+Erro NCBI para 11:113670052 - Status: 429
+Erro NCBI para 11:113679119 - Status: 429
+Erro NCBI para 11:115085467 - Status: 429
+Erro NCBI para 11:116692334 - Status: 429
+Erro NCBI para 11:116691634 - Status: 429
+Erro NCBI para 11:123777498 - Status: 429
+Erro NCBI para 11:123777536 - Status: 429
+Erro NCBI para 11:123777736 - Status: 429
+Erro NCBI para 11:123777986 - Status: 429
+Erro NCBI para 11:123813823 - Status: 429
+Erro NCBI para 11:123886320 - Status: 429
+Erro NCBI para 11:123886308 - Status: 429
+Erro NCBI para 11:123886352 - Status: 429
+Erro NCBI para 11:123886550 - Status: 429
+Erro NCBI para 11:123887184 - Status: 429
+Erro NCBI para 11:123893984 - Status: 429
+Erro NCBI para 11:123894402 - Status: 429
+Erro NCBI para 11:123909342 - Status: 429
+Erro NCBI para 11:123909650 - Status: 429
+Erro NCBI para 11:123909695 - Status: 429
+Erro NCBI para 11:124095414 - Status: 429
+Erro NCBI para 11:124095525 - Status: 429
+Erro NCBI para 11:124096122 - Status: 429
+Erro NCBI para 11:134855496 - Status: 429
+Erro NCBI para 12:6427052 - Status: 429
+Erro NCBI para 12:7080212 - Status: 429
+Erro NCBI para 12:7277236 - Status: 429
+Erro NCBI para 12:7521563 - Status: 429
+Erro NCBI para 12:7551022 - Status: 429
+Erro NCBI para 12:7551050 - Status: 429
+Erro NCBI para 12:7803646 - Status: 429
+Erro NCBI para 12:9020912 - Status: 429
+Erro NCBI para 12:10149406 - Status: 429
+Erro NCBI para 12:10149851 - Status: 429
+Erro NCBI para 12:10150974 - Status: 429
+Erro NCBI para 12:10151642 - Status: 429
+Erro NCBI para 12:11183484 - Status: 429
+Erro NCBI para 12:11183475 - Status: 429
+Erro NCBI para 12:11183451 - Status: 429
+Erro NCBI para 12:11183496 - Status: 429
+Erro NCBI para 12:11183485 - Status: 429
+Erro NCBI para 12:11183506 - Status: 429
+Erro NCBI para 12:11183512 - Status: 429
+Erro NCBI para 12:11183697 - Status: 429
+Erro NCBI para 12:11183576 - Status: 429
+Erro NCBI para 12:11183832 - Status: 429
+Erro NCBI para 12:11183676 - Status: 429
+Erro NCBI para 12:11286797 - Status: 429
+Erro NCBI para 12:11286820 - Status: 429
+Erro NCBI para 12:11338613 - Status: 429
+Erro NCBI para 12:11338614 - Status: 429
+Erro NCBI para 12:11338669 - Status: 429
+Erro NCBI para 12:11338750 - Status: 429
+Erro NCBI para 12:14993854 - Status: 429
+Erro NCBI para 12:15081897 - Status: 429
+Erro NCBI para 12:15081898 - Status: 429
+Erro NCBI para 12:15095558 - Status: 429
+Erro NCBI para 12:15103605 - Status: 429
+Erro NCBI para 12:18656225 - Status: 429
+Erro NCBI para 12:25671759 - Status: 429
+Erro NCBI para 12:47471439 - Status: 429
+Erro NCBI para 12:47629368 - Status: 429
+Erro NCBI para 12:48888594 - Status: 429
+Erro NCBI para 12:52639302 - Status: 429
+Erro NCBI para 12:52661192 - Status: 429
+Erro NCBI para 12:52661209 - Status: 429
+Erro NCBI para 12:52661302 - Status: 429
+Erro NCBI para 12:52681056 - Status: 429
+Erro NCBI para 12:52681925 - Status: 429
+Erro NCBI para 12:52708420 - Status: 429
+Erro NCBI para 12:52708565 - Status: 429
+Erro NCBI para 12:52710721 - Status: 429
+Erro NCBI para 12:52713088 - Status: 429
+Erro NCBI para 12:52711549 - Status: 429
+Erro NCBI para 12:52788928 - Status: 429
+Erro NCBI para 12:52779360 - Status: 429
+Erro NCBI para 12:52867190 - Status: 429
+Erro NCBI para 12:52867105 - Status: 429
+Erro NCBI para 12:52867260 - Status: 429
+Erro NCBI para 12:52867324 - Status: 429
+Erro NCBI para 12:52867339 - Status: 429
+Erro NCBI para 12:52867341 - Status: 429
+Erro NCBI para 12:52867342 - Status: 429
+Erro NCBI para 12:52965173 - Status: 429
+Erro NCBI para 12:52965782 - Status: 429
+Erro NCBI para 12:52965761 - Status: 429
+Erro NCBI para 12:52967436 - Status: 429
+Erro NCBI para 12:53086645 - Status: 429
+Erro NCBI para 12:53090190 - Status: 429
+Erro NCBI para 12:53091566 - Status: 429
+Erro NCBI para 12:53088484 - Status: 429
+Erro NCBI para 12:53686703 - Status: 429
+Erro NCBI para 12:53693533 - Status: 429
+Erro NCBI para 12:53693532 - Status: 429
+Erro NCBI para 12:53700848 - Status: 429
+Erro NCBI para 12:53700860 - Status: 429
+Erro NCBI para 12:53703021 - Status: 429
+Erro NCBI para 12:55863398 - Status: 429
+Erro NCBI para 12:55886489 - Status: 429
+Erro NCBI para 12:55887087 - Status: 429
+Erro NCBI para 12:56649601 - Status: 429
+Erro NCBI para 12:56814653 - Status: 429
+Erro NCBI para 12:56815922 - Status: 429
+Erro NCBI para 12:56822378 - Status: 429
+Erro NCBI para 12:57649840 - Status: 429
+Erro NCBI para 12:58002599 - Status: 429
+Erro NCBI para 12:58010163 - Status: 429
+Erro NCBI para 12:58015494 - Status: 429
+Erro NCBI para 12:58026001 - Status: 429
+Erro NCBI para 12:58019472 - Status: 429
+Erro NCBI para 12:58112189 - Status: 429
+Erro NCBI para 12:58126234 - Status: 429
+Erro NCBI para 12:58177943 - Status: 429
+Erro NCBI para 12:58204283 - Status: 429
+Erro NCBI para 12:58350631 - Status: 429
+Erro NCBI para 12:69160523 - Status: 429
+Erro NCBI para 12:70983895 - Status: 429
+Erro NCBI para 12:80712420 - Status: 429
+Erro NCBI para 12:80735771 - Status: 429
+Erro NCBI para 12:80752660 - Status: 429
+Erro NCBI para 12:80747242 - Status: 429
+Erro NCBI para 12:80761430 - Status: 429
+Erro NCBI para 12:101552075 - Status: 429
+Erro NCBI para 12:101560328 - Status: 429
+Erro NCBI para 12:105434467 - Status: 429
+Erro NCBI para 12:105568176 - Status: 429
+Erro NCBI para 12:105600935 - Status: 429
+Erro NCBI para 12:105583877 - Status: 429
+Erro NCBI para 12:109696838 - Status: 429
+Erro NCBI para 12:109675029 - Status: 429
+Erro NCBI para 12:109644616 - Status: 429
+Erro NCBI para 12:114793260 - Status: 429
+Erro NCBI para 12:116408538 - Status: 429
+Erro NCBI para 12:116429689 - Status: 429
+Erro NCBI para 12:118682751 - Status: 429
+Erro NCBI para 12:122676013 - Status: 429
+Erro NCBI para 12:129028586 - Status: 429
+Erro NCBI para 12:132406666 - Status: 429
+Erro Ensembl (posição inválida): 12:133331459
+Erro Ensembl (posição inválida): 12:133357412
+Erro Ensembl (posição inválida): 12:133363006
+Erro Ensembl (posição inválida): 12:133428242
+Erro Ensembl (posição inválida): 12:133682655
+Erro Ensembl (posição inválida): 12:133433173
+Erro Ensembl (posição inválida): 12:133728485
+Erro Ensembl (posição inválida): 12:133732624
+Erro NCBI para 12:133357412 - Status: 429
+Erro NCBI para 12:133363006 - Status: 429
+Erro NCBI para 12:133428242 - Status: 429
+Erro NCBI para 12:133682655 - Status: 429
+Erro NCBI para 12:133433173 - Status: 429
+Erro NCBI para 12:133728485 - Status: 429
+Erro NCBI para 12:133732624 - Status: 429
+Erro Ensembl (posição inválida): 12:133780309
+Erro Ensembl (posição inválida): 12:133795885
+Erro Ensembl (posição inválida): 12:133810880
+Erro NCBI para 13:21720956 - Status: 429
+Erro NCBI para 13:24330751 - Status: 429
+Erro NCBI para 13:25020863 - Status: 429
+Erro NCBI para 13:25009099 - Status: 429
+Erro NCBI para 13:25008903 - Status: 429
+Erro NCBI para 13:25021154 - Status: 429
+Erro NCBI para 13:25021200 - Status: 429
+Erro NCBI para 13:25021211 - Status: 429
+Erro NCBI para 13:25021245 - Status: 429
+Erro NCBI para 13:25027744 - Status: 429
+Erro NCBI para 13:25029218 - Status: 429
+Erro NCBI para 13:25021323 - Status: 429
+Erro NCBI para 13:25033200 - Status: 429
+Erro NCBI para 13:25033227 - Status: 429
+Erro NCBI para 13:25052261 - Status: 429
+Erro NCBI para 13:25060313 - Status: 429
+Erro NCBI para 13:30091819 - Status: 429
+Erro NCBI para 13:31495158 - Status: 429
+Erro NCBI para 13:31729729 - Status: 429
+Erro NCBI para 13:31821992 - Status: 429
+Erro NCBI para 13:32929232 - Status: 429
+Erro NCBI para 13:32993549 - Status: 429
+Erro NCBI para 13:32929387 - Status: 429
+Erro NCBI para 13:36801415 - Status: 429
+Erro NCBI para 13:73349359 - Status: 429
+Erro NCBI para 13:73409508 - Status: 429
+Erro NCBI para 13:77531361 - Status: 429
+Erro NCBI para 13:75884216 - Status: 429
+Erro NCBI para 13:87045827 - Status: 429
+Erro NCBI para 13:99112680 - Status: 429
+Erro NCBI para 13:99575568 - Status: 429
+Erro NCBI para 13:103400729 - Status: 429
+Erro NCBI para 13:103402522 - Status: 429
+Erro NCBI para 13:103410782 - Status: 429
+Erro NCBI para 13:103410914 - Status: 429
+Erro NCBI para 13:110862303 - Status: 429
+Erro NCBI para 13:111368316 - Status: 429
+Erro NCBI para 13:111980537 - Status: 429
+Erro Ensembl (posição inválida): 13:114453591
+Erro Ensembl (posição inválida): 13:114453605
+Erro Ensembl (posição inválida): 13:114453873
+Erro Ensembl (posição inválida): 13:114453899
+Erro Ensembl (posição inválida): 13:114471900
+Erro Ensembl (posição inválida): 13:114623880
+Erro Ensembl (posição inválida): 13:114453912
+Erro NCBI para 13:114453873 - Status: 429
+Erro NCBI para 13:114453899 - Status: 429
+Erro NCBI para 13:114471900 - Status: 429
+Erro NCBI para 13:114623880 - Status: 429
+Erro NCBI para 13:114453912 - Status: 429
+Erro NCBI para 14:19990641 - Status: 429
+Erro NCBI para 14:20007608 - Status: 429
+Erro NCBI para 14:20010207 - Status: 429
+Erro NCBI para 14:20012689 - Status: 429
+Erro NCBI para 14:20012822 - Status: 429
+Erro NCBI para 14:20019785 - Status: 429
+Erro NCBI para 14:20019864 - Status: 429
+Erro NCBI para 14:20019873 - Status: 429
+Erro NCBI para 14:20020071 - Status: 429
+Erro NCBI para 14:20020194 - Status: 429
+Erro NCBI para 14:20020201 - Status: 429
+Erro NCBI para 14:20020113 - Status: 429
+Erro NCBI para 14:20216298 - Status: 429
+Erro NCBI para 14:20181609 - Status: 429
+Erro NCBI para 14:21551058 - Status: 429
+Erro NCBI para 14:21555481 - Status: 429
+Erro NCBI para 14:21562560 - Status: 429
+Erro NCBI para 14:21551069 - Status: 429
+Erro NCBI para 14:21770730 - Status: 429
+Erro NCBI para 14:21769193 - Status: 429
+Erro NCBI para 14:21785790 - Status: 429
+Erro NCBI para 14:21829129 - Status: 429
+Erro NCBI para 14:21829470 - Status: 429
+Erro NCBI para 14:21831052 - Status: 429
+Erro NCBI para 14:21960969 - Status: 429
+Erro NCBI para 14:21967916 - Status: 429
+Erro NCBI para 14:21991626 - Status: 429
+Erro NCBI para 14:21993498 - Status: 429
+Erro NCBI para 14:22038162 - Status: 429
+Erro NCBI para 14:22038210 - Status: 429
+Erro NCBI para 14:22102612 - Status: 429
+Erro NCBI para 14:22102745 - Status: 429
+Erro NCBI para 14:22133648 - Status: 429
+Erro NCBI para 14:22133997 - Status: 429
+Erro NCBI para 14:22616554 - Status: 429
+Erro NCBI para 14:23777099 - Status: 429
+Erro NCBI para 14:23892888 - Status: 429
+Erro NCBI para 14:23899027 - Status: 429
+Erro NCBI para 14:23777374 - Status: 429
+Erro NCBI para 14:23902753 - Status: 429
+Erro ao acessar Ensembl para 14:20528359 - Exceção: HTTPSConnectionPool(host='rest.ensembl.org', port=443): Max retries exceeded with url: /overlap/region/human/14:20528359-20528359?feature=gene (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024F6D7C35B0>: Failed to establish a new connection: [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu\r\ncorretamente após um período de tempo ou a conexão estabelecida falhou\r\nporque o host conectado não respondeu'))
+Erro NCBI para 14:24529890 - Status: 429
+Erro NCBI para 14:24543808 - Status: 429
+Erro NCBI para 14:24545366 - Status: 429
+Erro NCBI para 14:24545835 - Status: 429
+Erro NCBI para 14:24567498 - Status: 429
+Erro NCBI para 14:24769849 - Status: 429
+Erro NCBI para 14:24808168 - Status: 429
+Erro NCBI para 14:24806800 - Status: 429
+Erro NCBI para 14:24771256 - Status: 429
+Erro NCBI para 14:45606387 - Status: 429
+Erro NCBI para 14:75483812 - Status: 429
+Erro NCBI para 14:77987958 - Status: 429
+Erro NCBI para 14:92920371 - Status: 429
+Erro NCBI para 14:93118668 - Status: 429
+Erro NCBI para 14:93154537 - Status: 429
+Erro NCBI para 14:93170993 - Status: 429
+Erro NCBI para 14:93178191 - Status: 429
+Erro NCBI para 14:94756794 - Status: 429
+Erro NCBI para 14:94844843 - Status: 429
+Erro NCBI para 14:94776221 - Status: 429
+Erro NCBI para 14:94849151 - Status: 429
+Erro NCBI para 14:94912799 - Status: 429
+Erro NCBI para 14:94912896 - Status: 429
+Erro NCBI para 14:94933473 - Status: 429
+Erro NCBI para 14:94933709 - Status: 429
+Erro NCBI para 14:94933640 - Status: 429
+Erro NCBI para 14:95053890 - Status: 429
+Erro NCBI para 14:95054176 - Status: 429
+Erro NCBI para 14:95058462 - Status: 429
+Erro NCBI para 14:95080803 - Status: 429
+Erro NCBI para 14:96136794 - Status: 429
+Erro NCBI para 14:99640905 - Status: 429
+Erro NCBI para 14:100615665 - Status: 429
+Erro NCBI para 14:100759277 - Status: 429
+Erro NCBI para 14:104322573 - Status: 429
+Erro NCBI para 14:104436931 - Status: 429
+Erro NCBI para 14:104394850 - Status: 429
+Erro NCBI para 14:104429453 - Status: 429
+Erro NCBI para 14:104452640 - Status: 429
+Erro NCBI para 14:104643421 - Status: 429
+Erro NCBI para 14:104643721 - Status: 429
+Erro NCBI para 14:104643859 - Status: 429
+Erro NCBI para 14:105617042 - Status: 429
+Erro NCBI para 14:105716574 - Status: 429
+Erro NCBI para 14:105935824 - Status: 429
+Erro NCBI para 14:105688082 - Status: 429
+Erro NCBI para 14:106053461 - Status: 429
+Erro NCBI para 14:106053975 - Status: 429
+Erro NCBI para 14:106054428 - Status: 429
+Erro NCBI para 14:106054456 - Status: 429
+Erro NCBI para 14:106066454 - Status: 429
+Erro NCBI para 14:106090846 - Status: 429
+Erro NCBI para 14:106090927 - Status: 429
+Erro NCBI para 14:106092152 - Status: 429
+Erro NCBI para 14:106091555 - Status: 429
+Erro NCBI para 14:106092335 - Status: 429
+Erro NCBI para 14:106092401 - Status: 429
+Erro NCBI para 14:106092383 - Status: 429
+Erro NCBI para 14:106109573 - Status: 429
+Erro NCBI para 14:106109752 - Status: 429
+Erro NCBI para 14:106110966 - Status: 429
+Erro NCBI para 14:106173790 - Status: 429
+Erro NCBI para 14:106110993 - Status: 429
+Erro NCBI para 14:106173808 - Status: 429
+Erro NCBI para 14:106188230 - Status: 429
+Erro NCBI para 14:106235766 - Status: 429
+Erro NCBI para 14:106235767 - Status: 429
+Erro NCBI para 14:106236128 - Status: 429
+Erro NCBI para 14:106236143 - Status: 429
+Erro NCBI para 14:106237642 - Status: 429
+Erro NCBI para 14:106303846 - Status: 429
+Erro NCBI para 14:106307418 - Status: 429
+Erro NCBI para 14:106330046 - Status: 429
+Erro NCBI para 14:106330067 - Status: 429
+Erro NCBI para 14:106330068 - Status: 429
+Erro NCBI para 14:106330070 - Status: 429
+Erro NCBI para 14:106471268 - Status: 429
+Erro NCBI para 14:106471273 - Status: 429
+Erro NCBI para 14:106471353 - Status: 429
+Erro NCBI para 14:106471388 - Status: 429
+Erro NCBI para 14:106471410 - Status: 429
+Erro NCBI para 14:106471426 - Status: 429
+Erro NCBI para 14:106471528 - Status: 429
+Erro NCBI para 14:106471522 - Status: 429
+Erro NCBI para 14:106471534 - Status: 429
+Erro NCBI para 14:106478401 - Status: 429
+Erro NCBI para 14:106539252 - Status: 429
+Erro NCBI para 14:106539291 - Status: 429
+Erro NCBI para 14:106610469 - Status: 429
+Erro NCBI para 14:106667592 - Status: 429
+Erro NCBI para 14:106691800 - Status: 429
+Erro NCBI para 14:106691804 - Status: 429
+Erro NCBI para 14:106691802 - Status: 429
+Erro NCBI para 14:106691806 - Status: 429
+Erro NCBI para 14:106691812 - Status: 429
+Erro NCBI para 14:106691869 - Status: 429
+Erro NCBI para 14:106691868 - Status: 429
+Erro NCBI para 14:106691874 - Status: 429
+Erro NCBI para 14:106691876 - Status: 429
+Erro NCBI para 14:106691875 - Status: 429
+Erro NCBI para 14:106757655 - Status: 429
+Erro NCBI para 14:106780634 - Status: 429
+Erro NCBI para 14:106780801 - Status: 429
+Erro NCBI para 14:106780817 - Status: 429
+Erro NCBI para 14:106805508 - Status: 429
+Erro NCBI para 14:106815944 - Status: 429
+Erro NCBI para 14:106805440 - Status: 429
+Erro NCBI para 14:106993845 - Status: 429
+Erro NCBI para 14:106845417 - Status: 429
+Erro NCBI para 14:106967151 - Status: 429
+Erro NCBI para 14:107013201 - Status: 429
+Erro Ensembl (posição inválida): 14:107048690
+Erro Ensembl (posição inválida): 14:107048885
+Erro Ensembl (posição inválida): 14:107049080
+Erro Ensembl (posição inválida): 14:107048767
+Erro Ensembl (posição inválida): 14:107048944
+Erro Ensembl (posição inválida): 14:107078790
+Erro Ensembl (posição inválida): 14:107095326
+Erro Ensembl (posição inválida): 14:107078567
+Erro Ensembl (posição inválida): 14:107131063
+Erro NCBI para 14:107049080 - Status: 429
+Erro NCBI para 14:107048767 - Status: 429
+Erro NCBI para 14:107048944 - Status: 429
+Erro NCBI para 14:107078790 - Status: 429
+Erro NCBI para 14:107095326 - Status: 429
+Erro NCBI para 14:107078567 - Status: 429
+Erro NCBI para 14:107131063 - Status: 429
+Erro Ensembl (posição inválida): 14:107131128
+Erro Ensembl (posição inválida): 14:107131290
+Erro Ensembl (posição inválida): 14:107131300
+Erro Ensembl (posição inválida): 14:107170005
+Erro Ensembl (posição inválida): 14:107170055
+Erro Ensembl (posição inválida): 14:107170062
+Erro Ensembl (posição inválida): 14:107170219
+Erro Ensembl (posição inválida): 14:107178965
+Erro Ensembl (posição inválida): 14:107170077
+Erro Ensembl (posição inválida): 14:107178832
+Erro NCBI para 14:107170005 - Status: 429
+Erro NCBI para 14:107170055 - Status: 429
+Erro NCBI para 14:107170062 - Status: 429
+Erro NCBI para 14:107170219 - Status: 429
+Erro NCBI para 14:107178965 - Status: 429
+Erro NCBI para 14:107170077 - Status: 429
+Erro NCBI para 14:107178832 - Status: 429
+Erro Ensembl (posição inválida): 14:107211211
+Erro Ensembl (posição inválida): 14:107282791
+Erro Ensembl (posição inválida): 14:107282836
+Erro Ensembl (posição inválida): 14:107282809
+Erro Ensembl (posição inválida): 14:107282813
+Erro Ensembl (posição inválida): 14:107282814
+Erro Ensembl (posição inválida): 14:107282852
+Erro Ensembl (posição inválida): 14:107282859
+Erro Ensembl (posição inválida): 14:107282846
+Erro Ensembl (posição inválida): 14:107282872
+Erro NCBI para 14:107282809 - Status: 429
+Erro NCBI para 14:107282813 - Status: 429
+Erro NCBI para 14:107282814 - Status: 429
+Erro NCBI para 14:107282852 - Status: 429
+Erro NCBI para 14:107282859 - Status: 429
+Erro NCBI para 14:107282846 - Status: 429
+Erro NCBI para 14:107282872 - Status: 429
+Erro Ensembl (posição inválida): 14:107282909
+Erro NCBI para 15:20777930 - Status: 429
+Erro NCBI para 15:20874897 - Status: 429
+Erro NCBI para 15:20876515 - Status: 429
+Erro NCBI para 15:21071492 - Status: 429
+Erro NCBI para 15:21071374 - Status: 429
+Erro NCBI para 15:21195980 - Status: 429
+Erro NCBI para 15:22382739 - Status: 429
+Erro NCBI para 15:22382821 - Status: 429
+Erro NCBI para 15:22382828 - Status: 429
+Erro NCBI para 15:22383066 - Status: 429
+Erro NCBI para 15:22382897 - Status: 429
+Erro NCBI para 15:22383064 - Status: 429
+Erro NCBI para 15:22709020 - Status: 429
+Erro NCBI para 15:22709918 - Status: 429
+Erro NCBI para 15:23259512 - Status: 429
+Erro NCBI para 15:23052632 - Status: 429
+Erro NCBI para 15:23261950 - Status: 429
+Erro NCBI para 15:23264144 - Status: 429
+Erro NCBI para 15:23261385 - Status: 429
+Erro NCBI para 15:23264983 - Status: 429
+Erro NCBI para 15:23685228 - Status: 429
+Erro NCBI para 15:23685232 - Status: 429
+Erro NCBI para 15:23685343 - Status: 429
+Erro NCBI para 15:28502279 - Status: 429
+Erro NCBI para 15:28518102 - Status: 429
+Erro NCBI para 15:28518112 - Status: 429
+Erro NCBI para 15:28518130 - Status: 429
+Erro NCBI para 15:28518126 - Status: 429
+Erro NCBI para 15:28518135 - Status: 429
+Erro NCBI para 15:28518136 - Status: 429
+Erro NCBI para 15:40590134 - Status: 429
+Erro NCBI para 15:40862064 - Status: 429
+Erro NCBI para 15:42138321 - Status: 429
+Erro NCBI para 15:42138456 - Status: 429
+Erro NCBI para 15:58571401 - Status: 429
+Erro NCBI para 15:66795585 - Status: 429
+Erro NCBI para 15:66960723 - Status: 429
+Erro NCBI para 15:72978552 - Status: 429
+Erro NCBI para 15:74336633 - Status: 429
+Erro NCBI para 15:78917399 - Status: 429
+Erro NCBI para 15:79750127 - Status: 429
+Erro NCBI para 15:79750307 - Status: 429
+Erro NCBI para 15:80189207 - Status: 429
+Erro NCBI para 15:79755604 - Status: 429
+Erro NCBI para 15:80191343 - Status: 429
+Erro NCBI para 15:82808357 - Status: 429
+Erro NCBI para 15:82808399 - Status: 429
+Erro NCBI para 15:82808400 - Status: 429
+Erro NCBI para 15:82808504 - Status: 429
+Erro NCBI para 15:82808505 - Status: 429
+Erro NCBI para 15:82808513 - Status: 429
+Erro NCBI para 15:82808545 - Status: 429
+Erro NCBI para 15:101113862 - Status: 429
+Erro Ensembl (posição inválida): 15:102192548
+Erro Ensembl (posição inválida): 15:102264476
+Erro NCBI para 15:101910550 - Status: 429
+Erro Ensembl (posição inválida): 15:102292723
+Erro Ensembl (posição inválida): 15:102284675
+Erro NCBI para 15:102192548 - Status: 429
+Erro Ensembl (posição inválida): 15:102277480
+Erro Ensembl (posição inválida): 15:102292726
+Erro Ensembl (posição inválida): 15:102292708
+Erro Ensembl (posição inválida): 15:102292767
+Erro Ensembl (posição inválida): 15:102292782
+Erro NCBI para 15:102292726 - Status: 429
+Erro NCBI para 15:102292708 - Status: 429
+Erro NCBI para 15:102292767 - Status: 429
+Erro Ensembl (posição inválida): 15:102292820
+Erro NCBI para 15:102292782 - Status: 429
+Erro Ensembl (posição inválida): 15:102292832
+Erro NCBI para 15:102292820 - Status: 429
+Erro Ensembl (posição inválida): 15:102515241
+Erro Ensembl (posição inválida): 15:102506389
+Erro NCBI para 16:420140 - Status: 429
+Erro NCBI para 16:420179 - Status: 429
+Erro NCBI para 16:711905 - Status: 429
+Erro NCBI para 16:1026398 - Status: 429
+Erro NCBI para 16:1026910 - Status: 429
+Erro NCBI para 16:1034834 - Status: 429
+Erro NCBI para 16:1029627 - Status: 429
+Erro NCBI para 16:1251803 - Status: 429
+Erro NCBI para 16:1252369 - Status: 429
+Erro NCBI para 16:1268494 - Status: 429
+Erro NCBI para 16:1273490 - Status: 429
+Erro NCBI para 16:1271890 - Status: 429
+Erro NCBI para 16:1269029 - Status: 429
+Erro NCBI para 16:1278744 - Status: 429
+Erro NCBI para 16:1272865 - Status: 429
+Erro NCBI para 16:1278767 - Status: 429
+Erro NCBI para 16:1260481 - Status: 429
+Erro NCBI para 16:1279623 - Status: 429
+Erro NCBI para 16:1279704 - Status: 429
+Erro NCBI para 16:1279710 - Status: 429
+Erro NCBI para 16:1279714 - Status: 429
+Erro NCBI para 16:1279717 - Status: 429
+Erro NCBI para 16:1279732 - Status: 429
+Erro NCBI para 16:1484473 - Status: 429
+Erro NCBI para 16:2814162 - Status: 429
+Erro NCBI para 16:11544673 - Status: 429
+Erro NCBI para 16:11647492 - Status: 429
+Erro NCBI para 16:11650325 - Status: 429
+Erro NCBI para 16:21222672 - Status: 429
+Erro NCBI para 16:21222941 - Status: 429
+Erro NCBI para 16:28995757 - Status: 429
+Erro NCBI para 16:28997997 - Status: 429
+Erro NCBI para 16:31203529 - Status: 429
+Erro NCBI para 16:31204235 - Status: 429
+Erro NCBI para 16:33954069 - Status: 429
+Erro NCBI para 16:33954066 - Status: 429
+Erro NCBI para 16:33961400 - Status: 429
+Erro NCBI para 16:33954079 - Status: 429
+Erro NCBI para 16:33961418 - Status: 429
+Erro NCBI para 16:33961471 - Status: 429
+Erro NCBI para 16:33961474 - Status: 429
+Erro NCBI para 16:33961500 - Status: 429
+Erro NCBI para 16:33961520 - Status: 429
+Erro NCBI para 16:33961481 - Status: 429
+Erro NCBI para 16:33961529 - Status: 429
+Erro NCBI para 16:33961539 - Status: 429
+Erro NCBI para 16:33961563 - Status: 429
+Erro NCBI para 16:33961564 - Status: 429
+Erro NCBI para 16:33961581 - Status: 429
+Erro NCBI para 16:33961598 - Status: 429
+Erro NCBI para 16:33961621 - Status: 429
+Erro NCBI para 16:33961607 - Status: 429
+Erro NCBI para 16:33961628 - Status: 429
+Erro NCBI para 16:33961659 - Status: 429
+Erro NCBI para 16:33961658 - Status: 429
+Erro NCBI para 16:33961672 - Status: 429
+Erro NCBI para 16:33961702 - Status: 429
+Erro NCBI para 16:33961705 - Status: 429
+Erro NCBI para 16:33961752 - Status: 429
+Erro NCBI para 16:33961753 - Status: 429
+Erro NCBI para 16:33961768 - Status: 429
+Erro NCBI para 16:33961873 - Status: 429
+Erro NCBI para 16:33961779 - Status: 429
+Erro NCBI para 16:33961877 - Status: 429
+Erro NCBI para 16:33961878 - Status: 429
+Erro NCBI para 16:33961902 - Status: 429
+Erro NCBI para 16:33961938 - Status: 429
+Erro NCBI para 16:33961936 - Status: 429
+Erro NCBI para 16:33961944 - Status: 429
+Erro NCBI para 16:33961968 - Status: 429
+Erro NCBI para 16:54279687 - Status: 429
+Erro NCBI para 16:54279693 - Status: 429
+Erro NCBI para 16:57503213 - Status: 429
+Erro NCBI para 16:57732012 - Status: 429
+Erro NCBI para 16:68732049 - Status: 429
+Erro NCBI para 16:70211370 - Status: 429
+Erro NCBI para 16:70211380 - Status: 429
+Erro ao acessar Ensembl para 16:58585178 - Exceção: HTTPSConnectionPool(host='rest.ensembl.org', port=443): Max retries exceeded with url: /overlap/region/human/16:58585178-58585178?feature=gene (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024F6EC20310>: Failed to establish a new connection: [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu\r\ncorretamente após um período de tempo ou a conexão estabelecida falhou\r\nporque o host conectado não respondeu'))
+Erro NCBI para 16:84209864 - Status: 429
+Erro NCBI para 16:84212571 - Status: 429
+Erro NCBI para 16:84213434 - Status: 429
+Erro NCBI para 16:84215390 - Status: 429
+Erro NCBI para 16:84808824 - Status: 429
+Erro NCBI para 16:84695490 - Status: 429
+Erro NCBI para 16:89251832 - Status: 429
+Erro NCBI para 16:89258747 - Status: 429
+Erro NCBI para 16:89261482 - Status: 429
+Erro NCBI para 16:89259993 - Status: 429
+Erro NCBI para 16:89265095 - Status: 429
+Erro NCBI para 16:90233555 - Status: 429
+Erro NCBI para 16:90233610 - Status: 429
+Erro NCBI para 17:6157 - Status: 429
+Erro NCBI para 17:6115 - Status: 429
+Erro NCBI para 17:4576620 - Status: 429
+Erro NCBI para 17:4645324 - Status: 429
+Erro NCBI para 17:6331803 - Status: 429
+Erro NCBI para 17:7951819 - Status: 429
+Erro NCBI para 17:7983799 - Status: 429
+Erro NCBI para 17:7999957 - Status: 429
+Erro NCBI para 17:7984479 - Status: 429
+Erro NCBI para 17:8661641 - Status: 429
+Erro NCBI para 17:8725214 - Status: 429
+Erro NCBI para 17:10243717 - Status: 429
+Erro NCBI para 17:17425631 - Status: 429
+Erro NCBI para 17:18221134 - Status: 429
+Erro NCBI para 17:20768757 - Status: 429
+Erro NCBI para 17:20768761 - Status: 429
+Erro NCBI para 17:20768762 - Status: 429
+Erro NCBI para 17:20768788 - Status: 429
+Erro NCBI para 17:20768803 - Status: 429
+Erro NCBI para 17:20768816 - Status: 429
+Erro NCBI para 17:20769862 - Status: 429
+Erro NCBI para 17:20769899 - Status: 429
+Erro NCBI para 17:20769964 - Status: 429
+Erro NCBI para 17:20769995 - Status: 429
+Erro NCBI para 17:20769968 - Status: 429
+Erro NCBI para 17:20770002 - Status: 429
+Erro NCBI para 17:20770003 - Status: 429
+Erro NCBI para 17:21194820 - Status: 429
+Erro NCBI para 17:21194785 - Status: 429
+Erro NCBI para 17:21194843 - Status: 429
+Erro NCBI para 17:21194852 - Status: 429
+Erro NCBI para 17:21194859 - Status: 429
+Erro NCBI para 17:21318773 - Status: 429
+Erro NCBI para 17:21318782 - Status: 429
+Erro NCBI para 17:21318821 - Status: 429
+Erro NCBI para 17:21318867 - Status: 429
+Erro NCBI para 17:21318897 - Status: 429
+Erro NCBI para 17:21318918 - Status: 429
+Erro NCBI para 17:21318912 - Status: 429
+Erro NCBI para 17:21318969 - Status: 429
+Erro NCBI para 17:21318981 - Status: 429
+Erro NCBI para 17:21319007 - Status: 429
+Erro NCBI para 17:21319008 - Status: 429
+Erro NCBI para 17:21319069 - Status: 429
+Erro NCBI para 17:21319079 - Status: 429
+Erro NCBI para 17:21319087 - Status: 429
+Erro NCBI para 17:21319208 - Status: 429
+Erro NCBI para 17:21319171 - Status: 429
+Erro NCBI para 17:21319251 - Status: 429
+Erro NCBI para 17:21319272 - Status: 429
+Erro NCBI para 17:21319285 - Status: 429
+Erro NCBI para 17:21319302 - Status: 429
+Erro NCBI para 17:21319311 - Status: 429
+Erro NCBI para 17:21319407 - Status: 429
+Erro NCBI para 17:21319436 - Status: 429
+Erro NCBI para 17:21319439 - Status: 429
+Erro NCBI para 17:21319452 - Status: 429
+Erro NCBI para 17:21319465 - Status: 429
+Erro NCBI para 17:21319470 - Status: 429
+Erro NCBI para 17:21319473 - Status: 429
+Erro NCBI para 17:21319527 - Status: 429
+Erro NCBI para 17:21319543 - Status: 429
+Erro NCBI para 17:21319716 - Status: 429
+Erro NCBI para 17:21319682 - Status: 429
+Erro NCBI para 17:21319560 - Status: 429
+Erro NCBI para 17:21319728 - Status: 429
+Erro NCBI para 17:21319743 - Status: 429
+Erro NCBI para 17:21319845 - Status: 429
+Erro NCBI para 17:21319860 - Status: 429
+Erro NCBI para 17:21319955 - Status: 429
+Erro NCBI para 17:21319908 - Status: 429
+Erro NCBI para 17:21319868 - Status: 429
+Erro NCBI para 17:21730703 - Status: 429
+Erro NCBI para 17:21731041 - Status: 429
+Erro NCBI para 17:26089867 - Status: 429
+Erro NCBI para 17:26092631 - Status: 429
+Erro NCBI para 17:26684390 - Status: 429
+Erro NCBI para 17:26684449 - Status: 429
+Erro NCBI para 17:26684394 - Status: 429
+Erro NCBI para 17:26692224 - Status: 429
+Erro NCBI para 17:26708550 - Status: 429
+Erro NCBI para 17:26708551 - Status: 429
+Erro NCBI para 17:26727721 - Status: 429
+Erro NCBI para 17:26955330 - Status: 429
+Erro NCBI para 17:26861877 - Status: 429
+Erro NCBI para 17:27286851 - Status: 429
+Erro NCBI para 17:27283241 - Status: 429
+Erro NCBI para 17:27290969 - Status: 429
+Erro NCBI para 17:34432663 - Status: 429
+Erro NCBI para 17:34432664 - Status: 429
+Erro NCBI para 17:34499247 - Status: 429
+Erro NCBI para 17:34797608 - Status: 429
+Erro NCBI para 17:34416537 - Status: 429
+Erro NCBI para 17:38935876 - Status: 429
+Erro NCBI para 17:38978536 - Status: 429
+Erro NCBI para 17:39580660 - Status: 429
+Erro NCBI para 17:39580739 - Status: 429
+Erro NCBI para 17:39593722 - Status: 429
+Erro NCBI para 17:39593768 - Status: 429
+Erro NCBI para 17:39594386 - Status: 429
+Erro NCBI para 17:39884583 - Status: 429
+Erro NCBI para 17:39890715 - Status: 429
+Erro NCBI para 17:39883595 - Status: 429
+Erro NCBI para 17:40722029 - Status: 429
+Erro NCBI para 17:40716520 - Status: 429
+Erro NCBI para 17:40811919 - Status: 429
+Erro NCBI para 17:41196408 - Status: 429
+Erro NCBI para 17:41197274 - Status: 429
+Erro NCBI para 17:41223094 - Status: 429
+Erro NCBI para 17:41234470 - Status: 429
+Erro NCBI para 17:41244000 - Status: 429
+Erro NCBI para 17:41244435 - Status: 429
+Erro NCBI para 17:41361960 - Status: 429
+Erro NCBI para 17:44626660 - Status: 429
+Erro NCBI para 17:44632540 - Status: 429
+Erro NCBI para 17:44950122 - Status: 429
+Erro NCBI para 17:48445674 - Status: 429
+Erro NCBI para 17:48452776 - Status: 429
+Erro NCBI para 17:48452978 - Status: 429
+Erro NCBI para 17:48455985 - Status: 429
+Erro NCBI para 17:48456193 - Status: 429
+Erro NCBI para 17:54872439 - Status: 429
+Erro NCBI para 17:55183813 - Status: 429
+Erro NCBI para 17:55183792 - Status: 429
+Erro NCBI para 17:56621286 - Status: 429
+Erro NCBI para 17:56620167 - Status: 429
+Erro NCBI para 17:56636854 - Status: 429
+Erro NCBI para 17:56643109 - Status: 429
+Erro NCBI para 17:56659018 - Status: 429
+Erro NCBI para 17:56621359 - Status: 429
+Erro NCBI para 17:57963537 - Status: 429
+Erro NCBI para 17:58134442 - Status: 429
+Erro NCBI para 17:58180062 - Status: 429
+Erro NCBI para 17:62891989 - Status: 429
+Erro NCBI para 17:62892031 - Status: 429
+Erro NCBI para 17:62892159 - Status: 429
+Erro NCBI para 17:62892071 - Status: 429
+Erro NCBI para 17:62892442 - Status: 429
+Erro NCBI para 17:62892873 - Status: 429
+Erro NCBI para 17:62892919 - Status: 429
+Erro NCBI para 17:64023642 - Status: 429
+Erro NCBI para 17:70943990 - Status: 429
+Erro NCBI para 17:71205854 - Status: 429
+Erro NCBI para 17:71232687 - Status: 429
+Erro NCBI para 17:71233130 - Status: 429
+Erro NCBI para 17:71238433 - Status: 429
+Erro NCBI para 17:71334473 - Status: 429
+Erro NCBI para 17:71410891 - Status: 429
+Erro NCBI para 17:71746427 - Status: 429
+Erro NCBI para 17:71746435 - Status: 429
+Erro NCBI para 17:71746479 - Status: 429
+Erro NCBI para 17:73279624 - Status: 429
+Erro NCBI para 17:77073566 - Status: 429
+Erro NCBI para 17:77075673 - Status: 429
+Erro NCBI para 17:77081788 - Status: 429
+Erro NCBI para 17:79612397 - Status: 429
+Erro NCBI para 17:79612413 - Status: 429
+Erro NCBI para 17:79612443 - Status: 429
+Erro NCBI para 17:79614932 - Status: 429
+Erro NCBI para 17:79617534 - Status: 429
+Erro NCBI para 17:79617871 - Status: 429
+Erro NCBI para 17:79618059 - Status: 429
+Erro NCBI para 17:79899495 - Status: 429
+Erro NCBI para 18:19100758 - Status: 429
+Erro NCBI para 18:19079853 - Status: 429
+Erro NCBI para 18:19154143 - Status: 429
+Erro NCBI para 18:19153494 - Status: 429
+Erro NCBI para 18:19995753 - Status: 429
+Erro NCBI para 18:19996011 - Status: 429
+Erro NCBI para 18:25570228 - Status: 429
+Erro NCBI para 18:28968959 - Status: 429
+Erro NCBI para 18:28968371 - Status: 429
+Erro NCBI para 18:28993501 - Status: 429
+Erro NCBI para 18:29038536 - Status: 429
+Erro NCBI para 18:29055957 - Status: 429
+Erro NCBI para 18:29598847 - Status: 429
+Erro NCBI para 18:29625685 - Status: 429
+Erro NCBI para 18:29672676 - Status: 429
+Erro NCBI para 18:30846895 - Status: 429
+Erro NCBI para 18:33780020 - Status: 429
+Erro NCBI para 18:29432624 - Status: 429
+Erro NCBI para 18:34232657 - Status: 429
+Erro NCBI para 18:43307246 - Status: 429
+Erro NCBI para 18:43252883 - Status: 429
+Erro NCBI para 18:43307338 - Status: 429
+Erro NCBI para 18:33831189 - Status: 429
+Erro NCBI para 18:46284587 - Status: 429
+Erro NCBI para 18:54448778 - Status: 429
+Erro NCBI para 18:56202982 - Status: 429
+Erro NCBI para 18:56203120 - Status: 429
+Erro NCBI para 18:56203074 - Status: 429
+Erro NCBI para 18:56203447 - Status: 429
+Erro NCBI para 18:56203891 - Status: 429
+Erro NCBI para 18:56203898 - Status: 429
+Erro NCBI para 18:56196451 - Status: 429
+Erro NCBI para 18:56204387 - Status: 429
+Erro NCBI para 18:56204747 - Status: 429
+Erro NCBI para 18:56204932 - Status: 429
+Erro NCBI para 18:56204945 - Status: 429
+Erro NCBI para 18:56204977 - Status: 429
+Erro NCBI para 18:56204991 - Status: 429
+Erro NCBI para 18:59170304 - Status: 429
+Erro NCBI para 18:59770033 - Status: 429
+Erro NCBI para 18:59774037 - Status: 429
+Erro NCBI para 18:59780424 - Status: 429
+Erro NCBI para 18:59781800 - Status: 429
+Erro NCBI para 18:59810563 - Status: 429
+Erro NCBI para 18:60036083 - Status: 429
+Erro NCBI para 18:60191428 - Status: 429
+Erro NCBI para 18:60231851 - Status: 429
+Erro NCBI para 18:60237388 - Status: 429
+Erro NCBI para 18:60241732 - Status: 429
+Erro NCBI para 18:61022791 - Status: 429
+Erro NCBI para 18:61156606 - Status: 429
+Erro NCBI para 18:61160287 - Status: 429
+Erro NCBI para 18:61160385 - Status: 429
+Erro NCBI para 18:61170721 - Status: 429
+Erro NCBI para 18:61170782 - Status: 429
+Erro NCBI para 18:61170925 - Status: 429
+Erro NCBI para 18:61325816 - Status: 429
+Erro NCBI para 18:61326597 - Status: 429
+Erro NCBI para 18:61326602 - Status: 429
+Erro NCBI para 18:61326609 - Status: 429
+Erro NCBI para 18:61326628 - Status: 429
+Erro NCBI para 18:65179829 - Status: 429
+Erro NCBI para 18:67345034 - Status: 429
+Erro NCBI para 18:67365668 - Status: 429
+Erro NCBI para 18:72021717 - Status: 429
+Erro NCBI para 18:72103782 - Status: 429
+Erro NCBI para 18:72114455 - Status: 429
+Erro NCBI para 18:72228124 - Status: 429
+Erro NCBI para 18:72234635 - Status: 429
+Erro NCBI para 18:72343008 - Status: 429
+Erro NCBI para 18:72344223 - Status: 429
+Erro NCBI para 18:72914280 - Status: 429
+Erro NCBI para 18:74208485 - Status: 429
+Erro NCBI para 18:77420703 - Status: 429
+Erro NCBI para 18:77659553 - Status: 429
+Erro NCBI para 18:77805949 - Status: 429
+Erro NCBI para 18:77894844 - Status: 429
+Erro NCBI para 18:77895192 - Status: 429
+Erro NCBI para 19:7573287 - Status: 429
+Erro NCBI para 19:7573297 - Status: 429
+Erro NCBI para 19:7573301 - Status: 429
+Erro NCBI para 19:7593048 - Status: 429
+Erro NCBI para 19:7711221 - Status: 429
+Erro NCBI para 19:7712277 - Status: 429
+Erro NCBI para 19:8160334 - Status: 429
+Erro NCBI para 19:8161450 - Status: 429
+Erro NCBI para 19:8176009 - Status: 429
+Erro NCBI para 19:8176640 - Status: 429
+Erro NCBI para 19:8176569 - Status: 429
+Erro NCBI para 19:8176919 - Status: 429
+Erro NCBI para 19:8196499 - Status: 429
+Erro NCBI para 19:9012840 - Status: 429
+Erro NCBI para 19:9014551 - Status: 429
+Erro NCBI para 19:9018458 - Status: 429
+Erro NCBI para 19:9014569 - Status: 429
+Erro NCBI para 19:9018479 - Status: 429
+Erro NCBI para 19:9018476 - Status: 429
+Erro NCBI para 19:9021069 - Status: 429
+Erro NCBI para 19:9021075 - Status: 429
+Erro NCBI para 19:9021096 - Status: 429
+Erro NCBI para 19:9021107 - Status: 429
+Erro NCBI para 19:9021118 - Status: 429
+Erro NCBI para 19:9021138 - Status: 429
+Erro NCBI para 19:9021159 - Status: 429
+Erro NCBI para 19:9028373 - Status: 429
+Erro NCBI para 19:9046876 - Status: 429
+Erro NCBI para 19:9048320 - Status: 429
+Erro NCBI para 19:9048342 - Status: 429
+Erro NCBI para 19:9049339 - Status: 429
+Erro NCBI para 19:9048421 - Status: 429
+Erro NCBI para 19:9049726 - Status: 429
+Erro NCBI para 19:9057408 - Status: 429
+Erro NCBI para 19:9057687 - Status: 429
+Erro NCBI para 19:9058624 - Status: 429
+Erro NCBI para 19:9057721 - Status: 429
+Erro NCBI para 19:9058907 - Status: 429
+Erro NCBI para 19:9058942 - Status: 429
+Erro NCBI para 19:9059808 - Status: 429
+Erro NCBI para 19:9060605 - Status: 429
+Erro NCBI para 19:9060656 - Status: 429
+Erro NCBI para 19:9061559 - Status: 429
+Erro NCBI para 19:9060812 - Status: 429
+Erro NCBI para 19:9062415 - Status: 429
+Erro NCBI para 19:9062544 - Status: 429
+Erro NCBI para 19:9063678 - Status: 429
+Erro NCBI para 19:9069792 - Status: 429
+Erro NCBI para 19:9069892 - Status: 429
+Erro NCBI para 19:9070194 - Status: 429
+Erro NCBI para 19:9070225 - Status: 429
+Erro NCBI para 19:9071763 - Status: 429
+Erro NCBI para 19:9072975 - Status: 429
+Erro NCBI para 19:9074073 - Status: 429
+Erro NCBI para 19:9074950 - Status: 429
+Erro NCBI para 19:9075217 - Status: 429
+Erro NCBI para 19:9070837 - Status: 429
+Erro NCBI para 19:9075737 - Status: 429
+Erro NCBI para 19:9075969 - Status: 429
+Erro NCBI para 19:9072742 - Status: 429
+Erro NCBI para 19:9072221 - Status: 429
+Erro NCBI para 19:9076083 - Status: 429
+Erro NCBI para 19:9076163 - Status: 429
+Erro NCBI para 19:9076929 - Status: 429
+Erro NCBI para 19:9076991 - Status: 429
+Erro NCBI para 19:9077060 - Status: 429
+Erro NCBI para 19:9076950 - Status: 429
+Erro NCBI para 19:9077264 - Status: 429
+Erro NCBI para 19:9077436 - Status: 429
+Erro NCBI para 19:9077581 - Status: 429
+Erro NCBI para 19:9083457 - Status: 429
+Erro NCBI para 19:9084183 - Status: 429
+Erro NCBI para 19:9085643 - Status: 429
+Erro NCBI para 19:9086318 - Status: 429
+Erro NCBI para 19:9086819 - Status: 429
+Erro NCBI para 19:9237435 - Status: 429
+Erro NCBI para 19:9236886 - Status: 429
+Erro NCBI para 19:12989560 - Status: 429
+Erro NCBI para 19:14877848 - Status: 429
+Erro NCBI para 19:14877857 - Status: 429
+Erro NCBI para 19:14910438 - Status: 429
+Erro NCBI para 19:14910440 - Status: 429
+Erro NCBI para 19:14910573 - Status: 429
+Erro NCBI para 19:14938616 - Status: 429
+Erro NCBI para 19:15587345 - Status: 429
+Erro NCBI para 19:15726487 - Status: 429
+Erro NCBI para 19:15726589 - Status: 429
+Erro NCBI para 19:15726560 - Status: 429
+Erro NCBI para 19:15730502 - Status: 429
+Erro NCBI para 19:15784386 - Status: 429
+Erro NCBI para 19:16339715 - Status: 429
+Erro NCBI para 19:17396549 - Status: 429
+Erro NCBI para 19:17397244 - Status: 429
+Erro NCBI para 19:17932190 - Status: 429
+Erro NCBI para 19:18180413 - Status: 429
+Erro NCBI para 19:18180451 - Status: 429
+Erro NCBI para 19:18186575 - Status: 429
+Erro NCBI para 19:18285944 - Status: 429
+Erro NCBI para 19:18288069 - Status: 429
+Erro NCBI para 19:20727555 - Status: 429
+Erro NCBI para 19:20727556 - Status: 429
+Erro NCBI para 19:20727565 - Status: 429
+Erro NCBI para 19:20727604 - Status: 429
+Erro NCBI para 19:20727620 - Status: 429
+Erro NCBI para 19:20727621 - Status: 429
+Erro NCBI para 19:20727623 - Status: 429
+Erro NCBI para 19:20727932 - Status: 429
+Erro NCBI para 19:21131850 - Status: 429
+Erro NCBI para 19:21131870 - Status: 429
+Erro NCBI para 19:21132211 - Status: 429
+Erro NCBI para 19:21132129 - Status: 429
+Erro NCBI para 19:21132394 - Status: 429
+Erro NCBI para 19:21132751 - Status: 429
+Erro NCBI para 19:22154954 - Status: 429
+Erro NCBI para 19:22155696 - Status: 429
+Erro NCBI para 19:22155520 - Status: 429
+Erro NCBI para 19:22155725 - Status: 429
+Erro NCBI para 19:22155715 - Status: 429
+Erro NCBI para 19:22155757 - Status: 429
+Erro NCBI para 19:22155783 - Status: 429
+Erro NCBI para 19:22156858 - Status: 429
+Erro NCBI para 19:22156859 - Status: 429
+Erro NCBI para 19:22156870 - Status: 429
+Erro NCBI para 19:22156992 - Status: 429
+Erro NCBI para 19:22157302 - Status: 429
+Erro NCBI para 19:22156943 - Status: 429
+Erro NCBI para 19:22363413 - Status: 429
+Erro NCBI para 19:22363493 - Status: 429
+Erro NCBI para 19:22363589 - Status: 429
+Erro NCBI para 19:22363631 - Status: 429
+Erro NCBI para 19:22363634 - Status: 429
+Erro NCBI para 19:22363610 - Status: 429
+Erro NCBI para 19:22363650 - Status: 429
+Erro NCBI para 19:22363615 - Status: 429
+Erro NCBI para 19:22363826 - Status: 429
+Erro NCBI para 19:22375868 - Status: 429
+Erro NCBI para 19:22574818 - Status: 429
+Erro NCBI para 19:22574900 - Status: 429
+Erro NCBI para 19:22574969 - Status: 429
+Erro NCBI para 19:22586192 - Status: 429
+Erro NCBI para 19:22868479 - Status: 429
+Erro NCBI para 19:22868484 - Status: 429
+Erro NCBI para 19:22574988 - Status: 429
+Erro NCBI para 19:22868799 - Status: 429
+Erro NCBI para 19:22868928 - Status: 429
+Erro NCBI para 19:22869030 - Status: 429
+Erro NCBI para 19:22937334 - Status: 429
+Erro NCBI para 19:22939326 - Status: 429
+Erro NCBI para 19:22939096 - Status: 429
+Erro NCBI para 19:22939484 - Status: 429
+Erro NCBI para 19:22939540 - Status: 429
+Erro NCBI para 19:22940899 - Status: 429
+Erro NCBI para 19:22868896 - Status: 429
+Erro NCBI para 19:22937148 - Status: 429
+Erro NCBI para 19:24010666 - Status: 429
+Erro NCBI para 19:22940694 - Status: 429
+Erro NCBI para 19:30190522 - Status: 429
+Erro NCBI para 19:30190658 - Status: 429
+Erro NCBI para 19:30192400 - Status: 429
+Erro NCBI para 19:30192599 - Status: 429
+Erro NCBI para 19:30193721 - Status: 429
+Erro NCBI para 19:30206406 - Status: 429
+Erro NCBI para 19:32873698 - Status: 429
+Erro NCBI para 19:36002710 - Status: 429
+Erro NCBI para 19:39590955 - Status: 429
+Erro NCBI para 19:40392631 - Status: 429
+Erro NCBI para 19:40392802 - Status: 429
+Erro NCBI para 19:40392719 - Status: 429
+Erro NCBI para 19:41932084 - Status: 429
+Erro NCBI para 19:41949870 - Status: 429
+Erro NCBI para 19:42085873 - Status: 429
+Erro NCBI para 19:42083849 - Status: 429
+Erro NCBI para 19:43383680 - Status: 429
+Erro NCBI para 19:43382374 - Status: 429
+Erro NCBI para 19:43372386 - Status: 429
+Erro NCBI para 19:43420451 - Status: 429
+Erro NCBI para 19:43439793 - Status: 429
+Erro NCBI para 19:43433805 - Status: 429
+Erro NCBI para 19:43708926 - Status: 429
+Erro NCBI para 19:43709647 - Status: 429
+Erro NCBI para 19:43708978 - Status: 429
+Erro NCBI para 19:43709656 - Status: 429
+Erro NCBI para 19:43860192 - Status: 429
+Erro NCBI para 19:43860251 - Status: 429
+Erro NCBI para 19:43860255 - Status: 429
+Erro NCBI para 19:43865324 - Status: 429
+Erro NCBI para 19:43865333 - Status: 429
+Erro NCBI para 19:43864548 - Status: 429
+Erro NCBI para 19:43865617 - Status: 429
+Erro NCBI para 19:44501627 - Status: 429
+Erro NCBI para 19:44535999 - Status: 429
+Erro NCBI para 19:44833851 - Status: 429
+Erro NCBI para 19:44833506 - Status: 429
+Erro NCBI para 19:44840789 - Status: 429
+Erro NCBI para 19:46264963 - Status: 429
+Erro NCBI para 19:46289392 - Status: 429
+Erro NCBI para 19:46289503 - Status: 429
+Erro NCBI para 19:46443739 - Status: 429
+Erro NCBI para 19:46857015 - Status: 429
+Erro NCBI para 19:46815705 - Status: 429
+Erro NCBI para 19:48543862 - Status: 429
+Erro NCBI para 19:49079246 - Status: 429
+Erro NCBI para 19:49217302 - Status: 429
+Erro NCBI para 19:49218602 - Status: 429
+Erro NCBI para 19:49232226 - Status: 429
+Erro NCBI para 19:50926126 - Status: 429
+Erro NCBI para 19:50726570 - Status: 429
+Erro ao acessar Ensembl para 19:46268902 - Exceção: HTTPSConnectionPool(host='rest.ensembl.org', port=443): Max retries exceeded with url: /overlap/region/human/19:46268902-46268902?feature=gene (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024F6F285AC0>: Failed to establish a new connection: [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu\r\ncorretamente após um período de tempo ou a conexão estabelecida falhou\r\nporque o host conectado não respondeu'))
+Erro NCBI para 19:51537682 - Status: 429
+Erro NCBI para 19:51567897 - Status: 429
+Erro NCBI para 19:51728641 - Status: 429
+Erro NCBI para 19:52521296 - Status: 429
+Erro NCBI para 19:54676814 - Status: 429
+Erro NCBI para 19:54677759 - Status: 429
+Erro NCBI para 19:54724006 - Status: 429
+Erro NCBI para 19:54849481 - Status: 429
+Erro NCBI para 19:54867572 - Status: 429
+Erro NCBI para 19:54871664 - Status: 429
+Erro NCBI para 19:55451050 - Status: 429
+Erro NCBI para 19:55451232 - Status: 429
+Erro NCBI para 19:55451797 - Status: 429
+Erro NCBI para 19:55539072 - Status: 429
+Erro NCBI para 19:55568085 - Status: 429
+Erro NCBI para 19:55568084 - Status: 429
+Erro NCBI para 19:55570574 - Status: 429
+Erro NCBI para 19:55739813 - Status: 429
+Erro NCBI para 19:55739689 - Status: 429
+Erro NCBI para 19:55756980 - Status: 429
+Erro NCBI para 19:56935527 - Status: 429
+Erro NCBI para 19:56953863 - Status: 429
+Erro NCBI para 19:57036012 - Status: 429
+Erro NCBI para 19:57036653 - Status: 429
+Erro NCBI para 19:57037103 - Status: 429
+Erro NCBI para 19:57062047 - Status: 429
+Erro NCBI para 19:57062072 - Status: 429
+Erro NCBI para 19:57335022 - Status: 429
+Erro NCBI para 19:57765432 - Status: 429
+Erro Ensembl (posição inválida): 19:58718360
+Erro Ensembl (posição inválida): 19:58774071
+Erro Ensembl (posição inválida): 19:58790713
+Erro Ensembl (posição inválida): 19:58790675
+Erro Ensembl (posição inválida): 19:58864479
+Erro Ensembl (posição inválida): 19:58868480
+Erro Ensembl (posição inválida): 19:58806083
+Erro Ensembl (posição inválida): 19:58927215
+Erro NCBI para 19:58864479 - Status: 429
+Erro NCBI para 19:58868480 - Status: 429
+Erro NCBI para 19:58806083 - Status: 429
+Erro Ensembl (posição inválida): 19:58928299
+Erro Ensembl (posição inválida): 19:58928302
+Erro NCBI para 19:58927215 - Status: 429
+Erro NCBI para 19:58928299 - Status: 429
+Erro NCBI para 19:58928302 - Status: 429
+Erro Ensembl (posição inválida): 19:58928309
+Erro Ensembl (posição inválida): 19:58929052
+Erro Ensembl (posição inválida): 19:58929136
+Erro Ensembl (posição inválida): 19:58945089
+Erro Ensembl (posição inválida): 19:58945962
+Erro Ensembl (posição inválida): 19:58946056
+Erro Ensembl (posição inválida): 19:58946203
+Erro NCBI para 19:58945089 - Status: 429
+Erro Ensembl (posição inválida): 19:58982384
+Erro NCBI para 19:58945962 - Status: 429
+Erro NCBI para 19:58946056 - Status: 429
+Erro NCBI para 19:58946203 - Status: 429
+Erro Ensembl (posição inválida): 19:58989495
+Erro Ensembl (posição inválida): 19:59023166
+Erro NCBI para 19:58982384 - Status: 429
+Erro NCBI para 19:58989495 - Status: 429
+Erro NCBI para 19:59023166 - Status: 429
+Erro Ensembl (posição inválida): 19:59023174
+Erro Ensembl (posição inválida): 19:59074653
+Erro Ensembl (posição inválida): 19:59028585
+Erro NCBI para 20:126155 - Status: 429
+Erro NCBI para 20:76962 - Status: 429
+Erro NCBI para 20:126310 - Status: 429
+
+Erro NCBI para 20:168728 - Status: 429
+Erro NCBI para 20:238435 - Status: 429
+Erro NCBI para 20:468186 - Status: 429
+Erro NCBI para 20:741847 - Status: 429
+Erro NCBI para 20:744450 - Status: 429
+Erro NCBI para 20:746098 - Status: 429
+Erro NCBI para 20:825678 - Status: 429
+Erro NCBI para 20:3732633 - Status: 429
+Erro NCBI para 20:3686436 - Status: 429
+Erro NCBI para 20:4053254 - Status: 429
+Erro NCBI para 20:5283316 - Status: 429
+Erro NCBI para 20:5903067 - Status: 429
+Erro NCBI para 20:5903894 - Status: 429
+Erro NCBI para 20:5904040 - Status: 429
+Erro NCBI para 20:5933108 - Status: 429
+Erro NCBI para 20:6751034 - Status: 429
+Erro NCBI para 20:6759115 - Status: 429
+Erro NCBI para 20:23472391 - Status: 429
+Erro NCBI para 20:23860178 - Status: 429
+Erro NCBI para 20:29625873 - Status: 429
+Erro NCBI para 20:29625876 - Status: 429
+Erro NCBI para 20:29625925 - Status: 429
+Erro NCBI para 20:29625935 - Status: 429
+Erro NCBI para 20:29625947 - Status: 429
+Erro NCBI para 20:29628237 - Status: 429
+Erro NCBI para 20:29628261 - Status: 429
+Erro NCBI para 20:29632643 - Status: 429
+Erro NCBI para 20:29632674 - Status: 429
+Erro NCBI para 20:29632709 - Status: 429
+Erro NCBI para 20:29632641 - Status: 429
+Erro NCBI para 20:29628328 - Status: 429
+Erro NCBI para 20:29632714 - Status: 429
+Erro NCBI para 20:29652164 - Status: 429
+Erro NCBI para 20:29652166 - Status: 429
+Erro NCBI para 20:29652173 - Status: 429
+Erro NCBI para 20:29652172 - Status: 429
+Erro NCBI para 20:29652182 - Status: 429
+Erro NCBI para 20:29652183 - Status: 429
+Erro NCBI para 20:29652254 - Status: 429
+Erro NCBI para 20:29652235 - Status: 429
+Erro NCBI para 20:29652260 - Status: 429
+Erro NCBI para 20:29652196 - Status: 429
+Erro NCBI para 20:29891201 - Status: 429
+Erro NCBI para 20:29652236 - Status: 429
+Erro NCBI para 20:30433139 - Status: 429
+Erro NCBI para 20:30795819 - Status: 429
+Erro NCBI para 20:30915461 - Status: 429
+Erro NCBI para 20:29632715 - Status: 429
+Erro NCBI para 20:31494382 - Status: 429
+Erro NCBI para 20:31505292 - Status: 429
+Erro NCBI para 20:30777860 - Status: 429
+Erro NCBI para 20:31652292 - Status: 429
+Erro NCBI para 20:31656632 - Status: 429
+Erro NCBI para 20:31609581 - Status: 429
+Erro NCBI para 20:33470694 - Status: 429
+Erro NCBI para 20:34144107 - Status: 429
+Erro NCBI para 20:34164422 - Status: 429
+Erro NCBI para 20:34170316 - Status: 429
+Erro NCBI para 20:34173046 - Status: 429
+Erro NCBI para 20:34170035 - Status: 429
+Erro NCBI para 20:43727155 - Status: 429
+Erro NCBI para 20:48257149 - Status: 429
+Erro NCBI para 20:49576664 - Status: 429
+Erro NCBI para 20:49620783 - Status: 429
+Erro NCBI para 20:50406985 - Status: 429
+Erro NCBI para 20:50407966 - Status: 429
+Erro NCBI para 20:51870849 - Status: 429
+Erro NCBI para 20:50408482 - Status: 429
+Erro NCBI para 20:52786219 - Status: 429
+Erro NCBI para 20:54961463 - Status: 429
+Erro NCBI para 20:55026995 - Status: 429
+Erro NCBI para 20:55111371 - Status: 429
+Erro NCBI para 20:55209257 - Status: 429
+Erro NCBI para 20:55748206 - Status: 429
+Erro NCBI para 20:56063955 - Status: 429
+Erro NCBI para 20:56071399 - Status: 429
+Erro NCBI para 20:56071416 - Status: 429
+Erro NCBI para 20:56137798 - Status: 429
+Erro NCBI para 20:56137807 - Status: 429
+Erro NCBI para 20:56137184 - Status: 429
+Erro NCBI para 20:56137834 - Status: 429
+Erro NCBI para 20:56137895 - Status: 429
+Erro NCBI para 20:56138648 - Status: 429
+Erro NCBI para 20:56139403 - Status: 429
+Erro NCBI para 20:56190634 - Status: 429
+Erro NCBI para 20:56227532 - Status: 429
+Erro NCBI para 20:57022712 - Status: 429
+Erro NCBI para 20:60791404 - Status: 429
+Erro NCBI para 20:60808026 - Status: 429
+Erro NCBI para 20:60881330 - Status: 429
+Erro NCBI para 20:60791422 - Status: 429
+Erro NCBI para 20:60881780 - Status: 429
+Erro NCBI para 20:60893639 - Status: 429
+Erro NCBI para 20:60899206 - Status: 429
+Erro NCBI para 20:60905878 - Status: 429
+Erro NCBI para 20:60904853 - Status: 429
+Erro NCBI para 20:60900481 - Status: 429
+Erro NCBI para 20:60900579 - Status: 429
+Erro NCBI para 20:60907446 - Status: 429
+Erro NCBI para 20:60909060 - Status: 429
+Erro NCBI para 20:60912683 - Status: 429
+Erro NCBI para 20:60917294 - Status: 429
+Erro NCBI para 20:60920624 - Status: 429
+Erro NCBI para 20:60920887 - Status: 429
+Erro NCBI para 20:60927349 - Status: 429
+Erro NCBI para 20:60921643 - Status: 429
+Erro NCBI para 20:60966318 - Status: 429
+Erro NCBI para 20:61040453 - Status: 429
+Erro NCBI para 20:61040951 - Status: 429
+Erro NCBI para 20:61048549 - Status: 429
+Erro NCBI para 20:61167883 - Status: 429
+Erro NCBI para 20:60927412 - Status: 429
+Erro NCBI para 20:62595990 - Status: 429
+Erro NCBI para 21:9907384 - Status: 429
+Erro NCBI para 21:9907416 - Status: 429
+Erro NCBI para 21:9907397 - Status: 429
+Erro NCBI para 21:10862846 - Status: 429
+Erro NCBI para 21:10862853 - Status: 429
+Erro NCBI para 21:10862874 - Status: 429
+Erro NCBI para 21:10910311 - Status: 429
+Erro NCBI para 21:11058226 - Status: 429
+Erro NCBI para 21:11058227 - Status: 429
+Erro NCBI para 21:11058229 - Status: 429
+Erro NCBI para 21:11097557 - Status: 429
+Erro NCBI para 21:11097574 - Status: 429
+Erro NCBI para 21:11098704 - Status: 429
+Erro NCBI para 21:19506651 - Status: 429
+Erro NCBI para 21:19713821 - Status: 429
+Erro NCBI para 21:19670118 - Status: 429
+Erro NCBI para 21:26978950 - Status: 429
+Erro NCBI para 21:27852724 - Status: 429
+Erro NCBI para 21:30250644 - Status: 429
+Erro NCBI para 21:30257560 - Status: 429
+Erro NCBI para 21:30341891 - Status: 429
+Erro NCBI para 21:30357163 - Status: 429
+Erro NCBI para 21:30332911 - Status: 429
+Erro NCBI para 21:30257568 - Status: 429
+Erro NCBI para 21:31802768 - Status: 429
+Erro NCBI para 21:31812772 - Status: 429
+Erro NCBI para 21:31869286 - Status: 429
+Erro NCBI para 21:31812828 - Status: 429
+Erro NCBI para 21:33371123 - Status: 429
+Erro NCBI para 21:33370900 - Status: 429
+Erro NCBI para 21:41137503 - Status: 429
+Erro NCBI para 21:41137507 - Status: 429
+Erro NCBI para 21:42821113 - Status: 429
+Erro NCBI para 21:42817930 - Status: 429
+Erro NCBI para 21:43221483 - Status: 429
+Erro NCBI para 21:43221555 - Status: 429
+Erro NCBI para 21:43239972 - Status: 429
+Erro NCBI para 21:43256252 - Status: 429
+Erro NCBI para 21:43256629 - Status: 429
+Erro NCBI para 21:43315057 - Status: 429
+Erro NCBI para 21:43267260 - Status: 429
+Erro NCBI para 21:43513989 - Status: 429
+Erro NCBI para 21:43523941 - Status: 429
+Erro NCBI para 21:43522349 - Status: 429
+Erro NCBI para 21:43523972 - Status: 429
+Erro NCBI para 21:43838643 - Status: 429
+Erro NCBI para 21:43863521 - Status: 429
+Erro NCBI para 21:44270229 - Status: 429
+Erro NCBI para 21:44837555 - Status: 429
+Erro NCBI para 21:45971109 - Status: 429
+Erro NCBI para 21:45971152 - Status: 429
+Erro NCBI para 21:45971162 - Status: 429
+Erro NCBI para 21:46012182 - Status: 429
+Erro NCBI para 21:46012181 - Status: 429
+Erro NCBI para 21:46012240 - Status: 429
+Erro NCBI para 21:46020527 - Status: 429
+Erro NCBI para 21:46012160 - Status: 429
+Erro NCBI para 21:46021179 - Status: 429
+Erro NCBI para 21:46021088 - Status: 429
+Erro NCBI para 21:46021205 - Status: 429
+Erro NCBI para 21:46021370 - Status: 429
+Erro NCBI para 21:46021390 - Status: 429
+Erro NCBI para 21:46021481 - Status: 429
+Erro NCBI para 21:46047633 - Status: 429
+Erro NCBI para 21:46047418 - Status: 429
+Erro NCBI para 21:46047710 - Status: 429
+Erro NCBI para 21:46047857 - Status: 429
+Erro NCBI para 21:46047925 - Status: 429
+Erro NCBI para 21:46067184 - Status: 429
+Erro NCBI para 21:46057806 - Status: 429
+Erro NCBI para 21:46066764 - Status: 429
+Erro NCBI para 21:46077946 - Status: 429
+Erro NCBI para 21:46074202 - Status: 429
+Erro NCBI para 21:46086377 - Status: 429
+Erro NCBI para 21:46086757 - Status: 429
+Erro Ensembl (posição inválida): 21:46875564
+Erro Ensembl (posição inválida): 21:46876083
+Erro Ensembl (posição inválida): 21:46876173
+Erro Ensembl (posição inválida): 21:46876306
+Erro NCBI para 21:46875564 - Status: 429
+Erro Ensembl (posição inválida): 21:46898243
+Erro Ensembl (posição inválida): 21:46876580
+Erro NCBI para 21:46876173 - Status: 429
+Erro NCBI para 21:46876306 - Status: 429
+Erro Ensembl (posição inválida): 21:46918322
+Erro NCBI para 21:46898243 - Status: 429
+Erro NCBI para 21:46876580 - Status: 429
+Erro NCBI para 21:46918322 - Status: 429
+Erro Ensembl (posição inválida): 21:46918387
+Erro Ensembl (posição inválida): 21:46924425
+Erro Ensembl (posição inválida): 21:46929467
+Erro Ensembl (posição inválida): 21:46951556
+Erro Ensembl (posição inválida): 21:46957794
+Erro Ensembl (posição inválida): 21:47329352
+Erro Ensembl (posição inválida): 21:46908355
+Erro Ensembl (posição inválida): 21:47410931
+Erro Ensembl (posição inválida): 21:47423389
+Erro NCBI para 21:46951556 - Status: 429
+Erro NCBI para 21:46957794 - Status: 429
+Erro NCBI para 21:47329352 - Status: 429
+Erro Ensembl (posição inválida): 21:47423507
+Erro NCBI para 21:46908355 - Status: 429
+Erro NCBI para 21:47410931 - Status: 429
+Erro NCBI para 21:47423389 - Status: 429
+Erro NCBI para 21:47423507 - Status: 429
+Erro Ensembl (posição inválida): 21:47423636
+Erro Ensembl (posição inválida): 21:47538960
+Erro Ensembl (posição inválida): 21:47552103
+Erro Ensembl (posição inválida): 21:47552385
+Erro Ensembl (posição inválida): 21:47552130
+Erro Ensembl (posição inválida): 21:47556793
+Erro Ensembl (posição inválida): 21:47556809
+Erro Ensembl (posição inválida): 21:47608580
+Erro Ensembl (posição inválida): 21:47602719
+Erro NCBI para 21:47552130 - Status: 429
+Erro NCBI para 21:47556793 - Status: 429
+Erro Ensembl (posição inválida): 21:47609677
+Erro NCBI para 21:47556809 - Status: 429
+Erro NCBI para 21:47608580 - Status: 429
+Erro NCBI para 21:47602719 - Status: 429
+Erro NCBI para 21:47609677 - Status: 429
+Erro Ensembl (posição inválida): 21:47612466
+Erro Ensembl (posição inválida): 21:47612471
+Erro Ensembl (posição inválida): 21:47612512
+Erro Ensembl (posição inválida): 21:47612867
+Erro Ensembl (posição inválida): 21:47612720
+Erro Ensembl (posição inválida): 21:47613004
+Erro Ensembl (posição inválida): 21:47613161
+Erro Ensembl (posição inválida): 21:47613168
+Erro Ensembl (posição inválida): 21:47613570
+Erro Ensembl (posição inválida): 21:47613623
+Erro NCBI para 21:47613004 - Status: 429
+Erro NCBI para 21:47613161 - Status: 429
+Erro NCBI para 21:47613168 - Status: 429
+Erro NCBI para 21:47613570 - Status: 429
+Erro NCBI para 21:47613623 - Status: 429
+Erro Ensembl (posição inválida): 21:47614469
+Erro Ensembl (posição inválida): 21:47635176
+Erro Ensembl (posição inválida): 21:47641794
+Erro Ensembl (posição inválida): 21:47635627
+Erro Ensembl (posição inválida): 21:47703649
+Erro Ensembl (posição inválida): 21:47642609
+Erro Ensembl (posição inválida): 21:47704896
+Erro Ensembl (posição inválida): 21:47734842
+Erro NCBI para 21:47635627 - Status: 429
+Erro NCBI para 21:47703649 - Status: 429
+Erro NCBI para 21:47642609 - Status: 429
+Erro NCBI para 21:47612720 - Status: 429
+Erro NCBI para 21:47612512 - Status: 429
+Erro NCBI para 21:47704896 - Status: 429
+Erro NCBI para 21:47734842 - Status: 429
+Erro Ensembl (posição inválida): 21:47734844
+Erro Ensembl (posição inválida): 21:47773103
+Erro Ensembl (posição inválida): 21:47777063
+Erro Ensembl (posição inválida): 21:47783796
+Erro Ensembl (posição inválida): 21:47786817
+Erro Ensembl (posição inválida): 21:47787002
+Erro Ensembl (posição inválida): 21:47811272
+Erro Ensembl (posição inválida): 21:47836653
+Erro Ensembl (posição inválida): 21:47850484
+Erro Ensembl (posição inválida): 21:47851753
+Erro NCBI para 21:47783796 - Status: 429
+Erro NCBI para 21:47787002 - Status: 429
+Erro NCBI para 21:47786817 - Status: 429
+Erro NCBI para 21:47811272 - Status: 429
+Erro NCBI para 21:47836653 - Status: 429
+Erro NCBI para 21:47850484 - Status: 429
+Erro NCBI para 21:47851753 - Status: 429
+Erro Ensembl (posição inválida): 21:47910523
+Erro Ensembl (posição inválida): 21:47863757
+Erro Ensembl (posição inválida): 21:47970581
+Erro Ensembl (posição inválida): 21:47918662
+Erro Ensembl (posição inválida): 21:47959698
+Erro Ensembl (posição inválida): 21:47961711
+Erro Ensembl (posição inválida): 21:47978321
+Erro Ensembl (posição inválida): 21:48022230
+Erro Ensembl (posição inválida): 21:47974582
+Erro Ensembl (posição inválida): 21:48063476
+Erro NCBI para 21:47959698 - Status: 429
+Erro NCBI para 21:47961711 - Status: 429
+Erro NCBI para 21:47978321 - Status: 429
+Erro NCBI para 21:48022230 - Status: 429
+Erro NCBI para 21:47974582 - Status: 429
+Erro NCBI para 21:48063476 - Status: 429
+Erro NCBI para 22:16277852 - Status: 429
+Erro NCBI para 22:16157827 - Status: 429
+Erro NCBI para 22:16269934 - Status: 429
+Erro NCBI para 22:17072483 - Status: 429
+Erro NCBI para 22:17073066 - Status: 429
+Erro NCBI para 22:18905978 - Status: 429
+Erro NCBI para 22:21403376 - Status: 429
+Erro NCBI para 22:21400282 - Status: 429
+Erro NCBI para 22:21637824 - Status: 429
+Erro NCBI para 22:21637998 - Status: 429
+Erro NCBI para 22:21638109 - Status: 429
+Erro NCBI para 22:21638249 - Status: 429
+Erro NCBI para 22:21638256 - Status: 429
+Erro NCBI para 22:21638268 - Status: 429
+Erro NCBI para 22:21637859 - Status: 429
+Erro NCBI para 22:21638513 - Status: 429
+Erro NCBI para 22:21638479 - Status: 429
+Erro NCBI para 22:21638468 - Status: 429
+Erro NCBI para 22:22385660 - Status: 429
+Erro NCBI para 22:22385687 - Status: 429
+Erro NCBI para 22:22385669 - Status: 429
+Erro NCBI para 22:21984205 - Status: 429
+Erro NCBI para 22:22385706 - Status: 429
+Erro NCBI para 22:22385719 - Status: 429
+Erro NCBI para 22:22385781 - Status: 429
+Erro NCBI para 22:22385831 - Status: 429
+Erro NCBI para 22:22385838 - Status: 429
+Erro NCBI para 22:22385843 - Status: 429
+Erro NCBI para 22:22385849 - Status: 429
+Erro NCBI para 22:22385858 - Status: 429
+Erro NCBI para 22:22730634 - Status: 429
+Erro NCBI para 22:22868493 - Status: 429
+Erro NCBI para 22:22868497 - Status: 429
+Erro NCBI para 22:22843118 - Status: 429
+Erro NCBI para 22:22868773 - Status: 429
+Erro NCBI para 22:22868776 - Status: 429
+Erro NCBI para 22:22869123 - Status: 429
+Erro NCBI para 22:22869548 - Status: 429
+Erro NCBI para 22:22869649 - Status: 429
+Erro NCBI para 22:22869742 - Status: 429
+Erro NCBI para 22:22985617 - Status: 429
+Erro NCBI para 22:22985819 - Status: 429
+Erro NCBI para 22:22985746 - Status: 429
+Erro NCBI para 22:22988911 - Status: 429
+Erro NCBI para 22:22989256 - Status: 429
+Erro NCBI para 22:22989520 - Status: 429
+Erro NCBI para 22:23029263 - Status: 429
+Erro NCBI para 22:23040691 - Status: 429
+Erro NCBI para 22:23040729 - Status: 429
+Erro NCBI para 22:23040767 - Status: 429
+Erro NCBI para 22:23040770 - Status: 429
+Erro NCBI para 22:23040765 - Status: 429
+Erro NCBI para 22:30688659 - Status: 429
+Erro NCBI para 22:31032920 - Status: 429
+Erro NCBI para 22:31363813 - Status: 429
+Erro NCBI para 22:36122930 - Status: 429
+Erro NCBI para 22:36545137 - Status: 429
+Erro NCBI para 22:36556823 - Status: 429
+Erro NCBI para 22:37603744 - Status: 429
+Erro NCBI para 22:39445554 - Status: 429
+Erro NCBI para 22:39496322 - Status: 429
+Erro NCBI para 22:39496336 - Status: 429
+Erro NCBI para 22:39496412 - Status: 429
+Erro NCBI para 22:39497404 - Status: 429
+Erro NCBI para 22:39497452 - Status: 429
+Erro NCBI para 22:39497454 - Status: 429
+Erro NCBI para 22:39714490 - Status: 429
+Erro NCBI para 22:41551039 - Status: 429
+Erro NCBI para 22:42473603 - Status: 429
+Erro NCBI para 22:42537227 - Status: 429
+Erro NCBI para 22:42537241 - Status: 429
+Erro NCBI para 22:42537252 - Status: 429
+Erro NCBI para 22:42537271 - Status: 429
+Erro NCBI para 22:42537280 - Status: 429
+Erro NCBI para 22:42537404 - Status: 429
+Erro NCBI para 22:42537597 - Status: 429
+Erro NCBI para 22:42538508 - Status: 429
+Erro NCBI para 22:42538029 - Status: 429
+Erro NCBI para 22:42783070 - Status: 429
+Erro NCBI para 22:44368204 - Status: 429
+Erro NCBI para 22:44489868 - Status: 429
+Erro NCBI para 22:44489896 - Status: 429
+Erro NCBI para 22:44602229 - Status: 429
+Erro NCBI para 22:45126775 - Status: 429
+Erro NCBI para 22:45128232 - Status: 429
+Erro NCBI para 22:48940553 - Status: 429
+Erro NCBI para 22:49246723 - Status: 429
+Erro NCBI para 22:50754648 - Status: 429
+Erro Ensembl (posição inválida): 22:50877166
+Erro Ensembl (posição inválida): 22:50878196
+Erro Ensembl (posição inválida): 22:50885775
+Erro Ensembl (posição inválida): 22:50921644
+Erro NCBI para 22:50877166 - Status: 429
+Erro Ensembl (posição inválida): 22:50941985
+Erro NCBI para 22:50878196 - Status: 429
+Erro NCBI para 22:50885775 - Status: 429
+Erro NCBI para 22:50921644 - Status: 429
+Erro Ensembl (posição inválida): 22:50944128
+Erro Ensembl (posição inválida): 22:50960682
+Erro Ensembl (posição inválida): 22:50944163
+Erro Ensembl (posição inválida): 22:50962208
+Erro Ensembl (posição inválida): 22:50962782
+Erro NCBI para 22:50962782 - Status: 429
+Erro Ensembl (posição inválida): 22:50964236
+Erro Ensembl (posição inválida): 22:50987287
+Erro Ensembl (posição inválida): 22:50988193
+Erro Ensembl (posição inválida): 22:51009953
+Erro NCBI para 22:50964236 - Status: 429
+Erro Ensembl (posição inválida): 22:51011376
+Erro NCBI para 22:50987287 - Status: 429
+Erro NCBI para 22:50988193 - Status: 429
+Erro NCBI para 22:51009953 - Status: 429
+Erro Ensembl (posição inválida): 22:51012311
+Erro Ensembl (posição inválida): 22:51015838
+Erro Ensembl (posição inválida): 22:51042513
+Erro Ensembl (posição inválida): 22:51043278
+Erro Ensembl (posição inválida): 22:51045190
+Erro NCBI para 22:51011376 - Status: 429
+Erro NCBI para 22:51045190 - Status: 429
+Erro Ensembl (posição inválida): 22:51064039
+Erro Ensembl (posição inválida): 22:51117580
+Erro NCBI para 22:51064039 - Status: 429
+Erro NCBI para 22:51117580 - Status: 429
+Erro NCBI para X:200860 - Status: 429
+Erro NCBI para X:207362 - Status: 429
+Erro NCBI para X:228892 - Status: 429
+Erro NCBI para X:322161 - Status: 429
+Erro NCBI para X:320580 - Status: 429
+Erro NCBI para X:1331495 - Status: 429
+Erro NCBI para X:3238167 - Status: 429
+Erro NCBI para X:3238733 - Status: 429
+Erro NCBI para X:3239545 - Status: 429
+Erro NCBI para X:3240343 - Status: 429
+Erro NCBI para X:3241050 - Status: 429
+Erro NCBI para X:3241256 - Status: 429
+Erro NCBI para X:3241284 - Status: 429
+Erro NCBI para X:5821786 - Status: 429
+Erro NCBI para X:5811532 - Status: 429
+Erro NCBI para X:6451864 - Status: 429
+Erro NCBI para X:6451869 - Status: 429
+Erro NCBI para X:7811645 - Status: 429
+Erro NCBI para X:7811974 - Status: 429
+Erro NCBI para X:7811979 - Status: 429
+Erro NCBI para X:12939112 - Status: 429
+Erro NCBI para X:12939412 - Status: 429
+Erro NCBI para X:12939928 - Status: 429
+Erro NCBI para X:21900695 - Status: 429
+Erro NCBI para X:24330071 - Status: 429
+Erro NCBI para X:27766045 - Status: 429
+Erro NCBI para X:27766776 - Status: 429
+Erro NCBI para X:30577846 - Status: 429
+Erro NCBI para X:30261158 - Status: 429
+Erro NCBI para X:35820795 - Status: 429
+Erro NCBI para X:35820696 - Status: 429
+Erro NCBI para X:35821056 - Status: 429
+Erro NCBI para X:35821055 - Status: 429
+Erro NCBI para X:35821127 - Status: 429
+Erro NCBI para X:47343254 - Status: 429
+Erro NCBI para X:47444879 - Status: 429
+Erro NCBI para X:47444985 - Status: 429
+Erro NCBI para X:48382174 - Status: 429
+Erro NCBI para X:48418126 - Status: 429
+Erro NCBI para X:48418659 - Status: 429
+Erro NCBI para X:49022700 - Status: 429
+Erro NCBI para X:50129369 - Status: 429
+Erro NCBI para X:50121146 - Status: 429
+Erro NCBI para X:51075841 - Status: 429
+Erro NCBI para X:55116466 - Status: 429
+Erro NCBI para X:71363415 - Status: 429
+Erro NCBI para X:78426988 - Status: 429
+Erro NCBI para X:79698593 - Status: 429
+Erro NCBI para X:79943569 - Status: 429
+Erro NCBI para X:89177673 - Status: 429
+Erro NCBI para X:92927634 - Status: 429
+Erro NCBI para X:99849017 - Status: 429
+Erro NCBI para X:99941705 - Status: 429
+Erro NCBI para X:100098355 - Status: 429
+Erro NCBI para X:99661969 - Status: 429
+Erro NCBI para X:100243459 - Status: 429
+Erro NCBI para X:100745825 - Status: 429
+Erro NCBI para X:100748078 - Status: 429
+Erro NCBI para X:100749038 - Status: 429
+Erro NCBI para X:100749041 - Status: 429
+Erro NCBI para X:100749585 - Status: 429
+Erro NCBI para X:104464281 - Status: 429
+Erro NCBI para X:104464276 - Status: 429
+Erro NCBI para X:107037795 - Status: 429
+Erro NCBI para X:107417730 - Status: 429
+Erro NCBI para X:108708433 - Status: 429
+Erro NCBI para X:122537277 - Status: 429
+Erro NCBI para X:123041043 - Status: 429
+Erro NCBI para X:123041834 - Status: 429
+Erro NCBI para X:123042707 - Status: 429
+Erro NCBI para X:123043324 - Status: 429
+Erro NCBI para X:123043876 - Status: 429
+Erro NCBI para X:123043705 - Status: 429
+Erro NCBI para X:123045219 - Status: 429
+Erro NCBI para X:123045327 - Status: 429
+Erro NCBI para X:123045641 - Status: 429
+Erro NCBI para X:123046066 - Status: 429
+Erro NCBI para X:123045915 - Status: 429
+Erro NCBI para X:123046099 - Status: 429
+Erro NCBI para X:123046923 - Status: 429
+Erro NCBI para X:123047282 - Status: 429
+Erro NCBI para X:123047453 - Status: 429
+Erro NCBI para X:123554646 - Status: 429
+Erro NCBI para X:125955428 - Status: 429
+Erro NCBI para X:130420006 - Status: 429
+Erro NCBI para X:130433683 - Status: 429
+Erro NCBI para X:132161673 - Status: 429
+Erro NCBI para X:134156121 - Status: 429
+Erro NCBI para X:134185997 - Status: 429
+Erro NCBI para X:134948034 - Status: 429
+Erro NCBI para X:135431236 - Status: 429
+Erro NCBI para X:135474420 - Status: 429
+Erro NCBI para X:135429503 - Status: 429
+Erro NCBI para X:135474444 - Status: 429
+Erro NCBI para X:135480126 - Status: 429
+Erro NCBI para X:135496398 - Status: 429
+Erro NCBI para X:135730555 - Status: 429
+Erro NCBI para X:135956391 - Status: 429
+Erro NCBI para X:135956462 - Status: 429
+Erro NCBI para X:135956467 - Status: 429
+Erro NCBI para X:135956506 - Status: 429
+Erro NCBI para X:135956575 - Status: 429
+Erro NCBI para X:135960119 - Status: 429
+Erro NCBI para X:135960146 - Status: 429
+Erro NCBI para X:144904252 - Status: 429
+Erro NCBI para X:145076302 - Status: 429
+Erro NCBI para X:147800748 - Status: 429
+Erro NCBI para X:150565330 - Status: 429
+Erro NCBI para X:151092126 - Status: 429
+Erro NCBI para X:151092220 - Status: 429
+Erro NCBI para X:151821277 - Status: 429
+Erro NCBI para X:151899913 - Status: 429
+Erro NCBI para X:152018832 - Status: 429
+Erro NCBI para X:152083059 - Status: 429
+Erro NCBI para X:153035798 - Status: 429
+Erro NCBI para X:153008970 - Status: 429
+Erro NCBI para X:153039502 - Status: 429
+Erro NCBI para X:153149715 - Status: 429
+Erro NCBI para X:153284192 - Status: 429
+Erro NCBI para X:153284483 - Status: 429
+Erro NCBI para X:153629155 - Status: 429
+Erro NCBI para X:154456747 - Status: 429
+Erro NCBI para X:155252736 - Status: 429
+Erro NCBI para X:155252758 - Status: 429
+Erro NCBI para X:155252868 - Status: 429
+Erro NCBI para X:155252987 - Status: 429
+Erro NCBI para X:155253904 - Status: 429
+Erro NCBI para X:155253916 - Status: 429
+Erro NCBI para X:155255024 - Status: 429
+Erro NCBI para 1:897564 - Status: 429

@@ -1,0 +1,34 @@
+Building DAG of jobs...
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job                  count
+-----------------  -------
+all                      1
+annotate_variants        1
+total                    2
+
+Select jobs to execute...
+
+[Tue Jan  7 13:47:02 2025]
+rule annotate_variants:
+    input: data/NIST.vcf
+    output: data/annotated_variants.tsv
+    jobid: 1
+    reason: Missing output files: data/annotated_variants.tsv
+    resources: tmpdir=C:\Users\marcu\AppData\Local\Temp
+
+[Tue Jan  7 13:47:05 2025]
+Error in rule annotate_variants:
+    jobid: 1
+    input: data/NIST.vcf
+    output: data/annotated_variants.tsv
+
+RuleException:
+CalledProcessError in file C:\Users\marcu\OneDrive\Documentos\dasa\bioinformatics-pipeline\pipeline\Snakefile, line 11:
+Command 'c:/users/marcu/appdata/local/programs/python/python38/python.exe "C:\Users\marcu\OneDrive\Documentos\dasa\bioinformatics-pipeline\.snakemake\scripts\tmpto1jugsw.annotate_variants.py"' returned non-zero exit status 1.
+  File "C:\Users\marcu\OneDrive\Documentos\dasa\bioinformatics-pipeline\pipeline\Snakefile", line 11, in __rule_annotate_variants
+  File "c:\users\marcu\appdata\local\programs\python\python38\lib\concurrent\futures\thread.py", line 57, in run
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake\log\2025-01-07T134702.456289.snakemake.log

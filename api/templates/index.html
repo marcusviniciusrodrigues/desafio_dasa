@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DASA Genomics</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { display: flex; justify-content: space-between; align-items: center; background-color: #f8f9fa; padding: 10px 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); }
+        header .left { font-size: 20px; font-weight: bold; color: #343a40; }
+        header .right { font-size: 16px; color: #6c757d; }
+        footer { text-align: right; position: fixed; bottom: 10px; right: 20px; font-size: 14px; color: #6c757d; }
+        .content { padding: 20px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        form { margin-bottom: 20px; }
+        label { margin-right: 10px; }
+        button { padding: 5px 10px; background-color: #007bff; color: white; border: none; border-radius: 3px; cursor: pointer; }
+        button:hover { background-color: #0056b3; }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="left">DASA Genomics</div>
+        <div class="right">Pesquisa e Desenvolvimento</div>
+    </header>
+    <div class="content">
+        <h1>Filtrar Variantes</h1>
+        <form id="filter-form">
+            <label for="frequency">Frequência mínima:</label>
+            <input type="number" id="frequency" name="frequency" step="0.01" value="0.01" required>
+            <label for="depth">Profundidade mínima:</label>
+            <input type="number" id="depth" name="depth" value="30" required>
+            <button type="submit">Filtrar</button>
+        </form>
+        <div id="result">
+            <table id="variants-table">
+                <thead>
+                    <tr>
+                        <th>CHROM</th>
+                        <th>POS</th>
+                        <th>ID</th>
+                        <th>REF</th>
+                        <th>ALT</th>
+                        <th>FREQUENCY</th>
+                        <th>DP</th>
+                        <th>GENE</th> <!-- Adicionando a coluna GENE -->
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <footer>
+        Feito por: Marcus Vinicius da Silva Rodrigues
+    </footer>
+    <script>
+        const form = document.getElementById("filter-form");
+        const tableBody = document.querySelector("#variants-table tbody");
+
+        form.addEventListener("submit", async (e) => {
+            e.preventDefault();
+            const frequency = document.getElementById("frequency").value;
+            const depth = document.getElementById("depth").value;
+
+            const response = await fetch(`/variants/filter?frequency=${frequency}&depth=${depth}`);
+            if (response.ok) {
+                const data = await response.json();
+                tableBody.innerHTML = ""; // Limpa a tabela
+                data.forEach(variant => {
+                    const row = `<tr>
+                        <td>${variant.CHROM}</td>
+                        <td>${variant.POS}</td>
+                        <td>${variant.ID}</td>
+                        <td>${variant.REF}</td>
+                        <td>${variant.ALT}</td>
+                        <td>${variant.FREQUENCY}</td>
+                        <td>${variant.DP}</td>
+                        <td>${variant.GENE}</td> <!-- Adicionando os dados da coluna GENE -->
+                    </tr>`;
+                    tableBody.innerHTML += row;
+                });
+            } else {
+                alert("Erro ao buscar variantes.");
+            }
+        });
+    </script>
+</body>
+</html>
