@@ -1,6 +1,7 @@
 from flask import Flask, jsonify, request, render_template
 import pandas as pd
 import logging
+import os
 
 app = Flask(__name__, template_folder="templates")
 
@@ -21,6 +22,10 @@ def load_data(file_path):
     except Exception as e:
         logger.error(f"Erro ao carregar o arquivo: {e}")
 
+# Determinar o caminho absoluto do arquivo baseado no diretório do script
+current_dir = os.path.dirname(os.path.abspath(__file__))
+data_file_path = os.path.join(current_dir, "../data/annotated_variants.tsv")
+
 @app.route("/")
 def index():
     return render_template("index.html")
@@ -29,7 +34,7 @@ def index():
 def get_all_variants():
     if df is None:
         return jsonify({"error": "Nenhum dado carregado"}), 500
-    
+
     page = request.args.get("page", default=1, type=int)
     limit = request.args.get("limit", default=100, type=int)
     start = (page - 1) * limit
@@ -57,5 +62,5 @@ def filter_variants():
     return filtered_df.to_json(orient="records")
 
 if __name__ == "__main__":
-    load_data("C:/Users/marcu/OneDrive/Documentos/dasa/bioinformatics-pipeline/data/annotated_variants.tsv")
-    app.run(debug=True)
+    load_data(data_file_path)
+    app.run(debug=True, host="0.0.0.0")
