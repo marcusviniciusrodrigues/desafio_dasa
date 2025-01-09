@@ -61,7 +61,7 @@ bioinformatics-pipeline/
 
 ├── Dockerfile                 # Configuração para criar a imagem Docker
 
-└── docker-compose.yml         # (Opcional) Arquivo para gerenciar contêineres com Docker Compose
+└── docker-compose.yml         # Arquivo para gerenciar contêineres com Docker Compose
 
 ### Pré-Requisitos ###
 
