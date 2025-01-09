@@ -84,7 +84,7 @@ Para executar os comandos a seguir é possivel utilizar o "cmd" do Windows ou te
 ### Configuração do Ambiente ###
 1. Clone o repositório do projeto para o seu sistema após escolher a pasta de destino:
 
-git clone https://github.com/marcusviniciusrodrigues/dasa-genomics.git
+git clone https://github.com/marcusviniciusrodrigues/desafio_dasa.git
 
 cd dasa-genomics
 
