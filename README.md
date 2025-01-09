@@ -14,6 +14,7 @@ Componentes do Projeto
 ### Pipeline de Bioinformática ###
 Utiliza Snakemake para automatizar o processamento e anotação do arquivo VCF.
 O pipeline gera um arquivo anotado (annotated_variants.tsv) com colunas:
+
 CHROM, POS, ID, REF, ALT, QUAL, FILTER, INFO, FORMAT, SAMPLE, GENE, FREQUENCY, DP.
 
 ### API Flask ###
@@ -65,48 +66,59 @@ Marque as opções de C++ e visual https://visualstudio.microsoft.com/visual-cpp
 ### Configuração do Ambiente ###
 1. Clone o Repositório
 Clone o repositório do projeto para o seu sistema:
+
 git clone https://github.com/marcusviniciusrodrigues/dasa-genomics.git
 cd dasa-genomics
 
-2. Instale as Dependências
+3. Instale as Dependências
 Crie e ative um ambiente virtual:
+
 python -m venv venv
 source venv/bin/activate  # (Linux/macOS)
 venv\Scripts\activate     # (Windows)
 
 ### Instale as dependências do projeto:
+
 pip install -r requirements.txt
 
 
 Execução do Projeto
 1. Executar o Pipeline
 Para processar o arquivo VCF, execute:
+
 snakemake --snakefile pipeline/Snakefile --cores 1
 O arquivo resultante será salvo em data/annotated_variants.tsv.
 
-2. Executar a API
+3. Executar a API
 Entre no diretório da API:
+
 cd api
 python app.py
 A API estará disponível em http://127.0.0.1:5000.
 
-3. Executar via Docker
+5. Executar via Docker
 Construa a imagem Docker:
+
 docker build -t dasa-genomics .
 
 Execute o contêiner:
+
 docker run -p 5000:5000 -v "$(pwd)/data:/app/data" -e DATA_FILE_PATH=/app/data/annotated_variants.tsv dasa-genomics
 
 Ou use o Docker Compose:
+
 docker-compose up
 
 Endpoints da API
+
 http://127.0.0.1:5000
 Retorna a página inicial da interface web.
 
 Lista todas as variantes, com suporte à paginação:
+
 http://127.0.0.1:5000/variants?page=1&limit=100
 
 Filtra variantes com base em frequência (frequency) e profundidade (depth):
+
 http://127.0.0.1:5000/variants/filter?frequency=0.01&depth=30
 
