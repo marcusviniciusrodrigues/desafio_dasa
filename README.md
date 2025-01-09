@@ -98,6 +98,8 @@ venv\Scripts\activate     #Windows
 
 3. Instale as dependências do projeto:
 
+cd desafio_dasa
+
 pip install -r requirements.txt
 
 
