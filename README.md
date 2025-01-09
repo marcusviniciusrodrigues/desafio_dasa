@@ -34,6 +34,7 @@ Estrutura do Projeto
 A estrutura do projeto segue a seguinte organização de diretórios e arquivos:
 
 bioinformatics-pipeline/
+
 ├── api/
 
 │   ├── app.py                 # Código da API Flask
@@ -43,6 +44,7 @@ bioinformatics-pipeline/
 │   │   └── index.html         # Interface web
 
 ├── pipeline/
+
 │   ├── Snakefile              # Workflow do Snakemake
 
 │   ├── scripts/
