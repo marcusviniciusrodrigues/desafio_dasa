@@ -9,7 +9,8 @@ Extrair informações de frequência (AF) e profundidade (DP) das variantes.
 Criar uma API interativa para consumir os dados anotados.
 Desenvolver uma interface web para visualizar e filtrar as variantes.
 Empacotar a solução em um contêiner Docker, facilitando a portabilidade e a execução.
-Componentes do Projeto
+
+Componentes do Projeto:
 
 ### Pipeline de Bioinformática ###
 Utiliza Snakemake para automatizar o processamento e anotação do arquivo VCF.
