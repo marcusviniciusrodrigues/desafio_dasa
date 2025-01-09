@@ -71,7 +71,7 @@ Certifique-se de que as seguintes ferramentas estejam instaladas no seu sistema:
 
 Python (>= 3.8) https://www.python.org/downloads/
 
-Snakemake (disponível a partir da execução do arquivo requirements.txt
+Snakemake (disponível a partir da execução do arquivo requirements.txt)
 
 Docker https://www.docker.com/
 
