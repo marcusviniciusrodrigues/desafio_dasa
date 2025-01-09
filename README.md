@@ -79,16 +79,21 @@ Marque as opções de C++ e visual https://visualstudio.microsoft.com/visual-cpp
 
 ### Configuração do Ambiente ###
 1. Clone o Repositório
+   
 Clone o repositório do projeto para o seu sistema:
 
 git clone https://github.com/marcusviniciusrodrigues/dasa-genomics.git
+
 cd dasa-genomics
 
 3. Instale as Dependências
+   
 Crie e ative um ambiente virtual:
 
 python -m venv venv
+
 source venv/bin/activate  # (Linux/macOS)
+
 venv\Scripts\activate     # (Windows)
 
 ### Instale as dependências do projeto:
@@ -98,19 +103,24 @@ pip install -r requirements.txt
 
 Execução do Projeto
 1. Executar o Pipeline
+   
 Para processar o arquivo VCF, execute:
 
 snakemake --snakefile pipeline/Snakefile --cores 1
+
 O arquivo resultante será salvo em data/annotated_variants.tsv.
 
 3. Executar a API
 Entre no diretório da API:
 
 cd api
+
 python app.py
+
 A API estará disponível em http://127.0.0.1:5000.
 
 5. Executar via Docker
+   
 Construa a imagem Docker:
 
 docker build -t dasa-genomics .
@@ -126,6 +136,7 @@ docker-compose up
 Endpoints da API
 
 http://127.0.0.1:5000
+
 Retorna a página inicial da interface web.
 
 Lista todas as variantes, com suporte à paginação:
