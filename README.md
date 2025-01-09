@@ -31,7 +31,8 @@ Permite visualização, pesquisa e filtragem das variantes.
 ### Container Docker ###
 O projeto é empacotado em uma imagem Docker, simplificando sua execução e implantação.
 
-Estrutura do Projeto
+Estrutura do Projeto:
+
 A estrutura do projeto segue a seguinte organização de diretórios e arquivos:
 
 bioinformatics-pipeline/
