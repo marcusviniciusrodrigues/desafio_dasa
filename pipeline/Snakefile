@@ -7,5 +7,7 @@ rule annotate_variants:
         "data/NIST.vcf"
     output:
         "data/annotated_variants.tsv"
-    script:
-        "scripts/annotate_variants.py"
+    shell:
+        """
+        python pipeline/scripts/annotate_variants.py {input} {output}
+        """
