@@ -55,6 +55,7 @@ Python (>= 3.8)
 Snakemake
 Docker
 Git
+Marque as opções de C++ e visual https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 ### Configuração do Ambiente ###
 1. Clone o Repositório
