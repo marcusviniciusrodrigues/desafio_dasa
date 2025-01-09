@@ -51,10 +51,15 @@ bioinformatics-pipeline/
 ### Pré-Requisitos ###
 
 Certifique-se de que as seguintes ferramentas estejam instaladas no seu sistema:
+
 Python (>= 3.8)
+
 Snakemake
+
 Docker
+
 Git
+
 Marque as opções de C++ e visual https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 ### Configuração do Ambiente ###
