@@ -36,17 +36,26 @@ A estrutura do projeto segue a seguinte organização de diretórios e arquivos:
 bioinformatics-pipeline/
 ├── api/
 │   ├── app.py                 # Código da API Flask
+
 │   ├── templates/
 │   │   └── index.html         # Interface web
+
 ├── pipeline/
 │   ├── Snakefile              # Workflow do Snakemake
+
 │   ├── scripts/
 │   │   └── annotate_variants.py  # Script de anotação de variantes
+
 ├── data/                      # Diretório para arquivos de entrada/saída
+
 │   ├── annotated_variants.tsv # Arquivo gerado pelo pipeline
+
 │   └── NIST.vcf               # Arquivo VCF de entrada
+
 ├── requirements.txt           # Bibliotecas Python necessárias
+
 ├── Dockerfile                 # Configuração para criar a imagem Docker
+
 └── docker-compose.yml         # (Opcional) Arquivo para gerenciar contêineres com Docker Compose
 
 ### Pré-Requisitos ###
