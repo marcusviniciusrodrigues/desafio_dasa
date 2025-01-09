@@ -1,4 +1,4 @@
-Desafio de Bioinformática
+### Desafio de Bioinformática  - DASA ###
 
 ### Objetivos ###
 Este projeto foi desenvolvido para processar e anotar variantes de um arquivo VCF. 
@@ -10,7 +10,7 @@ Criar uma API interativa para consumir os dados anotados.
 Desenvolver uma interface web para visualizar e filtrar as variantes.
 Empacotar a solução em um contêiner Docker, facilitando a portabilidade e a execução.
 
-Componentes do Projeto:
+### Componentes do Projeto ###
 
 ### Pipeline de Bioinformática ###
 Utiliza Snakemake para automatizar o processamento e anotação do arquivo VCF.
@@ -31,7 +31,7 @@ Permite visualização, pesquisa e filtragem das variantes.
 ### Container Docker ###
 O projeto é empacotado em uma imagem Docker, simplificando sua execução e implantação.
 
-Estrutura do Projeto:
+### Estrutura do Projeto ###
 
 A estrutura do projeto segue a seguinte organização de diretórios e arquivos:
 
@@ -69,18 +69,20 @@ bioinformatics-pipeline/
 
 Certifique-se de que as seguintes ferramentas estejam instaladas no seu sistema:
 
-Python (>= 3.8)
+Python (>= 3.8) https://www.python.org/downloads/
 
-Snakemake
+Snakemake (disponível a partir da execução do arquivo requirements.txt
 
-Docker
+Docker https://www.docker.com/
 
-Git
+Git https://git-scm.com/downloads
 
 Marque as opções de C++ e visual https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
+Para executar os comandos a seguir é possivel utilizar o "cmd" do Windows ou terminal de IDE, como por exemplo o visual studio code (foi testado em ambas opções)
+
 ### Configuração do Ambiente ###
-1. Clone o repositório do projeto para o seu sistema:
+1. Clone o repositório do projeto para o seu sistema após escolher a pasta de destino:
 
 git clone https://github.com/marcusviniciusrodrigues/dasa-genomics.git
 
@@ -99,7 +101,8 @@ venv\Scripts\activate     #Windows
 pip install -r requirements.txt
 
 
-Execução do Projeto
+### Execução do Projeto ###
+
 1. Executar o Pipeline
    
 Para processar o arquivo VCF, execute:
